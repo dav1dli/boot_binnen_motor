@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SBF Binnen — Fragenkatalog Viewer</title>
+  <style>
+    :root { --fg:#222; --muted:#666; --bg:#fff; --accent:#1f7a1f; --border:#ccc; }
+    * { box-sizing: border-box; }
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      max-width: 900px; margin: 30px auto; padding: 0 16px;
+      color: var(--fg); background: var(--bg); line-height: 1.55;
+    }
+    h1 { font-size: 1.4rem; font-weight: normal; margin: 0 0 .5em; }
+    .toolbar {
+      display: flex; flex-wrap: wrap; gap: 12px; align-items: center;
+      padding: 10px 12px; background: #f7f7f7;
+      border: 1px solid var(--border); border-radius: 6px;
+      margin-bottom: 20px;
+    }
+    .toolbar label { font-size: .9rem; color: var(--muted); }
+    .toolbar select, .toolbar button {
+      font: inherit; padding: 4px 10px; border: 1px solid var(--border);
+      background: white; border-radius: 4px; cursor: pointer;
+    }
+    .toolbar button:disabled { opacity: .4; cursor: not-allowed; }
+    .meta { color: var(--muted); font-size: .9rem; margin-bottom: 8px; }
+    .question { font-weight: bold; margin: .8em 0; }
+    ol.answers { list-style: none; padding-left: 0; }
+    ol.answers li {
+      padding: 8px 12px; margin: 6px 0;
+      border: 1px solid var(--border); border-radius: 4px;
+      display: flex; gap: 10px; align-items: flex-start;
+    }
+    ol.answers li.correct {
+      background: #eaf6ea; border-color: var(--accent);
+    }
+    .marker { width: 1.4em; flex: 0 0 auto; color: var(--accent); font-weight: bold; }
+    .marker.wrong { color: #aaa; }
+    .images img { max-width: 100%; height: auto; margin: .8em 0; display: block; }
+    footer { margin-top: 24px; color: var(--muted); font-size: .85rem; }
+  </style>
+</head>
+<body>
+  <h1>Sportbootführerschein Binnen — Fragenkatalog Viewer</h1>
+
+  <div class="toolbar">
+    <label for="lang">Language:</label>
+    <select id="lang">
+      <option value="de">DE</option>
+      <option value="ru">RU</option>
+    </select>
+
+    <label for="qsel">Question:</label>
+    <select id="qsel"></select>
+
+    <button id="prev" type="button">◀ Previous</button>
+    <button id="next" type="button">Next ▶</button>
+  </div>
+
+  <div id="content">
+    <p class="meta">Loading…</p>
+  </div>
+
+  <footer id="footer"></footer>
+
+  <script>
+    // Configurable endpoints — override via <meta> tags or query string
+    // (?data=https://…/questions.json&images=https://…/images/) so the same
+    // file can be hosted anywhere.
+    const params = new URLSearchParams(location.search);
+    const meta = name => document.querySelector(`meta[name="${name}"]`)?.content;
+    const DATA_URL   = params.get('data')   || meta('questions-url') || 'questions.json';
+    const IMAGES_URL = (params.get('images') || meta('images-url')   || 'images/').replace(/\/?$/, '/');
+
+    const state = {
+      questions: [],
+      idx: 0,
+      lang: 'de',
+    };
+
+    const $lang = document.getElementById('lang');
+    const $qsel = document.getElementById('qsel');
+    const $prev = document.getElementById('prev');
+    const $next = document.getElementById('next');
+    const $content = document.getElementById('content');
+    const $footer = document.getElementById('footer');
+
+    async function load() {
+      const r = await fetch(DATA_URL);
+      if (!r.ok) {
+        $content.textContent = `Failed to load ${DATA_URL}`;
+        return;
+      }
+      state.questions = await r.json();
+      // Restore from URL hash if any: #de/q-basi-11-001
+      const hash = location.hash.replace(/^#/, '');
+      if (hash) {
+        const [lang, id] = hash.split('/');
+        if (lang === 'de' || lang === 'ru') state.lang = lang;
+        const i = state.questions.findIndex(q => q.id === id);
+        if (i >= 0) state.idx = i;
+      }
+      $lang.value = state.lang;
+      buildQuestionMenu();
+      render();
+    }
+
+    function buildQuestionMenu() {
+      $qsel.innerHTML = '';
+      state.questions.forEach((q, i) => {
+        const opt = document.createElement('option');
+        opt.value = String(i);
+        opt.textContent =
+          `${q.chapter}#${q.number} — ${q.category}`;
+        $qsel.appendChild(opt);
+      });
+      $qsel.value = String(state.idx);
+    }
+
+    function render() {
+      const q = state.questions[state.idx];
+      if (!q) { $content.textContent = 'No question'; return; }
+
+      const lang = state.lang;
+      const data = q[lang];
+
+      if (!data) {
+        $content.innerHTML = `<p class="meta">No ${lang.toUpperCase()} content for this question.</p>`;
+        return;
+      }
+
+      const imgs = (data.images || [])
+        .map(src => {
+          let url;
+          if (/^https?:\/\//i.test(src) || src.startsWith('//')) {
+            url = src;
+          } else {
+            // Strip a leading "images/" if present, then prefix IMAGES_URL.
+            const rel = src.replace(/^\/+/, '').replace(/^images\//, '');
+            url = IMAGES_URL + rel;
+          }
+          return `<img src="${url}" alt="" loading="lazy" />`;
+        })
+        .join('');
+
+      const answers = data.answers.map((a, i) => {
+        const correct = i === data.correct;
+        const marker = correct ? '✓' : '□';
+        const cls = correct ? 'correct' : '';
+        const mcls = correct ? 'marker' : 'marker wrong';
+        return `<li class="${cls}"><span class="${mcls}">${marker}</span><span>${escapeHtml(a)}</span></li>`;
+      }).join('');
+
+      $content.innerHTML = `
+        <p class="meta">
+          ${q.id} &middot; chapter ${q.chapter} &middot; ${q.category} &middot; #${q.number}
+          &middot; <strong>${lang.toUpperCase()}</strong>
+        </p>
+        <p class="question">${q.number}. ${escapeHtml(data.question)}</p>
+        <div class="images">${imgs}</div>
+        <ol class="answers">${answers}</ol>
+      `;
+
+      $qsel.value = String(state.idx);
+      $prev.disabled = state.idx <= 0;
+      $next.disabled = state.idx >= state.questions.length - 1;
+      $footer.textContent =
+        `Question ${state.idx + 1} of ${state.questions.length}`;
+      location.hash = `${lang}/${q.id}`;
+    }
+
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      })[c]);
+    }
+
+    $lang.addEventListener('change', () => { state.lang = $lang.value; render(); });
+    $qsel.addEventListener('change', () => { state.idx = Number($qsel.value); render(); });
+    $prev.addEventListener('click', () => { if (state.idx > 0) { state.idx--; render(); }});
+    $next.addEventListener('click', () => {
+      if (state.idx < state.questions.length - 1) { state.idx++; render(); }
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.target.tagName === 'SELECT') return;
+      if (e.key === 'ArrowLeft')  $prev.click();
+      if (e.key === 'ArrowRight') $next.click();
+    });
+
+    load();
+  </script>
+</body>
+</html>

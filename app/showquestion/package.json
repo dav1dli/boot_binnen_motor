@@ -1,0 +1,10 @@
+{
+  "name": "showquestion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal viewer for data/questions.json (Sportbootführerschein Binnen Fragenkatalog).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

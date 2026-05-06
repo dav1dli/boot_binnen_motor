@@ -1,0 +1,10 @@
+{
+  "name": "trainer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "30-question randomised quiz over data/questions.json (Sportbootführerschein Binnen).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

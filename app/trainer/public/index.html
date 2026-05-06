@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SBF Binnen — Trainer</title>
+  <style>
+    :root {
+      --fg:#222; --muted:#666; --bg:#fff; --border:#ccc;
+      --green:#2e8b2e; --green-bg:#d6efd6;
+      --red:#b22222;   --red-bg:#f5d4d4;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      max-width: 900px; margin: 30px auto; padding: 0 16px;
+      color: var(--fg); background: var(--bg); line-height: 1.55;
+    }
+    h1 { font-size: 1.4rem; font-weight: normal; margin: 0 0 .5em; }
+    .toolbar {
+      display: flex; flex-wrap: wrap; gap: 14px; align-items: center;
+      padding: 10px 12px; background: #f7f7f7;
+      border: 1px solid var(--border); border-radius: 6px;
+      margin-bottom: 20px;
+    }
+    .toolbar label { font-size: .9rem; color: var(--muted); }
+    .toolbar select, .toolbar button {
+      font: inherit; padding: 5px 12px; border: 1px solid var(--border);
+      background: white; border-radius: 4px; cursor: pointer;
+    }
+    .toolbar button:disabled { opacity: .4; cursor: not-allowed; }
+    .score { margin-left: auto; font-size: .95rem; }
+    .score .ok    { color: var(--green); font-weight: bold; }
+    .score .bad   { color: var(--red);   font-weight: bold; }
+    .score .total { color: var(--muted); }
+    .progress { font-size: .85rem; color: var(--muted); margin-bottom: 6px; }
+    .question { font-weight: bold; margin: .8em 0 1em; }
+    .images img { max-width: 100%; height: auto; margin: .8em 0; display: block; }
+
+    ol.answers { list-style: none; padding-left: 0; margin: 1em 0; }
+    ol.answers li {
+      padding: 10px 14px; margin: 8px 0;
+      border: 1px solid var(--border); border-radius: 4px;
+      cursor: pointer; user-select: none;
+      display: flex; gap: 10px; align-items: flex-start;
+      transition: background-color .15s, border-color .15s;
+    }
+    ol.answers li:hover           { background: #f3f3f3; }
+    ol.answers li.selected        { background: #e6eef7; border-color: #88a; }
+    ol.answers.locked li          { cursor: default; }
+    ol.answers.locked li:hover    { background: inherit; }
+    ol.answers li.correct         { background: var(--green-bg); border-color: var(--green); }
+    ol.answers li.wrong           { background: var(--red-bg);   border-color: var(--red); }
+    ol.answers li .marker         { width: 1.4em; flex: 0 0 auto; font-weight: bold; color: #888; }
+    ol.answers li.correct .marker { color: var(--green); }
+    ol.answers li.wrong   .marker { color: var(--red); }
+
+    .actions { display: flex; gap: 12px; margin-top: 12px; }
+    .actions button {
+      font: inherit; padding: 8px 18px;
+      border: 1px solid var(--border); border-radius: 4px;
+      background: white; cursor: pointer;
+    }
+    .actions button.primary { background: #1f3f6b; color: white; border-color: #1f3f6b; }
+    .actions button:disabled { opacity: .4; cursor: not-allowed; }
+
+    .meta { color: var(--muted); font-size: .85rem; margin-top: 6px; }
+    .summary {
+      padding: 18px; border: 1px solid var(--border); border-radius: 6px;
+      background: #fafafa; margin-top: 20px;
+    }
+    .summary h2 { margin-top: 0; }
+  </style>
+</head>
+<body>
+  <h1>Sportbootführerschein Binnen — Trainer</h1>
+
+  <div class="toolbar">
+    <label for="lang">Language:</label>
+    <select id="lang">
+      <option value="de">DE</option>
+      <option value="ru">RU</option>
+    </select>
+
+    <button id="restart" type="button">Restart</button>
+
+    <div class="score">
+      Score: <span class="ok" id="score-ok">0</span>
+      / <span class="bad" id="score-bad">0</span>
+      <span class="total"> (of <span id="score-total">30</span>)</span>
+    </div>
+  </div>
+
+  <div id="content">
+    <p class="meta">Loading…</p>
+  </div>
+
+  <script>
+    const TOTAL = 30;
+
+    const params = new URLSearchParams(location.search);
+    const meta = name => document.querySelector(`meta[name="${name}"]`)?.content;
+    const DATA_URL   = params.get('data')   || meta('questions-url') || '/questions.json';
+    const IMAGES_URL = (params.get('images') || meta('images-url')   || '/images/').replace(/\/?$/, '/');
+
+    const state = {
+      all: [],          // full pool of questions
+      pool: [],         // 30 randomly drawn for the current run
+      idx: 0,           // index into pool
+      lang: 'de',
+      shuffled: [],     // current question's answers in display order
+      correctIdx: -1,   // index in shuffled[] that is the correct answer
+      selected: -1,     // index user clicked (in shuffled[])
+      locked: false,    // true after Submit
+      ok: 0,
+      bad: 0,
+      done: false,
+    };
+
+    const $lang    = document.getElementById('lang');
+    const $restart = document.getElementById('restart');
+    const $content = document.getElementById('content');
+    const $ok      = document.getElementById('score-ok');
+    const $bad     = document.getElementById('score-bad');
+    const $total   = document.getElementById('score-total');
+    $total.textContent = TOTAL;
+
+    function shuffle(arr) {
+      const a = arr.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    async function load() {
+      const r = await fetch(DATA_URL);
+      if (!r.ok) {
+        $content.textContent = `Failed to load ${DATA_URL}`;
+        return;
+      }
+      state.all = await r.json();
+      newRun();
+    }
+
+    function eligible(q) {
+      const d = q[state.lang];
+      return d && Array.isArray(d.answers) && d.answers.length >= 2 &&
+             typeof d.correct === 'number' && d.correct >= 0;
+    }
+
+    function newRun() {
+      const pool = state.all.filter(eligible);
+      state.pool = shuffle(pool).slice(0, TOTAL);
+      state.idx = 0;
+      state.ok = 0;
+      state.bad = 0;
+      state.done = false;
+      updateScore();
+      renderQuestion();
+    }
+
+    function updateScore() {
+      $ok.textContent  = state.ok;
+      $bad.textContent = state.bad;
+    }
+
+    function imageHtml(src) {
+      let url;
+      if (/^https?:\/\//i.test(src) || src.startsWith('//')) {
+        url = src;
+      } else {
+        const rel = src.replace(/^\/+/, '').replace(/^images\//, '');
+        url = IMAGES_URL + rel;
+      }
+      return `<img src="${url}" alt="" loading="lazy" />`;
+    }
+
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      })[c]);
+    }
+
+    function renderQuestion() {
+      if (state.idx >= state.pool.length) return renderSummary();
+
+      const q = state.pool[state.idx];
+      const data = q[state.lang];
+
+      // Pair (text, originalIndex), shuffle, then find correct in new order.
+      const indexed = data.answers.map((text, i) => ({ text, orig: i }));
+      const shuffled = shuffle(indexed);
+      state.shuffled  = shuffled;
+      state.correctIdx = shuffled.findIndex(a => a.orig === data.correct);
+      state.selected = -1;
+      state.locked = false;
+
+      const imgs = (data.images || []).map(imageHtml).join('');
+
+      const items = shuffled.map((a, i) =>
+        `<li data-i="${i}"><span class="marker">${String.fromCharCode(97 + i)}.</span><span>${escapeHtml(a.text)}</span></li>`
+      ).join('');
+
+      $content.innerHTML = `
+        <p class="progress">Question ${state.idx + 1} of ${state.pool.length}
+          &middot; ${q.id} &middot; chapter ${q.chapter} &middot; #${q.number}</p>
+        <p class="question">${escapeHtml(data.question)}</p>
+        <div class="images">${imgs}</div>
+        <ol class="answers" id="answers">${items}</ol>
+        <div class="actions">
+          <button id="submit" class="primary" type="button" disabled>Submit</button>
+          <button id="next"   type="button" disabled>Next ▶</button>
+        </div>
+      `;
+
+      const $answers = document.getElementById('answers');
+      const $submit  = document.getElementById('submit');
+      const $next    = document.getElementById('next');
+
+      $answers.addEventListener('click', (e) => {
+        if (state.locked) return;
+        const li = e.target.closest('li');
+        if (!li) return;
+        const i = Number(li.dataset.i);
+        state.selected = i;
+        for (const el of $answers.querySelectorAll('li')) el.classList.remove('selected');
+        li.classList.add('selected');
+        $submit.disabled = false;
+      });
+
+      $submit.addEventListener('click', () => {
+        if (state.locked || state.selected < 0) return;
+        state.locked = true;
+        $answers.classList.add('locked');
+
+        const lis = $answers.querySelectorAll('li');
+        const isCorrect = state.selected === state.correctIdx;
+
+        if (isCorrect) {
+          lis[state.selected].classList.add('correct');
+          state.ok++;
+        } else {
+          lis[state.selected].classList.add('wrong');
+          lis[state.correctIdx].classList.add('correct');
+          state.bad++;
+        }
+        updateScore();
+
+        $submit.disabled = true;
+        $next.disabled = false;
+        $next.focus();
+      });
+
+      $next.addEventListener('click', () => {
+        state.idx++;
+        renderQuestion();
+      });
+    }
+
+    function renderSummary() {
+      state.done = true;
+      const total = state.ok + state.bad;
+      const pct = total ? Math.round(100 * state.ok / total) : 0;
+      // Pass criterion for SBF: 23 of 30.
+      const passed = state.ok >= 23;
+      $content.innerHTML = `
+        <div class="summary">
+          <h2>${passed ? 'Bestanden ✓' : 'Nicht bestanden ✗'}</h2>
+          <p>Correct: <strong class="ok-text">${state.ok}</strong> &nbsp;
+             Incorrect: <strong class="bad-text">${state.bad}</strong> &nbsp;
+             (${pct}%)</p>
+          <p class="meta">Pass mark: 23 of 30 correct.</p>
+          <div class="actions">
+            <button id="again" class="primary" type="button">Start a new round</button>
+          </div>
+        </div>
+      `;
+      document.getElementById('again').addEventListener('click', newRun);
+    }
+
+    $lang.addEventListener('change', () => {
+      state.lang = $lang.value;
+      newRun();
+    });
+    $restart.addEventListener('click', newRun);
+
+    document.addEventListener('keydown', (e) => {
+      if (e.target.tagName === 'SELECT') return;
+      if (e.key === 'Enter') {
+        const $next = document.getElementById('next');
+        const $submit = document.getElementById('submit');
+        const $again = document.getElementById('again');
+        if ($again) return $again.click();
+        if ($next && !$next.disabled) return $next.click();
+        if ($submit && !$submit.disabled) return $submit.click();
+      }
+    });
+
+    load();
+  </script>
+</body>
+</html>
