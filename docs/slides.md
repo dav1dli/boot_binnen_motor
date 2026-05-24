@@ -20,6 +20,26 @@ chapter-08.json (source of truth)
 ```
 
 To add:
-* generate_chapter_ssml.py — like the existing question SSML generator, but reads chapter-XX.json and emits per-section SSML files
+* generate_chapter_ssml.py — SSML generator, but reads chapter-XX.json and emits per-section SSML files
 * generate_slides.py — sends chapter JSON + a system prompt to Azure OpenAI, outputs a reveal.js HTML or PPTX
 * generate_quiz.py — sends sections + terms to Azure OpenAI, outputs quiz JSON compatible with the showquestion app
+* synthesize_chapter.py	SSML batch XML	MP3 per section per language	Azure Speech (env.sh)
+Audio files are separate per language, named chapter-08-01-de.mp3, chapter-08-01-ru.mp3, etc.
+
+
+```
+# 1. Generate SSML
+python3 scripts/generate_chapter_ssml.py data/chapter-08.json -o data/chapter-08-tts.xml
+
+# 2. Synthesize audio (separate DE and RU files)
+python3 scripts/synthesize_chapter.py data/chapter-08-tts.xml --insecure
+
+# 3. Generate slide decks (one per language)
+python3 scripts/generate_slides.py data/chapter-08.json --lang de
+python3 scripts/generate_slides.py data/chapter-08.json --lang ru
+
+# 4. Generate quiz (needs AOAI_ENDPOINT, AOAI_KEY, AOAI_DEPLOYMENT in env.sh)
+python3 scripts/generate_quiz.py data/chapter-08.json --lang de --count 10
+```
+
+The slides reference audio files via audio/chapters/chapter-08-{slide}-{lang}.mp3 and include speaker notes from the full text blocks. For the quiz generator, add AOAI_ENDPOINT, AOAI_KEY, and AOAI_DEPLOYMENT to env.sh.

@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tts-batch>
+  <segment id="chapter-08-01-de" chapter="08" slide="1" lang="de" section-id="08-01-hoch-tief">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Hoch und Tief.</s>
+          <break time="600ms" />
+          <s>Die Erdkugel ist von einer Lufthülle umgeben. Sie würde gleichmäßig verteilt auf der Erdoberfläche lagern und ungestört die Erddrehung mitmachen, wenn ihr Gewicht – die Luftdichte – sich nicht durch Erwärmung und Abkühlung ändern würde. Erwärmte Luft dehnt sich aus. Sie steigt auf und wird leichter, der Luftdruck dementsprechend niedriger. So entsteht ein Tiefdruckgebiet, kurz Tief (T) genannt.</s>
+          <break time="600ms" />
+          <s>Kalte Luft dagegen zieht sich zusammen, wird schwerer und erzeugt einen hohen Druck auf die Erdoberfläche. Es entsteht ein Hochdruckgebiet, kurz Hoch (H) genannt.</s>
+          <break time="600ms" />
+          <s>Ein Tief bildet sich über Räumen, die stärker erwärmt sind als die umliegenden Gebiete.</s>
+          <break time="600ms" />
+          <s>Ein Hoch bildet sich über Räumen, die stärker abgekühlt sind als die umliegenden Gebiete.</s>
+          <break time="600ms" />
+          <s>Die Hochs und Tiefs liegen allerdings nicht fest. Sie verlagern sich mehr oder weniger schnell und folgen gewissen charakteristischen Zugbahnen.</s>
+          <break time="600ms" />
+          <s>Die landläufige Meinung, ein Hoch bedeute stets schönes Wetter, ist nur teilweise richtig. Nur im Kern und auf der Rückseite ist gutes Wetter zu erwarten. An seiner Front bleibt es meistens schlecht.</s>
+          <break time="600ms" />
+          <s>Der zwischen Hoch und Tief bestehende Luftdruckunterschied gleicht sich aus, indem schwere Luft in das Gebiet mit leichterer Luft strömt. Diese Luftbewegung ist der Wind. Je dichter Hoch und Tief zusammenliegen und je größer das Luftdruckgefälle zwischen ihnen ist, umso stärker weht der Wind. Auf der wohl jedem geläufigen Wetterkarte verbinden sogenannte Isobaren alle Orte gleichen Luftdrucks.</s>
+          <break time="600ms" />
+          <s>Liegen die Isobaren eng beieinander, ist das Druckgefälle groß, und es wird stark wehen.</s>
+          <break time="600ms" />
+          <s>Liegen die Isobaren weit auseinander, ist das Druckgefälle gering, und es ist allenfalls mit leichten Winden zu rechnen.</s>
+          <break time="600ms" />
+          <s>Die Erddrehung bewirkt, dass auf der nördlichen Halbkugel die Luft gegen den Uhrzeigersinn spiralförmig ins Tief einströmt, aus dem Hoch aber im Uhrzeigersinn spiralförmig ausströmt. Auf der südlichen Halbkugel geschieht es entgegengesetzt.</s>
+          <break time="600ms" />
+          <s>Die Höhe des Luftdrucks, gemessen in Hektopascal (hPa), zeigt das Barometer an. Allerdings sagt der augenblickliche Barometerstand über die Wetterentwicklung kaum etwas aus. Erst aus den Luftdruckschwankungen lassen sich gewisse Schlüsse ziehen. Im Allgemeinen gilt:</s>
+          <break time="600ms" />
+          <s>Gleich bleibender oder langsam ansteigender Luftdruck verspricht eine Schönwetterperiode.</s>
+          <break time="600ms" />
+          <s>Stetig fallender Luftdruck kündigt schlechtes Wetter an, schnell fallender meist Sturm.</s>
+          <break time="600ms" />
+          <s>Die Windgeschwindigkeit wird in Meter pro Sekunde (m/s), Kilometer pro Stunde (km/h), Knoten (kn = Seemeilen pro Stunde) oder in Beaufort (Bft) gemessen. Die Beaufort-Skala teilt die Windgeschwindigkeit nach der Auswirkung auf See und Land in 12 geschätzte Stärkegrade ein.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-08-01-ru" chapter="08" slide="1" lang="ru" section-id="08-01-hoch-tief">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Высокое и низкое давление.</s>
+          <break time="600ms" />
+          <s>Земной шар окружён воздушной оболочкой. Она распределилась бы равномерно по поверхности Земли и участвовала бы во вращении Земли, если бы её плотность не изменялась из-за нагревания и охлаждения. Нагретый воздух расширяется, поднимается вверх и становится легче, поэтому давление воздуха уменьшается. Так образуется область низкого давления, кратко называемая циклон (T).</s>
+          <break time="600ms" />
+          <s>Холодный воздух, напротив, сжимается, становится тяжелее и создаёт высокое давление на поверхность Земли. Возникает область высокого давления, кратко называемая антициклон (H).</s>
+          <break time="600ms" />
+          <s>Низкое давление образуется над областями, которые нагреваются сильнее, чем окружающие территории.</s>
+          <break time="600ms" />
+          <s>Высокое давление образуется над областями, которые охлаждены сильнее, чем окружающие территории.</s>
+          <break time="600ms" />
+          <s>Области высокого и низкого давления не остаются на месте. Они перемещаются с большей или меньшей скоростью и следуют определённым характерным траекториям.</s>
+          <break time="600ms" />
+          <s>Распространённое мнение, что область высокого давления всегда означает хорошую погоду, верно лишь частично. В центре и на задней стороне обычно ожидается хорошая погода, а на фронте часто сохраняется плохая.</s>
+          <break time="600ms" />
+          <s>Разность давления между областями высокого и низкого давления выравнивается тем, что тяжёлый воздух перемещается в область более лёгкого воздуха. Это движение воздуха и есть ветер. Чем ближе расположены области высокого и низкого давления и чем больше разница давления между ними, тем сильнее ветер. На знакомой каждому синоптической карте так называемые изобары соединяют точки с одинаковым атмосферным давлением.</s>
+          <break time="600ms" />
+          <s>Если изобары расположены близко друг к другу, градиент давления большой и ветер будет сильным.</s>
+          <break time="600ms" />
+          <s>Если изобары расположены далеко друг от друга, градиент давления небольшой и возможны лишь слабые ветры.</s>
+          <break time="600ms" />
+          <s>Вращение Земли приводит к тому, что в северном полушарии воздух по спирали против часовой стрелки входит в область низкого давления, а из области высокого давления выходит по спирали по часовой стрелке. В южном полушарии происходит наоборот.</s>
+          <break time="600ms" />
+          <s>Высота атмосферного давления, измеряемая в гектопаскалях (hPa), показывается барометром. Однако текущее значение барометра мало говорит о дальнейшем развитии погоды. Определённые выводы можно сделать лишь по изменениям давления. В целом действует правило:</s>
+          <break time="600ms" />
+          <s>Постоянное или медленно повышающееся давление обещает период хорошей погоды.</s>
+          <break time="600ms" />
+          <s>Постоянно падающее давление предвещает плохую погоду, быстрое падение — обычно шторм.</s>
+          <break time="600ms" />
+          <s>Скорость ветра измеряется в метрах в секунду (м/с), километрах в час (км/ч), узлах (kn — морские мили в час) или в баллах по шкале Бофорта (Bft). Шкала Бофорта делит скорость ветра по его воздействию на море и сушу на 12 приблизительных степеней силы.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-08-02-de" chapter="08" slide="2" lang="de" section-id="08-02-land-seewind">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Land- und Seewind, Gewitter.</s>
+          <break time="600ms" />
+          <s>Die tägliche Sonneneinstrahlung auf Land und Wasser verursacht ein rein lokales Windsystem: die thermischen Winde. Sie beruhen darauf, dass sich Land viel schneller erwärmt als Wasser, aber auch schneller wieder auskühlt. So bildet sich unter der Sonneneinstrahlung über Land ein kleines Tief, das durch einströmende kühlere Meeresluft aufgefüllt wird. Es entsteht Seewind. Er weht von See aufs Land (auflandig) und erreicht am frühen Nachmittag seine größte Stärke. Mit Sonnenuntergang schläft er ein.</s>
+          <break time="600ms" />
+          <s>Am späten Abend, beziehungsweise nachts beginnt das umgekehrte Spiel. Über dem Wasser, das die Wärme länger speichert, bildet sich ein kleines Tief, das von kühlerer Landluft aufgefüllt wird, dem Landwind. Er weht vom Land aufs Wasser (ablandig). Diese thermischen Winde, die sich in einer flacheren Küstenregion ziemlich gleichmäßig ausbilden, können sich auf Bergseen zu stoßartigen heftigen Fallböen entwickeln.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-08-02-ru" chapter="08" slide="2" lang="ru" section-id="08-02-land-seewind">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Береговой и морской ветер, грозы.</s>
+          <break time="600ms" />
+          <s>Ежедневное солнечное нагревание суши и воды вызывает локальную ветровую систему — термические ветры. Они возникают потому, что суша нагревается быстрее, чем вода, но также быстрее и остывает. Под действием солнечного излучения над сушей образуется небольшая область низкого давления, которая заполняется более прохладным морским воздухом. Возникает морской ветер. Он дует с моря на сушу и достигает наибольшей силы ранним днём. С заходом солнца он стихает.</s>
+          <break time="600ms" />
+          <s>Поздним вечером или ночью начинается обратный процесс. Над водой, которая дольше сохраняет тепло, образуется небольшая область низкого давления, заполняемая более холодным воздухом с суши — береговой ветер. Он дует с суши на воду. Эти термические ветры, которые на равнинных побережьях формируются довольно равномерно, на горных озёрах могут превращаться в резкие сильные порывы ветра.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-08-03-de" chapter="08" slide="3" lang="de" section-id="08-03-gewitter">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Gewitter.</s>
+          <break time="600ms" />
+          <s>Frontgewitter entstehen an einer Kaltfront innerhalb eines großräumigen Tiefs. Sie werden nicht durch Gebirge und Täler beeinflusst und erscheinen als eine Abfolge mehrerer über einen größeren Raum verteilten Gewitter, verbunden mit erheblicher Abkühlung.</s>
+          <break time="600ms" />
+          <s>Wärmegewitter sind örtlich beschränkt, können aber stark böige Winde mit sich bringen. Durch große lokale Erwärmung entsteht eine Gewitterwolke (Cumulonimbus) mit oben vereisten Türmen. In gebirgigem Gelände passt sie sich dem Zug der Berge und Täler an.</s>
+          <break time="600ms" />
+          <s>In unseren Breiten bilden sich solche Wärmegewitter meist im Westen oder Südwesten und ziehen nach Ost bis Nordost. Sie beeinflussen die vorherrschende Wetterlage kaum. Gewitter, die im Osten stehen, brauchen uns kaum mehr zu bekümmern.</s>
+          <break time="600ms" />
+          <s>Unmittelbar vor einem Gewitter weht ihm der Wind meist entgegen, also aus östlichen Richtungen, dann flaut er häufig ab und springt dann jäh in seiner Richtung um.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-08-03-ru" chapter="08" slide="3" lang="ru" section-id="08-03-gewitter">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Грозы.</s>
+          <break time="600ms" />
+          <s>Фронтальные грозы возникают на холодном фронте внутри обширной области низкого давления. Они не зависят от гор и долин и проявляются как последовательность нескольких гроз, распределённых на большой территории, сопровождаемых значительным похолоданием.</s>
+          <break time="600ms" />
+          <s>Тепловые грозы локальны, но могут приносить сильные порывистые ветры. В результате сильного локального нагревания возникает грозовое облако (Cumulonimbus) с обледеневшими вершинами. В горной местности оно следует направлению гор и долин.</s>
+          <break time="600ms" />
+          <s>В наших широтах такие тепловые грозы чаще всего образуются на западе или юго-западе и движутся на восток или северо-восток. Обычно они мало влияют на общую погодную ситуацию. Грозы, находящиеся на востоке, как правило, уже не представляют для нас опасности.</s>
+          <break time="600ms" />
+          <s>Непосредственно перед грозой ветер чаще всего дует навстречу ей, то есть с восточных направлений, затем часто стихает и резко меняет направление.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-08-04-de" chapter="08" slide="4" lang="de" section-id="08-04-sturmwarnungen">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Sturmwarnungen.</s>
+          <break time="600ms" />
+          <s>Viele Wassersportreviere haben ein Sturmwarnsystem mit optischen oder auch akustischen Signalen. Meist sind es Blinklichter.</s>
+          <break time="600ms" />
+          <s>Lange Blinkfolge: Vorwarnung.</s>
+          <break time="600ms" />
+          <s>Kurze Blinkfolge: Sturmwarnung.</s>
+          <break time="600ms" />
+          <s>Bei Sturmwarnung ist sofort der nächste Hafen oder ein schützendes Ufer aufzusuchen. Auf den meisten Revieren besteht bei Sturmwarnung ein generelles Auslaufverbot. Selbstverständlich informiert sich jeder an einem ihm fremden Revier über das dortige Sturmwarnsystem.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-08-04-ru" chapter="08" slide="4" lang="ru" section-id="08-04-sturmwarnungen">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Предупреждения о шторме.</s>
+          <break time="600ms" />
+          <s>Во многих районах водного спорта существует система штормовых предупреждений с оптическими или акустическими сигналами. Чаще всего это мигающие огни.</s>
+          <break time="600ms" />
+          <s>Длинная серия вспышек: предварительное предупреждение.</s>
+          <break time="600ms" />
+          <s>Короткая серия вспышек: предупреждение о шторме.</s>
+          <break time="600ms" />
+          <s>При предупреждении о шторме необходимо немедленно направиться в ближайшую гавань или к защищённому берегу. Во многих районах при штормовом предупреждении действует общий запрет на выход в воду. Разумеется, на незнакомой акватории следует заранее узнать местную систему предупреждений.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+</tts-batch>
