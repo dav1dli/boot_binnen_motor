@@ -1,0 +1,322 @@
+{
+  "chapter": "08",
+  "title": {
+    "de": "Wetterkunde",
+    "ru": "Метеорология"
+  },
+  "source": {
+    "de": "content/de/sbf-binnen-de-08.html",
+    "ru": "content/ru/prava-na-lodku-08.html"
+  },
+  "sections": [
+    {
+      "id": "08-01-hoch-tief",
+      "title": {
+        "de": "Hoch und Tief",
+        "ru": "Высокое и низкое давление"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/SBF-binnen-motor_1-200.jpg",
+          "role": "chapter-header"
+        },
+        {
+          "type": "text",
+          "de": "Die Erdkugel ist von einer Lufthülle umgeben. Sie würde gleichmäßig verteilt auf der Erdoberfläche lagern und ungestört die Erddrehung mitmachen, wenn ihr Gewicht – die Luftdichte – sich nicht durch Erwärmung und Abkühlung ändern würde. Erwärmte Luft dehnt sich aus. Sie steigt auf und wird leichter, der Luftdruck dementsprechend niedriger. So entsteht ein Tiefdruckgebiet, kurz Tief (T) genannt.",
+          "ru": "Земной шар окружён воздушной оболочкой. Она распределилась бы равномерно по поверхности Земли и участвовала бы во вращении Земли, если бы её плотность не изменялась из-за нагревания и охлаждения. Нагретый воздух расширяется, поднимается вверх и становится легче, поэтому давление воздуха уменьшается. Так образуется область низкого давления, кратко называемая циклон (T)."
+        },
+        {
+          "type": "text",
+          "de": "Kalte Luft dagegen zieht sich zusammen, wird schwerer und erzeugt einen hohen Druck auf die Erdoberfläche. Es entsteht ein Hochdruckgebiet, kurz Hoch (H) genannt.",
+          "ru": "Холодный воздух, напротив, сжимается, становится тяжелее и создаёт высокое давление на поверхность Земли. Возникает область высокого давления, кратко называемая антициклон (H)."
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "Ein Tief bildet sich über Räumen, die stärker erwärmt sind als die umliegenden Gebiete.",
+              "ru": "Низкое давление образуется над областями, которые нагреваются сильнее, чем окружающие территории."
+            },
+            {
+              "de": "Ein Hoch bildet sich über Räumen, die stärker abgekühlt sind als die umliegenden Gebiete.",
+              "ru": "Высокое давление образуется над областями, которые охлаждены сильнее, чем окружающие территории."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "de": "Die Hochs und Tiefs liegen allerdings nicht fest. Sie verlagern sich mehr oder weniger schnell und folgen gewissen charakteristischen Zugbahnen.",
+          "ru": "Области высокого и низкого давления не остаются на месте. Они перемещаются с большей или меньшей скоростью и следуют определённым характерным траекториям."
+        },
+        {
+          "type": "text",
+          "de": "Die landläufige Meinung, ein Hoch bedeute stets schönes Wetter, ist nur teilweise richtig. Nur im Kern und auf der Rückseite ist gutes Wetter zu erwarten. An seiner Front bleibt es meistens schlecht.",
+          "ru": "Распространённое мнение, что область высокого давления всегда означает хорошую погоду, верно лишь частично. В центре и на задней стороне обычно ожидается хорошая погода, а на фронте часто сохраняется плохая."
+        },
+        {
+          "type": "image",
+          "src": "images/SBF-binnen-motor-202.jpg",
+          "caption": {
+            "de": "Wetterkarte mit Hoch- und Tiefdruckgebieten und Isobaren",
+            "ru": "Синоптическая карта с областями высокого и низкого давления и изобарами"
+          }
+        },
+        {
+          "type": "text",
+          "de": "Der zwischen Hoch und Tief bestehende Luftdruckunterschied gleicht sich aus, indem schwere Luft in das Gebiet mit leichterer Luft strömt. Diese Luftbewegung ist der Wind. Je dichter Hoch und Tief zusammenliegen und je größer das Luftdruckgefälle zwischen ihnen ist, umso stärker weht der Wind. Auf der wohl jedem geläufigen Wetterkarte verbinden sogenannte Isobaren alle Orte gleichen Luftdrucks.",
+          "ru": "Разность давления между областями высокого и низкого давления выравнивается тем, что тяжёлый воздух перемещается в область более лёгкого воздуха. Это движение воздуха и есть ветер. Чем ближе расположены области высокого и низкого давления и чем больше разница давления между ними, тем сильнее ветер. На знакомой каждому синоптической карте так называемые изобары соединяют точки с одинаковым атмосферным давлением."
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "Liegen die Isobaren eng beieinander, ist das Druckgefälle groß, und es wird stark wehen.",
+              "ru": "Если изобары расположены близко друг к другу, градиент давления большой и ветер будет сильным."
+            },
+            {
+              "de": "Liegen die Isobaren weit auseinander, ist das Druckgefälle gering, und es ist allenfalls mit leichten Winden zu rechnen.",
+              "ru": "Если изобары расположены далеко друг от друга, градиент давления небольшой и возможны лишь слабые ветры."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "de": "Die Erddrehung bewirkt, dass auf der nördlichen Halbkugel die Luft gegen den Uhrzeigersinn spiralförmig ins Tief einströmt, aus dem Hoch aber im Uhrzeigersinn spiralförmig ausströmt. Auf der südlichen Halbkugel geschieht es entgegengesetzt.",
+          "ru": "Вращение Земли приводит к тому, что в северном полушарии воздух по спирали против часовой стрелки входит в область низкого давления, а из области высокого давления выходит по спирали по часовой стрелке. В южном полушарии происходит наоборот."
+        },
+        {
+          "type": "text",
+          "de": "Die Höhe des Luftdrucks, gemessen in Hektopascal (hPa), zeigt das Barometer an. Allerdings sagt der augenblickliche Barometerstand über die Wetterentwicklung kaum etwas aus. Erst aus den Luftdruckschwankungen lassen sich gewisse Schlüsse ziehen. Im Allgemeinen gilt:",
+          "ru": "Высота атмосферного давления, измеряемая в гектопаскалях (hPa), показывается барометром. Однако текущее значение барометра мало говорит о дальнейшем развитии погоды. Определённые выводы можно сделать лишь по изменениям давления. В целом действует правило:"
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "Gleich bleibender oder langsam ansteigender Luftdruck verspricht eine Schönwetterperiode.",
+              "ru": "Постоянное или медленно повышающееся давление обещает период хорошей погоды."
+            },
+            {
+              "de": "Stetig fallender Luftdruck kündigt schlechtes Wetter an, schnell fallender meist Sturm.",
+              "ru": "Постоянно падающее давление предвещает плохую погоду, быстрое падение — обычно шторм."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "de": "Die Windgeschwindigkeit wird in Meter pro Sekunde (m/s), Kilometer pro Stunde (km/h), Knoten (kn = Seemeilen pro Stunde) oder in Beaufort (Bft) gemessen. Die Beaufort-Skala teilt die Windgeschwindigkeit nach der Auswirkung auf See und Land in 12 geschätzte Stärkegrade ein.",
+          "ru": "Скорость ветра измеряется в метрах в секунду (м/с), километрах в час (км/ч), узлах (kn — морские мили в час) или в баллах по шкале Бофорта (Bft). Шкала Бофорта делит скорость ветра по его воздействию на море и сушу на 12 приблизительных степеней силы."
+        }
+      ],
+      "terms": [
+        {
+          "de": "Tief (T)",
+          "ru": "Циклон (T)",
+          "definition": {
+            "de": "Tiefdruckgebiet – entsteht, wenn erwärmte Luft aufsteigt und der Luftdruck sinkt.",
+            "ru": "Область низкого давления — образуется, когда нагретый воздух поднимается вверх и давление падает."
+          }
+        },
+        {
+          "de": "Hoch (H)",
+          "ru": "Антициклон (H)",
+          "definition": {
+            "de": "Hochdruckgebiet – entsteht durch kalte, schwere Luft, die hohen Druck erzeugt.",
+            "ru": "Область высокого давления — образуется из-за холодного тяжёлого воздуха, создающего высокое давление."
+          }
+        },
+        {
+          "de": "Isobaren",
+          "ru": "Изобары",
+          "definition": {
+            "de": "Linien auf der Wetterkarte, die alle Orte gleichen Luftdrucks verbinden.",
+            "ru": "Линии на синоптической карте, соединяющие точки с одинаковым атмосферным давлением."
+          }
+        },
+        {
+          "de": "Barometer",
+          "ru": "Барометр",
+          "definition": {
+            "de": "Instrument zur Messung des Luftdrucks in Hektopascal (hPa).",
+            "ru": "Прибор для измерения атмосферного давления в гектопаскалях (hPa)."
+          }
+        },
+        {
+          "de": "Wind",
+          "ru": "Ветер",
+          "definition": {
+            "de": "Luftbewegung, die durch den Druckausgleich zwischen Hoch und Tief entsteht.",
+            "ru": "Движение воздуха, возникающее из-за выравнивания давления между антициклоном и циклоном."
+          }
+        },
+        {
+          "de": "Beaufort (Bft)",
+          "ru": "Бофорт (Bft)",
+          "definition": {
+            "de": "Skala zur Einteilung der Windgeschwindigkeit in 12 Stärkegrade nach Auswirkung auf See und Land.",
+            "ru": "Шкала деления скорости ветра на 12 степеней силы по воздействию на море и сушу."
+          }
+        }
+      ]
+    },
+    {
+      "id": "08-02-land-seewind",
+      "title": {
+        "de": "Land- und Seewind, Gewitter",
+        "ru": "Береговой и морской ветер, грозы"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "de": "Die tägliche Sonneneinstrahlung auf Land und Wasser verursacht ein rein lokales Windsystem: die thermischen Winde. Sie beruhen darauf, dass sich Land viel schneller erwärmt als Wasser, aber auch schneller wieder auskühlt. So bildet sich unter der Sonneneinstrahlung über Land ein kleines Tief, das durch einströmende kühlere Meeresluft aufgefüllt wird. Es entsteht Seewind. Er weht von See aufs Land (auflandig) und erreicht am frühen Nachmittag seine größte Stärke. Mit Sonnenuntergang schläft er ein.",
+          "ru": "Ежедневное солнечное нагревание суши и воды вызывает локальную ветровую систему — термические ветры. Они возникают потому, что суша нагревается быстрее, чем вода, но также быстрее и остывает. Под действием солнечного излучения над сушей образуется небольшая область низкого давления, которая заполняется более прохладным морским воздухом. Возникает морской ветер. Он дует с моря на сушу и достигает наибольшей силы ранним днём. С заходом солнца он стихает."
+        },
+        {
+          "type": "text",
+          "de": "Am späten Abend, beziehungsweise nachts beginnt das umgekehrte Spiel. Über dem Wasser, das die Wärme länger speichert, bildet sich ein kleines Tief, das von kühlerer Landluft aufgefüllt wird, dem Landwind. Er weht vom Land aufs Wasser (ablandig). Diese thermischen Winde, die sich in einer flacheren Küstenregion ziemlich gleichmäßig ausbilden, können sich auf Bergseen zu stoßartigen heftigen Fallböen entwickeln.",
+          "ru": "Поздним вечером или ночью начинается обратный процесс. Над водой, которая дольше сохраняет тепло, образуется небольшая область низкого давления, заполняемая более холодным воздухом с суши — береговой ветер. Он дует с суши на воду. Эти термические ветры, которые на равнинных побережьях формируются довольно равномерно, на горных озёрах могут превращаться в резкие сильные порывы ветра."
+        }
+      ],
+      "terms": [
+        {
+          "de": "Seewind",
+          "ru": "Морской ветер",
+          "definition": {
+            "de": "Thermischer Wind, der tagsüber von See aufs Land (auflandig) weht, stärkste Ausprägung am frühen Nachmittag.",
+            "ru": "Термический ветер, дующий днём с моря на сушу, наиболее сильный ранним днём."
+          }
+        },
+        {
+          "de": "Landwind",
+          "ru": "Береговой ветер",
+          "definition": {
+            "de": "Thermischer Wind, der nachts vom Land aufs Wasser (ablandig) weht.",
+            "ru": "Термический ветер, дующий ночью с суши на воду."
+          }
+        },
+        {
+          "de": "Thermische Winde",
+          "ru": "Термические ветры",
+          "definition": {
+            "de": "Lokale Winde, die durch unterschiedlich schnelle Erwärmung und Abkühlung von Land und Wasser entstehen.",
+            "ru": "Локальные ветры, возникающие из-за разной скорости нагревания и охлаждения суши и воды."
+          }
+        }
+      ]
+    },
+    {
+      "id": "08-03-gewitter",
+      "title": {
+        "de": "Gewitter",
+        "ru": "Грозы"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "de": "Frontgewitter entstehen an einer Kaltfront innerhalb eines großräumigen Tiefs. Sie werden nicht durch Gebirge und Täler beeinflusst und erscheinen als eine Abfolge mehrerer über einen größeren Raum verteilten Gewitter, verbunden mit erheblicher Abkühlung.",
+          "ru": "Фронтальные грозы возникают на холодном фронте внутри обширной области низкого давления. Они не зависят от гор и долин и проявляются как последовательность нескольких гроз, распределённых на большой территории, сопровождаемых значительным похолоданием."
+        },
+        {
+          "type": "text",
+          "de": "Wärmegewitter sind örtlich beschränkt, können aber stark böige Winde mit sich bringen. Durch große lokale Erwärmung entsteht eine Gewitterwolke (Cumulonimbus) mit oben vereisten Türmen. In gebirgigem Gelände passt sie sich dem Zug der Berge und Täler an.",
+          "ru": "Тепловые грозы локальны, но могут приносить сильные порывистые ветры. В результате сильного локального нагревания возникает грозовое облако (Cumulonimbus) с обледеневшими вершинами. В горной местности оно следует направлению гор и долин."
+        },
+        {
+          "type": "image",
+          "src": "images/SBF-binnen-motor-203.jpg",
+          "caption": {
+            "de": "Gewitterwolke (Cumulonimbus)",
+            "ru": "Грозовое облако (Cumulonimbus)"
+          }
+        },
+        {
+          "type": "text",
+          "de": "In unseren Breiten bilden sich solche Wärmegewitter meist im Westen oder Südwesten und ziehen nach Ost bis Nordost. Sie beeinflussen die vorherrschende Wetterlage kaum. Gewitter, die im Osten stehen, brauchen uns kaum mehr zu bekümmern.",
+          "ru": "В наших широтах такие тепловые грозы чаще всего образуются на западе или юго-западе и движутся на восток или северо-восток. Обычно они мало влияют на общую погодную ситуацию. Грозы, находящиеся на востоке, как правило, уже не представляют для нас опасности."
+        },
+        {
+          "type": "text",
+          "de": "Unmittelbar vor einem Gewitter weht ihm der Wind meist entgegen, also aus östlichen Richtungen, dann flaut er häufig ab und springt dann jäh in seiner Richtung um.",
+          "ru": "Непосредственно перед грозой ветер чаще всего дует навстречу ей, то есть с восточных направлений, затем часто стихает и резко меняет направление."
+        }
+      ],
+      "terms": [
+        {
+          "de": "Frontgewitter",
+          "ru": "Фронтальная гроза",
+          "definition": {
+            "de": "Gewitter, das an einer Kaltfront innerhalb eines großräumigen Tiefs entsteht, nicht durch Geländeform beeinflusst.",
+            "ru": "Гроза, возникающая на холодном фронте внутри обширной области низкого давления, не зависящая от рельефа."
+          }
+        },
+        {
+          "de": "Wärmegewitter",
+          "ru": "Тепловая гроза",
+          "definition": {
+            "de": "Örtlich beschränktes Gewitter durch starke lokale Erwärmung, kann böige Winde bringen.",
+            "ru": "Локальная гроза, вызванная сильным местным нагреванием, может приносить порывистые ветры."
+          }
+        },
+        {
+          "de": "Cumulonimbus",
+          "ru": "Кучево-дождевое облако (Cumulonimbus)",
+          "definition": {
+            "de": "Gewitterwolke mit oben vereisten Türmen, die durch große lokale Erwärmung entsteht.",
+            "ru": "Грозовое облако с обледеневшими вершинами, возникающее из-за сильного локального нагревания."
+          }
+        }
+      ]
+    },
+    {
+      "id": "08-04-sturmwarnungen",
+      "title": {
+        "de": "Sturmwarnungen",
+        "ru": "Предупреждения о шторме"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "de": "Viele Wassersportreviere haben ein Sturmwarnsystem mit optischen oder auch akustischen Signalen. Meist sind es Blinklichter.",
+          "ru": "Во многих районах водного спорта существует система штормовых предупреждений с оптическими или акустическими сигналами. Чаще всего это мигающие огни."
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "Lange Blinkfolge: Vorwarnung.",
+              "ru": "Длинная серия вспышек: предварительное предупреждение."
+            },
+            {
+              "de": "Kurze Blinkfolge: Sturmwarnung.",
+              "ru": "Короткая серия вспышек: предупреждение о шторме."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "de": "Bei Sturmwarnung ist sofort der nächste Hafen oder ein schützendes Ufer aufzusuchen. Auf den meisten Revieren besteht bei Sturmwarnung ein generelles Auslaufverbot. Selbstverständlich informiert sich jeder an einem ihm fremden Revier über das dortige Sturmwarnsystem.",
+          "ru": "При предупреждении о шторме необходимо немедленно направиться в ближайшую гавань или к защищённому берегу. Во многих районах при штормовом предупреждении действует общий запрет на выход в воду. Разумеется, на незнакомой акватории следует заранее узнать местную систему предупреждений."
+        }
+      ],
+      "terms": [
+        {
+          "de": "Sturmwarnung",
+          "ru": "Штормовое предупреждение",
+          "definition": {
+            "de": "Kurze Blinkfolge eines optischen Signals, bei dem sofort der nächste Hafen oder ein schützendes Ufer aufzusuchen ist.",
+            "ru": "Короткая серия вспышек оптического сигнала, при котором необходимо немедленно направиться в ближайшую гавань или к защищённому берегу."
+          }
+        },
+        {
+          "de": "Vorwarnung",
+          "ru": "Предварительное предупреждение",
+          "definition": {
+            "de": "Lange Blinkfolge eines optischen Signals als erste Warnstufe.",
+            "ru": "Длинная серия вспышек оптического сигнала как первая ступень предупреждения."
+          }
+        }
+      ]
+    }
+  ]
+}
