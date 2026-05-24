@@ -14,6 +14,7 @@ const ROOT = path.resolve(__dirname, '..', '..');
 const PUBLIC_DIR = path.join(__dirname, 'public');
 const QUESTIONS_FILE = path.join(ROOT, 'data', 'questions.json');
 const IMAGES_DIR = path.join(ROOT, 'images');
+const AUDIO_DIR = path.join(ROOT, 'audio');
 
 const MIME = {
   '.html': 'text/html; charset=utf-8',
@@ -25,6 +26,7 @@ const MIME = {
   '.jpeg': 'image/jpeg',
   '.gif':  'image/gif',
   '.svg':  'image/svg+xml',
+  '.mp3':  'audio/mpeg',
 };
 
 function safeJoin(base, target) {
@@ -60,6 +62,12 @@ const server = http.createServer((req, res) => {
   // Serve images referenced by the data (e.g. images/SBF-binnen-motor-208.jpg).
   if (pathname.startsWith('/images/')) {
     const p = safeJoin(IMAGES_DIR, pathname.replace(/^\/images\//, ''));
+    if (!p) return send(res, 400, 'Bad request');
+    return serveFile(res, p);
+  }
+
+  if (pathname.startsWith('/audio/')) {
+    const p = safeJoin(AUDIO_DIR, pathname.replace(/^\/audio\//, ''));
     if (!p) return send(res, 400, 'Bad request');
     return serveFile(res, p);
   }
