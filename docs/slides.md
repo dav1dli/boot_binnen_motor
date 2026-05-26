@@ -32,7 +32,7 @@ Audio files are separate per language, named chapter-08-01-de.mp3, chapter-08-01
 python3 scripts/generate_chapter_ssml.py data/chapter-08.json -o data/chapter-08-tts.xml
 
 # 2. Synthesize audio (separate DE and RU files)
-python3 scripts/synthesize_chapter.py data/chapter-08-tts.xml --insecure
+python3 scripts/synthesize_chapter.py data/chapter-08-tts.xml --insecure --env-file scripts/env.sh
 
 # 3. Generate slide decks (one per language)
 python3 scripts/generate_slides.py data/chapter-08.json --lang de
