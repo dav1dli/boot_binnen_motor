@@ -7,7 +7,7 @@
   <!--
     Standalone single-file viewer. Loads questions.json and images from jsDelivr by default.
     You can override sources via query string:
-      showquestion.html?data=https://your-host/questions.json&images=https://your-host/images/
+      showquestion.html?data=https://your-host/questions.json&images=https://your-host/images/&audio=https://your-host/audio/
   -->
   <style>
     :root { --fg:#222; --muted:#666; --bg:#fff; --accent:#1f7a1f; --border:#ccc; }
@@ -30,6 +30,7 @@
       background: white; border-radius: 4px; cursor: pointer;
     }
     .toolbar button:disabled { opacity: .4; cursor: not-allowed; }
+    .toolbar .audio-status { font-size: .9rem; color: var(--muted); }
     .meta { color: var(--muted); font-size: .9rem; margin-bottom: 8px; }
     .question { font-weight: bold; margin: .8em 0; }
     ol.answers { list-style: none; padding-left: 0; }
@@ -66,11 +67,15 @@
 
     <button id="prev" type="button">◀ Previous</button>
     <button id="next" type="button">Next ▶</button>
+    <button id="play-audio" type="button">Play audio</button>
+    <span id="audio-status" class="audio-status"></span>
   </div>
 
   <div id="content">
     <p class="meta">Loading…</p>
   </div>
+
+  <audio id="question-audio" preload="none"></audio>
 
   <footer id="footer"></footer>
 
@@ -85,6 +90,7 @@
     const params = new URLSearchParams(location.search);
     const DATA_URL   = params.get('data')   || DEFAULT_DATA;
     const IMAGES_URL = (params.get('images') || DEFAULT_IMAGES).replace(/\/?$/, '/');
+    const AUDIO_URL  = (params.get('audio') || '../../audio/').replace(/\/?$/, '/');
 
     const state = {
       questions: [],
@@ -96,6 +102,9 @@
     const $qsel = document.getElementById('qsel');
     const $prev = document.getElementById('prev');
     const $next = document.getElementById('next');
+    const $playAudio = document.getElementById('play-audio');
+    const $audioStatus = document.getElementById('audio-status');
+    const $questionAudio = document.getElementById('question-audio');
     const $content = document.getElementById('content');
     const $footer = document.getElementById('footer');
 
@@ -148,9 +157,13 @@
 
       const lang = state.lang;
       const data = q[lang];
+      const audioNumber = String(q.number).padStart(3, '0');
+      const audioUrl = `${AUDIO_URL}${audioNumber}.mp3`;
 
       if (!data) {
         $content.innerHTML = `<p class="meta">No ${lang.toUpperCase()} content for this question.</p>`;
+        $playAudio.disabled = true;
+        $audioStatus.textContent = 'No audio';
         return;
       }
 
@@ -191,6 +204,12 @@
       $footer.textContent =
         `Question ${state.idx + 1} of ${state.questions.length}`;
       location.hash = `${lang}/${q.id}`;
+
+      $questionAudio.pause();
+      $questionAudio.currentTime = 0;
+      $questionAudio.src = audioUrl;
+      $playAudio.disabled = false;
+      $audioStatus.textContent = `Audio ${audioNumber}.mp3`;
     }
 
     function escapeHtml(s) {
@@ -204,6 +223,23 @@
     $prev.addEventListener('click', () => { if (state.idx > 0) { state.idx--; render(); }});
     $next.addEventListener('click', () => {
       if (state.idx < state.questions.length - 1) { state.idx++; render(); }
+    });
+    $playAudio.addEventListener('click', async () => {
+      try {
+        await $questionAudio.play();
+      } catch (err) {
+        $audioStatus.textContent = 'Audio unavailable';
+      }
+    });
+    $questionAudio.addEventListener('error', () => {
+      $playAudio.disabled = true;
+      $audioStatus.textContent = 'No audio';
+    });
+    $questionAudio.addEventListener('canplay', () => {
+      $playAudio.disabled = false;
+      if ($questionAudio.src) {
+        $audioStatus.textContent = $questionAudio.src.split('/').pop();
+      }
     });
     document.addEventListener('keydown', (e) => {
       if (e.target.tagName === 'SELECT') return;
