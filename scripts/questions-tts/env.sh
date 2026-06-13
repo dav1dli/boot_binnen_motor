@@ -1,4 +1,4 @@
-SPEECH_KEY=ECLwV5****
+SPEECH_KEY=ECLwV***
 SPEECH_REGION=swedencentral
 TTS_VOICE_DE=de-DE-Florian:DragonHDLatestNeural
 TTS_VOICE_RU=ru-RU-DmitryNeural

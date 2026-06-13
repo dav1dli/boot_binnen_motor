@@ -1,0 +1,1084 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tts-batch xmlns:ns0="http://www.w3.org/2001/10/synthesis">
+  <question number="254">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести пятьдесят четыре.</ns0:s>
+          <ns0:s>Что понимается под «скуловым килем» (Kimmkieler)?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Яхта с двумя боковыми (скуловыми) килями.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertvierundfünfzig.</ns0:s>
+          <ns0:s>Was wird unter einem "Kimmkieler" verstanden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Eine Yacht mit zwei Seitenkielen.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="255">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести пятьдесят пять.</ns0:s>
+          <ns0:s>В чём преимущество яхты со скуловыми килями перед другими килевыми яхтами?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Она может без проблем стоять на грунте в вертикальном положении при отливе.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertfünfundfünfzig.</ns0:s>
+          <ns0:s>Worin besteht der Vorteil eines Kimmkielers gegenüber anderen Kielbooten?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Er kann problemlos aufrecht trocken fallen.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="256">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести пятьдесят шесть.</ns0:s>
+          <ns0:s>Что понимается под «килешвертботом» (Kielschwertyacht)?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Яхта с неглубоким балластным килем и дополнительным подъёмным швертом.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsechsundfünfzig.</ns0:s>
+          <ns0:s>Was wird unter einer "Kielschwertyacht" verstanden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Eine Yacht mit flach gehendem Ballastkiel und zusätzlichem aufholbarem Schwert.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="257">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести пятьдесят семь.</ns0:s>
+          <ns0:s>Каким образом действуют донные шпигаты швертбота, расположенные ниже ватерлинии?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>За счёт разрежения, возникающего при движении судна через воду.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsiebenundfünfzig.</ns0:s>
+          <ns0:s>Wodurch wirken die Bodenlenzventile einer Jolle, die unterhalb der Wasserlinie liegen?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Durch den Sog, der bei Fahrt durchs Wasser entsteht.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="258">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести пятьдесят восемь.</ns0:s>
+          <ns0:s>Что понимается под «остойчивостью формы»?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Способность судна противодействовать крену за счёт формы корпуса.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertachtundfünfzig.</ns0:s>
+          <ns0:s>Was wird unter "Formstabilität" verstanden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="259">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести пятьдесят девять.</ns0:s>
+          <ns0:s>Что понимается под «весовой остойчивостью»?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Способность судна противодействовать крену за счёт низко расположенного балласта.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertneunundfünfzig.</ns0:s>
+          <ns0:s>Was wird unter "Gewichtsstabilität" verstanden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Die Fähigkeit eines Schiffes, durch seinen tief liegenden Ballast der Krängung entgegenzuwirken.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="260">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят.</ns0:s>
+          <ns0:s>Какие суда обладают преимущественно «весовой остойчивостью»?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Килевые яхты обладают преимущественно весовой остойчивостью.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsechzig.</ns0:s>
+          <ns0:s>Welche Boote sind vorwiegend "gewichtsstabil"?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Kielyachten sind vorwiegend "gewichtsstabil".</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="261">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят один.</ns0:s>
+          <ns0:s>Какие суда обладают преимущественно «остойчивостью формы»?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Швертботы обладают преимущественно остойчивостью формы.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihunderteinundsechzig.</ns0:s>
+          <ns0:s>Welche Boote sind vorwiegend "formstabil"?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Jollen sind vorwiegend "formstabil".</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="262">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят два.</ns0:s>
+          <ns0:s>Каким образом можно повысить остойчивость лодок с остойчивостью формы при сильном ветре?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Откренивание или использование трапеции.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertzweiundsechzig.</ns0:s>
+          <ns0:s>Wodurch kann bei formstabilen Booten bei viel Wind die Stabilität erhöht werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Durch Ausreiten bzw. durch Benutzung der Trapezeinrichtung.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="263">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят три.</ns0:s>
+          <ns0:s>Как изменяется восстанавливающий момент швертбота при крене?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Сначала он увеличивается до максимума, затем уменьшается до тех пор, пока центр плавучести и центр тяжести не окажутся на одной вертикали, после чего швертбот опрокидывается.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertdreiundsechzig.</ns0:s>
+          <ns0:s>Wie verändert sich das aufrichtende Kraftmoment einer Jolle bei Krängung?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Es nimmt anfangs zu bis zu einem Maximum, von da wieder ab, bis Auftriebs- und Gewischtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="264">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят четыре.</ns0:s>
+          <ns0:s>Как изменяется восстанавливающий момент килевой яхты при постоянно увеличивающемся крене?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Он увеличивается и после превышения максимума достигает критического угла лишь при более чем 90°.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertvierundsechzig.</ns0:s>
+          <ns0:s>Wie verändert sich das aufrichtende Kraftmoment einer Kielyacht bei stetig zunehmender Krängung?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Es nimmt zu und erreicht nach Überschreitung des Maximums seinen kritischen Winkel erst bei über 90°.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="265">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят пять.</ns0:s>
+          <ns0:s>Какие меры следует принять при поломке руля на швертботе?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Использовать аварийный руль или весло в качестве замены, покинуть фарватер, обозначить себя как маневронеспособное судно.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertfünfundsechzig.</ns0:s>
+          <ns0:s>Welche Maßnahme ist bei Ruderbruch auf einer Jolle zu treffen?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Notruder oder Paddel als Ersatz nehmen, Fahrwasser verlassen, sich als manövrierunfähig zu erkennen geben.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="266">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят шесть.</ns0:s>
+          <ns0:s>Каким образом можно обеспечить безопасный доступ к румпелю и управление им даже при крене лодки?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>С помощью удлинителя румпеля.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsechsundsechzig.</ns0:s>
+          <ns0:s>Wodurch kann eine Pinnensteuerung auch bei Krängung des Bootes sicher erreicht und bedient werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Durch einen Pinnenausleger.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="267">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят семь.</ns0:s>
+          <ns0:s>Почему тросы на борту следует всегда аккуратно укладывать в бухту?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Чтобы они были готовы к немедленному использованию.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsiebenundsechzig.</ns0:s>
+          <ns0:s>Warum sollte Tauwerk an Bord stets ordentlich aufgeschossen werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Damit es im Gebrauchsfall klar liegt.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="268">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят восемь.</ns0:s>
+          <ns0:s>Почему фалы следует всегда аккуратно укладывать в бухту?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Чтобы их можно было быстро и безопасно потравить при необходимости.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertachtundsechzig.</ns0:s>
+          <ns0:s>Warum sollten Fallen stets ordentlich aufgeschossen werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Damit sie im Gebrauchsfall schnell und sicher gefiert werden können.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="269">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести шестьдесят девять.</ns0:s>
+          <ns0:s>Как называются углы паруса?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Фаловый угол, галсовый угол, шкотовый угол.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertneunundsechzig.</ns0:s>
+          <ns0:s>Wie heißen die Ecken eines Segels?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Kopf, Hals, Schothorn.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="270">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят.</ns0:s>
+          <ns0:s>Как называются кромки паруса?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Передняя шкаторина, нижняя шкаторина, задняя шкаторина.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsiebzig.</ns0:s>
+          <ns0:s>Wie heißen die Kanten eines Segels?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Vorliek, Unterliek, Achterliek.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="271">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят один.</ns0:s>
+          <ns0:s>Для чего служат латы?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Для придания формы и жёсткости парусу.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihunderteinundsiebzig.</ns0:s>
+          <ns0:s>Wozu dienen Segellatten?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Der Formgebung und Aussteifung des Segels.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="272">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят два.</ns0:s>
+          <ns0:s>Почему нельзя допускать длительное заполаскивание парусов?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Заполаскивание повреждает ткань и вызывает расхождение швов.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertzweiundsiebzig.</ns0:s>
+          <ns0:s>Weshalb dürfen Segel nicht über einen längeren Zeitraum killen?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Killen schädigt das Tuch und lässt Nähte aufgehen.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="273">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят три.</ns0:s>
+          <ns0:s>Почему даже мелкие повреждения парусов необходимо ремонтировать немедленно?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Потому что под давлением ветра из них быстро образуются серьёзные повреждения.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertdreiundsiebzig.</ns0:s>
+          <ns0:s>Warum müssen auch kleine Schäden an den Segeln sofort repariert werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Weil unter Winddruck daraus schnell große Schäden werden.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="274">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят четыре.</ns0:s>
+          <ns0:s>По каким признакам во время плавания можно определить направление истинного ветра?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>По флагам или другим указателям на берегу.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertvierundsiebzig.</ns0:s>
+          <ns0:s>Woran kann wärend der Fahrt die Richtung des wahren Windes erkannt werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>An Flaggen oder anderen Anzeichen an Land.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="275">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят пять.</ns0:s>
+          <ns0:s>Какой ветер показывают вымпелы и флюгарки на ходу?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Вымпельный (кажущийся) ветер.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertfünfundsiebzig.</ns0:s>
+          <ns0:s>Welcher Wind wird in Fahrt von Standern bzw. Verklickern angezeigt?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Der scheinbare Wind.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="276">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят шесть.</ns0:s>
+          <ns0:s>Когда истинный и вымпельный ветер на парусном судне приходят с одного направления?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>На курсе фордевинд.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsechsundsiebzig.</ns0:s>
+          <ns0:s>Wann kommen wahrer Wind und scheinbarer Wind auf einem segelnden Boot aus der gleichen Richtung?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Auf Vorwindkurs.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="277">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят семь.</ns0:s>
+          <ns0:s>Почему вымпельный ветер на курсе фордевинд слабее истинного?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Истинный ветер уменьшается на величину встречного ветра хода.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsiebenundsiebzig.</ns0:s>
+          <ns0:s>Warum ist der scheinbare Wind auf einem Vorwindkurs schwächer als der wahre Wind?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Der wahre Wind vermindert sich um den entgegenstehenden Fahrtwind.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="278">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят восемь.</ns0:s>
+          <ns0:s>Почему вымпельный ветер на курсе бейдевинд сильнее истинного?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Потому что на этом курсе истинный ветер и ветер хода складываются по направлению и силе.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertachtundsiebzig.</ns0:s>
+          <ns0:s>Warum ist der scheinbare Wind auf einem Kurs hoch am Wind stärker als der wahre Wind?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Da sich auf diesem Kurs der wahre Wind und der Fahrtwind in Richtung und Stärke addieren.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="279">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести семьдесят девять.</ns0:s>
+          <ns0:s>На курсе бейдевинд были взяты рифы. Встречная яхта того же типа идёт без рифов. Как это объяснить?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Вымпельный ветер на курсе бейдевинд сильнее, а на курсе бакштаг и фордевинд — слабее истинного.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertneunundsiebzig.</ns0:s>
+          <ns0:s>Auf einem Amwindkurs wurde gerefft. Ein entgegenkommendes Boot gleichen Typs segelt ungerefft. Wie lässt sich das erklären?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Der scheinbare Wind ist auf Amwindkursen stärker, auf Raumschot- und Vorwindkursen schwächer als der wahre Wind.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="280">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят.</ns0:s>
+          <ns0:s>Почему при шквале на курсе бейдевинд вымпельный ветер заходит с кормы (отходит)?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Так как ветер хода остаётся прежним, а истинный ветер усиливается, результирующий вымпельный ветер приходит с более полного курсового угла.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertachtzig.</ns0:s>
+          <ns0:s>Warum raumt beim Einfallen einer Bö auf Amwindkurs der scheinbare Wind?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Da der Fahrtwind zunächst gleich bleibt, der wahre Wind jedoch zunimmt, kommt der daraus resultierende scheinbare Wind raumer.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="281">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят один.</ns0:s>
+          <ns0:s>При шквале на курсе бейдевинд вымпельный ветер отходит. Какую пользу можно извлечь из этого при лавировке?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Привестись, чтобы выиграть дополнительную высоту.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihunderteinundachtzig.</ns0:s>
+          <ns0:s>Beim Einfallen einer Bö auf Amwindkurs raumt der scheinbare Wind. Welchen Nutzen kann auf der Kreuz daraus gezogen werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Mitluven, um weitere Höhe zu gewinnen.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="282">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят два.</ns0:s>
+          <ns0:s>Как следует использовать шверт швертбота на курсе фордевинд и почему?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Его следует поднять. Это уменьшает сопротивление трения, а также опасность опрокидывания при непреднамеренном повороте фордевинд.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertzweiundachtzig.</ns0:s>
+          <ns0:s>Wie sollte das Schwert einer Jolle auf Vorwindkurs gefahren werden und warum?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Es sollte aufgeholt werden. Dadurch vermindert sich der Reibungswiderstand, aber auch die Gefahr der Kenterung bei einer unfreiwilligen Halse.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="283">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят три.</ns0:s>
+          <ns0:s>Как изменяются дрейф и крен, если поднять шверт швертбота на курсе бейдевинд?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Дрейф увеличивается, крен уменьшается.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertdreiundachtzig.</ns0:s>
+          <ns0:s>Wie verändern sich Abdrift und Krängung, wenn das Schwert einer Jolle auf einem Amwindkurs etwas aufgeholt wird?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Die Abdrift wird größer, die Krängung nimmt ab.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="284">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят четыре.</ns0:s>
+          <ns0:s>С каким креном обычно следует ходить на швертботе и почему?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>По возможности прямо, иначе возрастают дрейф и тенденция к приводу.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertvierundachtzig.</ns0:s>
+          <ns0:s>Mit welcher Krängung sollte eine Jolle üblicherweise gesegelt werden und weshalb?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Möglichst aufrecht, da sonst Abdrift und Luvgierigkeit zunehmen.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="285">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят пять.</ns0:s>
+          <ns0:s>Как влияет слишком туго выбранный грот на скорость лодки на курсе галфвинд?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Крен увеличивается, скорость уменьшается.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertfünfundachtzig.</ns0:s>
+          <ns0:s>Wie wirkt sich auf einem Halbwindkurs ein zu dicht geholtes Großsegel auf die Geschwindigkeit des Bootes aus?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Die Krängung nimmt zu, die Geschwindigkeit nimmt ab.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="286">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят шесть.</ns0:s>
+          <ns0:s>Как влияет кипа (точка крепления шкота), расположенная слишком далеко вперёд, на форму и нагрузку стакселя?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Нижняя шкаторина заполаскивает, задняя шкаторина чрезмерно растягивается.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsechsundachtzig.</ns0:s>
+          <ns0:s>Wie wirkt sich ein Holepunkt, der zu weit vorne liegt, auf Stand und Beanspruchung des Vorsegels aus?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Das Unterliek killt, das Achterliek wird übermäßig gereckt.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="287">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят семь.</ns0:s>
+          <ns0:s>Как влияет кипа, расположенная слишком далеко назад, на форму и нагрузку стакселя?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Задняя шкаторина заполаскивает, нижняя шкаторина чрезмерно растягивается.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsiebenundachtzig.</ns0:s>
+          <ns0:s>Wie wirkt sich ein Holepunkt, der zu weit achtern liegt, auf Stand und Beanspruchung des Vorsegels aus?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Das Achterliek killt, das Unterliek wird übermäßig gereckt.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="288">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят восемь.</ns0:s>
+          <ns0:s>Как следует настраивать парус при слабом ветре?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Парус должен быть пузатым.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertachtundachtzig.</ns0:s>
+          <ns0:s>Wie muss ein Segel bei leichtem Wind getrimmt werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Das Segel soll bauchig stehen.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="289">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести восемьдесят девять.</ns0:s>
+          <ns0:s>Как следует настраивать парус при сильном ветре?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Парус должен быть плоским.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertneunundachtzig.</ns0:s>
+          <ns0:s>Wie muss ein Segel bei starkem Wind getrimmt werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Das Segel soll flach getrimmt werden.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="290">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто.</ns0:s>
+          <ns0:s>Как оттяжка нижней шкаторины влияет на настройку паруса?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>В зависимости от натяжения нижняя часть грота становится более пузатой или более плоской.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertneunzig.</ns0:s>
+          <ns0:s>Wie beeinflusst ein Unterliekstrecker den Trimm des Segels?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Je nach Zugkraft wird der untere Teil des Großsegels bauchiger oder flacher.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="291">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто один.</ns0:s>
+          <ns0:s>Чтобы удержать швертбот на курсе бейдевинд, приходится постоянно сильно тянуть румпель от парусов. Как устранить эту ошибку настройки?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Сделать грот более плоским; сместить вес назад.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihunderteinundneunzig.</ns0:s>
+          <ns0:s>Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark von der Seite der Segel weggezogen werden. Wie kann der Trimmfehler behoben werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Großsegel flacher trimmen; Gewichtsverlagerung nach achtern.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="292">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто два.</ns0:s>
+          <ns0:s>Чтобы удержать швертбот на курсе бейдевинд, приходится постоянно сильно толкать румпель в сторону парусов. Как устранить эту ошибку настройки?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Сделать грот более пузатым, сместить вес вперёд.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertzweiundneunzig.</ns0:s>
+          <ns0:s>Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark zur Seite der Segel hingedrückt werden. Wie kann der Trimmfehler behoben werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Großsegel bauchiger trimmen, Gewichtsverlagerung nach vorn.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="293">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто три.</ns0:s>
+          <ns0:s>Почему хорошо настроенная парусная яхта должна иметь лёгкую тенденцию к приводу?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Потому что в аварийной ситуации она сама приводится к ветру.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertdreiundneunzig.</ns0:s>
+          <ns0:s>Warum soll ein gut getrimmtes Segelboot leicht luvgierig sein?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Weil es im Notfall von selbst in den Wind schießt.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="294">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто четыре.</ns0:s>
+          <ns0:s>Как увеличивающийся крен влияет на настройку лодки?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Тенденция к приводу возрастает.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertvierundneunzig.</ns0:s>
+          <ns0:s>Welchen Einfluss hat zunehmende Krängung auf den Trimm des Bootes?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Die Luvgierigkeit nimmt zu.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="295">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто пять.</ns0:s>
+          <ns0:s>Какие манёвры выполнила яхта на обозначенном курсе в точках 1, 2 и 3?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>1 — поворот оверштаг, 2 — поворот фордевинд, 3 — Q-поворот.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertfünfundneunzig.</ns0:s>
+          <ns0:s>Welche Manöver hat das Boot auf dem eingezeichneten Kurs an den Punkten 1, 2 und 3 gefahren?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>1 Wende, 2 Halse, 3 Q-Wende.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="296">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто шесть.</ns0:s>
+          <ns0:s>Что следует сделать со швертом и рулём швертбота, если лодку оставляют на буе?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Поднять шверт и перо руля, чтобы лодка могла свободно рыскать на якоре.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsechsundneunzig.</ns0:s>
+          <ns0:s>Was ist mit Schwert und Ruder einer Jolle zu tun, wenn das Boot an einer Boje liegen gelassen wird?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Schwert und Ruderblatt aufholen, damit das Boot frei schwojen kann.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="297">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто семь.</ns0:s>
+          <ns0:s>Почему непреднамеренный поворот фордевинд (брочинг) опасен?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Он может привести к травмам экипажа, повреждению рангоута и такелажа, а также к опрокидыванию.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertsiebenundneunzig.</ns0:s>
+          <ns0:s>Warum ist eine Patenthalse gefährlich?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Es kann zu Verletzungen der Crew, zu Riggschäden und zur Kenterung führen.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="298">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто восемь.</ns0:s>
+          <ns0:s>Парусная яхта идёт в бейдевинд, внезапно обрывается наветренная ванта. Какой манёвр целесообразен?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Поворот оверштаг.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertachtundneunzig.</ns0:s>
+          <ns0:s>Ein Segelboot segelt am Wind, plötzlich bricht das Luvwant. Welches Manöver ist sinnvoll?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Wende.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="299">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер двести девяносто девять.</ns0:s>
+          <ns0:s>Парусная яхта идёт при сильном ветре только под гротом курсом бейдевинд. Внезапно обрывается форштаг. Что нужно сделать немедленно?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Увалиться на курс фордевинд.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer zweihundertneunundneunzig.</ns0:s>
+          <ns0:s>Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Was ist sofort zu unternehmen?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Abfallen auf Vorwindkurs.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+  <question number="300">
+    <ns0:speak version="1.0" xml:lang="ru-RU">
+      <ns0:voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <ns0:p>
+          <ns0:s>Вопрос номер триста.</ns0:s>
+          <ns0:s>Парусная яхта идёт при сильном ветре только под гротом курсом бейдевинд. Внезапно обрывается форштаг. Чем можно быстро заменить оборванный форштаг в качестве временной меры?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Правильный ответ.</ns0:s>
+          <ns0:s>Стакселем или фалом.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+      <ns0:break time="1300ms" />
+      <ns0:voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <ns0:p>
+          <ns0:s>Frage Nummer dreihundert.</ns0:s>
+          <ns0:s>Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Womit kann das gebrochene Vorstag schnell provisorisch ersetzt werden?</ns0:s>
+          <ns0:break time="900ms" />
+          <ns0:s>Richtige Antwort.</ns0:s>
+          <ns0:s>Durch die Fock oder ein Fall.</ns0:s>
+        </ns0:p>
+      </ns0:voice>
+    </ns0:speak>
+  </question>
+</tts-batch>

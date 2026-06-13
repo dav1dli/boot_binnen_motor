@@ -5819,4 +5819,1085 @@
       </voice>
     </speak>
   </question>
+  <question number="254">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести пятьдесят четыре.</s>
+          <s>Что понимается под «скуловым килем» (Kimmkieler)?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Яхта с двумя боковыми (скуловыми) килями.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertvierundfünfzig.</s>
+          <s>Was wird unter einem "Kimmkieler" verstanden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Eine Yacht mit zwei Seitenkielen.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="255">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести пятьдесят пять.</s>
+          <s>В чём преимущество яхты со скуловыми килями перед другими килевыми яхтами?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Она может без проблем стоять на грунте в вертикальном положении при отливе.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertfünfundfünfzig.</s>
+          <s>Worin besteht der Vorteil eines Kimmkielers gegenüber anderen Kielbooten?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Er kann problemlos aufrecht trocken fallen.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="256">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести пятьдесят шесть.</s>
+          <s>Что понимается под «килешвертботом» (Kielschwertyacht)?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Яхта с неглубоким балластным килем и дополнительным подъёмным швертом.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsechsundfünfzig.</s>
+          <s>Was wird unter einer "Kielschwertyacht" verstanden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Eine Yacht mit flach gehendem Ballastkiel und zusätzlichem aufholbarem Schwert.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="257">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести пятьдесят семь.</s>
+          <s>Каким образом действуют донные шпигаты швертбота, расположенные ниже ватерлинии?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>За счёт разрежения, возникающего при движении судна через воду.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsiebenundfünfzig.</s>
+          <s>Wodurch wirken die Bodenlenzventile einer Jolle, die unterhalb der Wasserlinie liegen?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Durch den Sog, der bei Fahrt durchs Wasser entsteht.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="258">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести пятьдесят восемь.</s>
+          <s>Что понимается под «остойчивостью формы»?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Способность судна противодействовать крену за счёт формы корпуса.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertachtundfünfzig.</s>
+          <s>Was wird unter "Formstabilität" verstanden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="259">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести пятьдесят девять.</s>
+          <s>Что понимается под «весовой остойчивостью»?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Способность судна противодействовать крену за счёт низко расположенного балласта.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertneunundfünfzig.</s>
+          <s>Was wird unter "Gewichtsstabilität" verstanden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Die Fähigkeit eines Schiffes, durch seinen tief liegenden Ballast der Krängung entgegenzuwirken.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="260">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят.</s>
+          <s>Какие суда обладают преимущественно «весовой остойчивостью»?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Килевые яхты обладают преимущественно весовой остойчивостью.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsechzig.</s>
+          <s>Welche Boote sind vorwiegend "gewichtsstabil"?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Kielyachten sind vorwiegend "gewichtsstabil".</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="261">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят один.</s>
+          <s>Какие суда обладают преимущественно «остойчивостью формы»?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Швертботы обладают преимущественно остойчивостью формы.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihunderteinundsechzig.</s>
+          <s>Welche Boote sind vorwiegend "formstabil"?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Jollen sind vorwiegend "formstabil".</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="262">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят два.</s>
+          <s>Каким образом можно повысить остойчивость лодок с остойчивостью формы при сильном ветре?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Откренивание или использование трапеции.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertzweiundsechzig.</s>
+          <s>Wodurch kann bei formstabilen Booten bei viel Wind die Stabilität erhöht werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Durch Ausreiten bzw. durch Benutzung der Trapezeinrichtung.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="263">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят три.</s>
+          <s>Как изменяется восстанавливающий момент швертбота при крене?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Сначала он увеличивается до максимума, затем уменьшается до тех пор, пока центр плавучести и центр тяжести не окажутся на одной вертикали, после чего швертбот опрокидывается.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertdreiundsechzig.</s>
+          <s>Wie verändert sich das aufrichtende Kraftmoment einer Jolle bei Krängung?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Es nimmt anfangs zu bis zu einem Maximum, von da wieder ab, bis Auftriebs- und Gewischtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="264">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят четыре.</s>
+          <s>Как изменяется восстанавливающий момент килевой яхты при постоянно увеличивающемся крене?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Он увеличивается и после превышения максимума достигает критического угла лишь при более чем 90°.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertvierundsechzig.</s>
+          <s>Wie verändert sich das aufrichtende Kraftmoment einer Kielyacht bei stetig zunehmender Krängung?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Es nimmt zu und erreicht nach Überschreitung des Maximums seinen kritischen Winkel erst bei über 90°.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="265">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят пять.</s>
+          <s>Какие меры следует принять при поломке руля на швертботе?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Использовать аварийный руль или весло в качестве замены, покинуть фарватер, обозначить себя как маневронеспособное судно.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertfünfundsechzig.</s>
+          <s>Welche Maßnahme ist bei Ruderbruch auf einer Jolle zu treffen?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Notruder oder Paddel als Ersatz nehmen, Fahrwasser verlassen, sich als manövrierunfähig zu erkennen geben.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="266">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят шесть.</s>
+          <s>Каким образом можно обеспечить безопасный доступ к румпелю и управление им даже при крене лодки?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>С помощью удлинителя румпеля.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsechsundsechzig.</s>
+          <s>Wodurch kann eine Pinnensteuerung auch bei Krängung des Bootes sicher erreicht und bedient werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Durch einen Pinnenausleger.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="267">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят семь.</s>
+          <s>Почему тросы на борту следует всегда аккуратно укладывать в бухту?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Чтобы они были готовы к немедленному использованию.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsiebenundsechzig.</s>
+          <s>Warum sollte Tauwerk an Bord stets ordentlich aufgeschossen werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Damit es im Gebrauchsfall klar liegt.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="268">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят восемь.</s>
+          <s>Почему фалы следует всегда аккуратно укладывать в бухту?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Чтобы их можно было быстро и безопасно потравить при необходимости.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertachtundsechzig.</s>
+          <s>Warum sollten Fallen stets ordentlich aufgeschossen werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Damit sie im Gebrauchsfall schnell und sicher gefiert werden können.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="269">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести шестьдесят девять.</s>
+          <s>Как называются углы паруса?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Фаловый угол, галсовый угол, шкотовый угол.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertneunundsechzig.</s>
+          <s>Wie heißen die Ecken eines Segels?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Kopf, Hals, Schothorn.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="270">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят.</s>
+          <s>Как называются кромки паруса?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Передняя шкаторина, нижняя шкаторина, задняя шкаторина.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsiebzig.</s>
+          <s>Wie heißen die Kanten eines Segels?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Vorliek, Unterliek, Achterliek.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="271">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят один.</s>
+          <s>Для чего служат латы?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Для придания формы и жёсткости парусу.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihunderteinundsiebzig.</s>
+          <s>Wozu dienen Segellatten?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Der Formgebung und Aussteifung des Segels.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="272">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят два.</s>
+          <s>Почему нельзя допускать длительное заполаскивание парусов?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Заполаскивание повреждает ткань и вызывает расхождение швов.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertzweiundsiebzig.</s>
+          <s>Weshalb dürfen Segel nicht über einen längeren Zeitraum killen?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Killen schädigt das Tuch und lässt Nähte aufgehen.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="273">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят три.</s>
+          <s>Почему даже мелкие повреждения парусов необходимо ремонтировать немедленно?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Потому что под давлением ветра из них быстро образуются серьёзные повреждения.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertdreiundsiebzig.</s>
+          <s>Warum müssen auch kleine Schäden an den Segeln sofort repariert werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Weil unter Winddruck daraus schnell große Schäden werden.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="274">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят четыре.</s>
+          <s>По каким признакам во время плавания можно определить направление истинного ветра?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>По флагам или другим указателям на берегу.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertvierundsiebzig.</s>
+          <s>Woran kann wärend der Fahrt die Richtung des wahren Windes erkannt werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>An Flaggen oder anderen Anzeichen an Land.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="275">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят пять.</s>
+          <s>Какой ветер показывают вымпелы и флюгарки на ходу?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Вымпельный (кажущийся) ветер.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertfünfundsiebzig.</s>
+          <s>Welcher Wind wird in Fahrt von Standern bzw. Verklickern angezeigt?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Der scheinbare Wind.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="276">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят шесть.</s>
+          <s>Когда истинный и вымпельный ветер на парусном судне приходят с одного направления?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>На курсе фордевинд.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsechsundsiebzig.</s>
+          <s>Wann kommen wahrer Wind und scheinbarer Wind auf einem segelnden Boot aus der gleichen Richtung?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Auf Vorwindkurs.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="277">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят семь.</s>
+          <s>Почему вымпельный ветер на курсе фордевинд слабее истинного?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Истинный ветер уменьшается на величину встречного ветра хода.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsiebenundsiebzig.</s>
+          <s>Warum ist der scheinbare Wind auf einem Vorwindkurs schwächer als der wahre Wind?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Der wahre Wind vermindert sich um den entgegenstehenden Fahrtwind.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="278">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят восемь.</s>
+          <s>Почему вымпельный ветер на курсе бейдевинд сильнее истинного?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Потому что на этом курсе истинный ветер и ветер хода складываются по направлению и силе.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertachtundsiebzig.</s>
+          <s>Warum ist der scheinbare Wind auf einem Kurs hoch am Wind stärker als der wahre Wind?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Da sich auf diesem Kurs der wahre Wind und der Fahrtwind in Richtung und Stärke addieren.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="279">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести семьдесят девять.</s>
+          <s>На курсе бейдевинд были взяты рифы. Встречная яхта того же типа идёт без рифов. Как это объяснить?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Вымпельный ветер на курсе бейдевинд сильнее, а на курсе бакштаг и фордевинд — слабее истинного.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertneunundsiebzig.</s>
+          <s>Auf einem Amwindkurs wurde gerefft. Ein entgegenkommendes Boot gleichen Typs segelt ungerefft. Wie lässt sich das erklären?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Der scheinbare Wind ist auf Amwindkursen stärker, auf Raumschot- und Vorwindkursen schwächer als der wahre Wind.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="280">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят.</s>
+          <s>Почему при шквале на курсе бейдевинд вымпельный ветер заходит с кормы (отходит)?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Так как ветер хода остаётся прежним, а истинный ветер усиливается, результирующий вымпельный ветер приходит с более полного курсового угла.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertachtzig.</s>
+          <s>Warum raumt beim Einfallen einer Bö auf Amwindkurs der scheinbare Wind?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Da der Fahrtwind zunächst gleich bleibt, der wahre Wind jedoch zunimmt, kommt der daraus resultierende scheinbare Wind raumer.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="281">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят один.</s>
+          <s>При шквале на курсе бейдевинд вымпельный ветер отходит. Какую пользу можно извлечь из этого при лавировке?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Привестись, чтобы выиграть дополнительную высоту.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihunderteinundachtzig.</s>
+          <s>Beim Einfallen einer Bö auf Amwindkurs raumt der scheinbare Wind. Welchen Nutzen kann auf der Kreuz daraus gezogen werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Mitluven, um weitere Höhe zu gewinnen.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="282">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят два.</s>
+          <s>Как следует использовать шверт швертбота на курсе фордевинд и почему?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Его следует поднять. Это уменьшает сопротивление трения, а также опасность опрокидывания при непреднамеренном повороте фордевинд.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertzweiundachtzig.</s>
+          <s>Wie sollte das Schwert einer Jolle auf Vorwindkurs gefahren werden und warum?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Es sollte aufgeholt werden. Dadurch vermindert sich der Reibungswiderstand, aber auch die Gefahr der Kenterung bei einer unfreiwilligen Halse.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="283">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят три.</s>
+          <s>Как изменяются дрейф и крен, если поднять шверт швертбота на курсе бейдевинд?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Дрейф увеличивается, крен уменьшается.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertdreiundachtzig.</s>
+          <s>Wie verändern sich Abdrift und Krängung, wenn das Schwert einer Jolle auf einem Amwindkurs etwas aufgeholt wird?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Die Abdrift wird größer, die Krängung nimmt ab.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="284">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят четыре.</s>
+          <s>С каким креном обычно следует ходить на швертботе и почему?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>По возможности прямо, иначе возрастают дрейф и тенденция к приводу.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertvierundachtzig.</s>
+          <s>Mit welcher Krängung sollte eine Jolle üblicherweise gesegelt werden und weshalb?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Möglichst aufrecht, da sonst Abdrift und Luvgierigkeit zunehmen.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="285">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят пять.</s>
+          <s>Как влияет слишком туго выбранный грот на скорость лодки на курсе галфвинд?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Крен увеличивается, скорость уменьшается.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertfünfundachtzig.</s>
+          <s>Wie wirkt sich auf einem Halbwindkurs ein zu dicht geholtes Großsegel auf die Geschwindigkeit des Bootes aus?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Die Krängung nimmt zu, die Geschwindigkeit nimmt ab.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="286">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят шесть.</s>
+          <s>Как влияет кипа (точка крепления шкота), расположенная слишком далеко вперёд, на форму и нагрузку стакселя?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Нижняя шкаторина заполаскивает, задняя шкаторина чрезмерно растягивается.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsechsundachtzig.</s>
+          <s>Wie wirkt sich ein Holepunkt, der zu weit vorne liegt, auf Stand und Beanspruchung des Vorsegels aus?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Das Unterliek killt, das Achterliek wird übermäßig gereckt.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="287">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят семь.</s>
+          <s>Как влияет кипа, расположенная слишком далеко назад, на форму и нагрузку стакселя?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Задняя шкаторина заполаскивает, нижняя шкаторина чрезмерно растягивается.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsiebenundachtzig.</s>
+          <s>Wie wirkt sich ein Holepunkt, der zu weit achtern liegt, auf Stand und Beanspruchung des Vorsegels aus?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Das Achterliek killt, das Unterliek wird übermäßig gereckt.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="288">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят восемь.</s>
+          <s>Как следует настраивать парус при слабом ветре?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Парус должен быть пузатым.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertachtundachtzig.</s>
+          <s>Wie muss ein Segel bei leichtem Wind getrimmt werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Das Segel soll bauchig stehen.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="289">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести восемьдесят девять.</s>
+          <s>Как следует настраивать парус при сильном ветре?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Парус должен быть плоским.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertneunundachtzig.</s>
+          <s>Wie muss ein Segel bei starkem Wind getrimmt werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Das Segel soll flach getrimmt werden.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="290">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто.</s>
+          <s>Как оттяжка нижней шкаторины влияет на настройку паруса?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>В зависимости от натяжения нижняя часть грота становится более пузатой или более плоской.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertneunzig.</s>
+          <s>Wie beeinflusst ein Unterliekstrecker den Trimm des Segels?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Je nach Zugkraft wird der untere Teil des Großsegels bauchiger oder flacher.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="291">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто один.</s>
+          <s>Чтобы удержать швертбот на курсе бейдевинд, приходится постоянно сильно тянуть румпель от парусов. Как устранить эту ошибку настройки?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Сделать грот более плоским; сместить вес назад.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihunderteinundneunzig.</s>
+          <s>Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark von der Seite der Segel weggezogen werden. Wie kann der Trimmfehler behoben werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Großsegel flacher trimmen; Gewichtsverlagerung nach achtern.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="292">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто два.</s>
+          <s>Чтобы удержать швертбот на курсе бейдевинд, приходится постоянно сильно толкать румпель в сторону парусов. Как устранить эту ошибку настройки?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Сделать грот более пузатым, сместить вес вперёд.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertzweiundneunzig.</s>
+          <s>Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark zur Seite der Segel hingedrückt werden. Wie kann der Trimmfehler behoben werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Großsegel bauchiger trimmen, Gewichtsverlagerung nach vorn.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="293">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто три.</s>
+          <s>Почему хорошо настроенная парусная яхта должна иметь лёгкую тенденцию к приводу?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Потому что в аварийной ситуации она сама приводится к ветру.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertdreiundneunzig.</s>
+          <s>Warum soll ein gut getrimmtes Segelboot leicht luvgierig sein?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Weil es im Notfall von selbst in den Wind schießt.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="294">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто четыре.</s>
+          <s>Как увеличивающийся крен влияет на настройку лодки?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Тенденция к приводу возрастает.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertvierundneunzig.</s>
+          <s>Welchen Einfluss hat zunehmende Krängung auf den Trimm des Bootes?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Die Luvgierigkeit nimmt zu.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="295">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто пять.</s>
+          <s>Какие манёвры выполнила яхта на обозначенном курсе в точках 1, 2 и 3?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>1 — поворот оверштаг, 2 — поворот фордевинд, 3 — Q-поворот.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertfünfundneunzig.</s>
+          <s>Welche Manöver hat das Boot auf dem eingezeichneten Kurs an den Punkten 1, 2 und 3 gefahren?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>1 Wende, 2 Halse, 3 Q-Wende.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="296">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто шесть.</s>
+          <s>Что следует сделать со швертом и рулём швертбота, если лодку оставляют на буе?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Поднять шверт и перо руля, чтобы лодка могла свободно рыскать на якоре.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsechsundneunzig.</s>
+          <s>Was ist mit Schwert und Ruder einer Jolle zu tun, wenn das Boot an einer Boje liegen gelassen wird?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Schwert und Ruderblatt aufholen, damit das Boot frei schwojen kann.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="297">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто семь.</s>
+          <s>Почему непреднамеренный поворот фордевинд (брочинг) опасен?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Он может привести к травмам экипажа, повреждению рангоута и такелажа, а также к опрокидыванию.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertsiebenundneunzig.</s>
+          <s>Warum ist eine Patenthalse gefährlich?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Es kann zu Verletzungen der Crew, zu Riggschäden und zur Kenterung führen.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="298">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто восемь.</s>
+          <s>Парусная яхта идёт в бейдевинд, внезапно обрывается наветренная ванта. Какой манёвр целесообразен?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Поворот оверштаг.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertachtundneunzig.</s>
+          <s>Ein Segelboot segelt am Wind, plötzlich bricht das Luvwant. Welches Manöver ist sinnvoll?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Wende.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="299">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер двести девяносто девять.</s>
+          <s>Парусная яхта идёт при сильном ветре только под гротом курсом бейдевинд. Внезапно обрывается форштаг. Что нужно сделать немедленно?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Увалиться на курс фордевинд.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer zweihundertneunundneunzig.</s>
+          <s>Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Was ist sofort zu unternehmen?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Abfallen auf Vorwindkurs.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
+  <question number="300">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Вопрос номер триста.</s>
+          <s>Парусная яхта идёт при сильном ветре только под гротом курсом бейдевинд. Внезапно обрывается форштаг. Чем можно быстро заменить оборванный форштаг в качестве временной меры?</s>
+          <break time="900ms" />
+          <s>Правильный ответ.</s>
+          <s>Стакселем или фалом.</s>
+        </p>
+      </voice>
+      <break time="1300ms" />
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Frage Nummer dreihundert.</s>
+          <s>Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Womit kann das gebrochene Vorstag schnell provisorisch ersetzt werden?</s>
+          <break time="900ms" />
+          <s>Richtige Antwort.</s>
+          <s>Durch die Fock oder ein Fall.</s>
+        </p>
+      </voice>
+    </speak>
+  </question>
 </tts-batch>

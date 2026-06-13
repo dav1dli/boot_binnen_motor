@@ -1,0 +1,395 @@
+{
+  "chapter": "02",
+  "title": {
+    "de": "Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen",
+    "ru": "Удостоверение судоводителя спортивного судна для внутренних водных путей"
+  },
+  "source": {
+    "de": "content/de/sbf-binnen-de-02.html",
+    "ru": "content/ru/prava-na-lodku-02.html"
+  },
+  "sections": [
+    {
+      "id": "02-01-geltungsbereich",
+      "title": {
+        "de": "Geltungsbereich und Führerscheinpflicht",
+        "ru": "Область действия и обязанность иметь удостоверение"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/SBF-binnen-motor-6.jpg",
+          "role": "chapter-header"
+        },
+        {
+          "type": "text",
+          "de": "Jeder, der auf Binnenschifffahrtsstraßen ein Motor- oder Segelboot mit einer Nutzleistung von mehr als 11,03 kW (15 PS) fahren will, braucht diesen Sportbootführerschein. Wichtige Ausnahmen bilden der Rhein und einige Landesgewässer, z. B. Abschnitte der Ruhr: Hier gilt eine Fahrerlaubnispflicht für Sportboote bereits mit einer Nutzleistung von mehr als 3,68 kW (5 PS). Das fordert die Sportbootführerscheinverordnung (SpFV) vom 3.5.2017.",
+          "ru": "Каждый, кто хочет управлять на внутренних водных путях моторным или парусным судном с полезной мощностью двигателя более 11,03 кВт (15 л.с.), должен иметь это удостоверение судоводителя спортивного судна. Важные исключения составляют Рейн и некоторые региональные водоёмы, например участки реки Рур: здесь обязанность иметь удостоверение распространяется уже на спортивные суда с мощностью более 3,68 кВт (5 л.с.). Это установлено постановлением о правах на управление спортивными судами (SpFV) от 03.05.2017."
+        },
+        {
+          "type": "text",
+          "de": "Binnenschifffahrtsstraßen im Sinne dieser Führerscheinverordnung sind die Bundeswasserstraßen Rhein, Donau, Mosel, Saar, Main, Main-Donau-Kanal, Neckar, Lahn, Schifffahrtsweg Rhein-Kleve, Ruhr, Rhein-Herne-Kanal, Wesel-Datteln-Kanal, Datteln-Hamm-Kanal, Dortmund-Ems-Kanal, Mittellandkanal mit seinen Zweigkanälen, Ems bis Gleesen, Küstenkanal, Leda, Elisabethfehnkanal, Ems-Seiten-Kanal, Oldersum-Emden, Weser bis Bremen, Werra, Fulda, Aller, Leine, Elbe-Seiten-Kanal, Elbe bis Hamburg, Ilmenau, Elbe-Lübeck-Kanal, Trave bis Lübeck, Saale, Elbe-Havel-Wasserstraße, Untere Havel-Wasserstraße, Teltow-Kanal, Havel-Oder-Wasserstraße, Spree-Oder-Wasserstraße, Oder zwischen Ratzdorf und Widuchowa, Obere Havel-Wasserstraße, Müritz-Elde-Wasserstraße, Peene, Ücker bis Randow.",
+          "ru": "Внутренними водными путями в смысле данного постановления считаются федеральные водные пути: Рейн, Дунай, Мозель, Саар, Майн, канал Майн‑Дунай, Неккар, Лан, судоходный путь Рейн‑Клеве, Рур, канал Рейн‑Херне, канал Везель‑Даттельн, канал Даттельн‑Хамм, канал Дортмунд‑Эмс, Среднегерманский канал с его ответвлениями, Эмс до Глезена, Прибрежный канал, Леда, канал Элизабетфен, канал Эмс‑Зайтен, Олдерзум‑Эмден, Везер до Бремена, Верра, Фульда, Аллер, Лайне, канал Эльба‑Зайтен, Эльба до Гамбурга, Ильменау, канал Эльба‑Любек, Траве до Любека, Заале, водный путь Эльба‑Хафель, Нижняя Хафель, канал Тельтов, водный путь Хафель‑Одер, водный путь Шпрее‑Одер, Одер между Рацдорфом и Видуховой, Верхняя Хафель, водный путь Мюриц‑Эльде, Пене, Юкер до Рандова."
+        },
+        {
+          "type": "text",
+          "de": "Anschließende Flussstrecken, die in Nord- oder Ostsee münden, sind Seeschifffahrtsstraßen, auf denen der Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen erforderlich ist.",
+          "ru": "Примыкающие речные участки, впадающие в Северное или Балтийское море, являются морскими судоходными путями, где требуется удостоверение судоводителя спортивного судна с областью действия для морских судоходных путей."
+        },
+        {
+          "type": "text",
+          "de": "Alle hier nicht genannten Binnengewässer stehen unter der Verwaltung der Bundesländer oder der Kommunen. Wenn auf ihren Gewässern das Motorbootfahren überhaupt erlaubt ist, verlangen sie ebenfalls den Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen.",
+          "ru": "Все внутренние водоёмы, не перечисленные здесь, находятся в ведении федеральных земель или муниципалитетов. Если на них вообще разрешено плавание на моторных лодках, обычно также требуется удостоверение судоводителя спортивного судна для внутренних водных путей."
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "Außerdem ist auf Gewässern in Berlin und auf verschiedenen angrenzenden Gewässern Brandenburgs der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen auch für Segelfahrzeuge mit mehr als 6 m² Segelfläche vorgeschrieben.",
+              "ru": "Кроме того, на водоёмах Берлина и на некоторых прилегающих водоёмах Бранденбурга такое удостоверение требуется также для парусных судов с площадью парусов более 6 м²."
+            },
+            {
+              "de": "Segelsurfbretter sind von der Führerscheinpflicht befreit.",
+              "ru": "Доски для виндсёрфинга освобождены от обязанности иметь удостоверение."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "de": "Für Motorboote von 20 bis 25 Meter Länge ist auf den Binnenschifffahrtsstraßen das Sportschifferzeugnis, für Boote von 15 bis 25 Meter auf dem Rhein das Sportpatent vorgeschrieben.",
+          "ru": "Для моторных судов длиной от 20 до 25 метров на внутренних водных путях требуется свидетельство спортивного судоводителя, а для судов длиной от 15 до 25 метров на Рейне — специальный патент спортивного судоводителя."
+        },
+        {
+          "type": "text",
+          "de": "Der Sportbootführerschein gilt ferner nicht auf dem (internationalen) Bodensee. Dort ist das Bodenseeschifferpatent erforderlich, das jedoch umgeschrieben werden kann.",
+          "ru": "Удостоверение также не действует на международном Боденском озере. Там требуется патент судоводителя Боденского озера, который, однако, может быть заменён соответствующим образом."
+        }
+      ],
+      "terms": [
+        {
+          "de": "Sportbootführerschein Binnen (SBF Binnen)",
+          "ru": "Удостоверение судоводителя спортивного судна для внутренних водных путей",
+          "definition": {
+            "de": "Amtlicher Führerschein zum Führen von Sport- und Freizeitbooten auf Binnenschifffahrtsstraßen.",
+            "ru": "Официальное удостоверение на право управления спортивными и прогулочными судами на внутренних водных путях."
+          }
+        },
+        {
+          "de": "Binnenschifffahrtsstraßen",
+          "ru": "Внутренние водные пути",
+          "definition": {
+            "de": "Bundeswasserstraßen des Binnenlandes (Flüsse, Kanäle), auf denen die Sportbootführerscheinverordnung gilt.",
+            "ru": "Федеральные водные пути внутри страны (реки, каналы), на которых действует постановление об удостоверениях судоводителей."
+          }
+        },
+        {
+          "de": "Sportbootführerscheinverordnung (SpFV)",
+          "ru": "Постановление об удостоверениях судоводителей спортивных судов (SpFV)",
+          "definition": {
+            "de": "Verordnung vom 3.5.2017, die die Führerscheinpflicht für Sportboote auf Binnenschifffahrtsstraßen regelt.",
+            "ru": "Постановление от 03.05.2017, регулирующее обязанность иметь удостоверение для спортивных судов на внутренних водных путях."
+          }
+        },
+        {
+          "de": "Nutzleistung",
+          "ru": "Полезная мощность",
+          "definition": {
+            "de": "Motorleistung, ab der ein Führerschein erforderlich ist: >11,03 kW (15 PS), auf dem Rhein >3,68 kW (5 PS).",
+            "ru": "Мощность двигателя, начиная с которой требуется удостоверение: более 11,03 кВт (15 л.с.), на Рейне более 3,68 кВт (5 л.с.)."
+          }
+        },
+        {
+          "de": "Bodenseeschifferpatent",
+          "ru": "Патент судоводителя Боденского озера",
+          "definition": {
+            "de": "Spezielles Führerscheindokument für den internationalen Bodensee, das anstelle des SBF Binnen gilt.",
+            "ru": "Специальное удостоверение для международного Боденского озера, действующее вместо удостоверения для внутренних водных путей."
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-02-wie-bekommt-man",
+      "title": {
+        "de": "Wie bekommt man den Führerschein?",
+        "ru": "Как получить удостоверение?"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/SBF-binnen-motor-7.jpg",
+          "role": "section-header"
+        },
+        {
+          "type": "text",
+          "de": "Wer einen Sportbootführerschein erwerben will, muss folgende Anforderungen erfüllen:",
+          "ru": "Тот, кто хочет получить удостоверение судоводителя спортивного судна, должен соответствовать следующим требованиям:"
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "Das 16. Lebensjahr vollendet haben.",
+              "ru": "Достигнуть возраста 16 лет."
+            },
+            {
+              "de": "Gesundheitlich und geistig geeignet sowie zuverlässig sein (ausreichendes Hör-, Seh- und Farbunterscheidungsvermögen).",
+              "ru": "Быть физически и психически пригодным, а также надёжным (достаточное слуховое, зрительное и цветовое восприятие)."
+            },
+            {
+              "de": "Zum Führen eines Motorbootes befähigt sein.",
+              "ru": "Обладать навыками управления моторным судном."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "de": "Seine Befähigung hat er vor einem Prüfungsausschuss des Deutschen Motoryachtverbandes (DMYV) oder des Deutschen Segler-Verbandes (DSV) nachzuweisen. Die Zulassung zur Prüfung muss auf einem Formblatt der genannten Verbände bei dem zuständigen Prüfungsausschuss beantragt werden. Diesem Antrag sind folgende Unterlagen beizufügen:",
+          "ru": "Свою квалификацию необходимо подтвердить перед экзаменационной комиссией Немецкого союза моторных яхт (DMYV) или Немецкого парусного союза (DSV). Заявление на допуск к экзамену подаётся в соответствующую экзаменационную комиссию на специальном бланке этих организаций. К заявлению необходимо приложить следующие документы:"
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "Ein aktuelles Lichtbild 38 × 45 mm, ohne Kopfbedeckung, im Halbprofil.",
+              "ru": "Актуальную фотографию 38 × 45 мм без головного убора, полуанфас."
+            },
+            {
+              "de": "Ein ärztliches Tauglichkeitszeugnis, nicht älter als ein Jahr.",
+              "ru": "Медицинское свидетельство о годности, выданное не более года назад."
+            },
+            {
+              "de": "Die Kopie eines gültigen Kfz-Führerscheins oder, auf Verlangen, ein Führungszeugnis nach den Vorschriften des Bundeszentralregisters, nicht älter als 6 Monate.",
+              "ru": "Копию действительного водительского удостоверения автомобиля или, по требованию, справку о несудимости согласно федеральному реестру, выданную не более 6 месяцев назад."
+            },
+            {
+              "de": "Eine Erklärung, ob dem Bewerber die Fahrerlaubnis bereits entzogen worden ist.",
+              "ru": "Заявление о том, лишался ли заявитель ранее права управления."
+            },
+            {
+              "de": "Bei Bewerbern, die noch nicht 18 Jahre alt sind, die Zustimmung des gesetzlichen Vertreters.",
+              "ru": "Для заявителей младше 18 лет — согласие законного представителя."
+            },
+            {
+              "de": "Soweit erforderlich, eine ärztliche Bescheinigung einer Legasthenie oder Unterlagen, die zur Glaubhaftmachung nicht ausreichender Deutschkenntnisse geeignet sind.",
+              "ru": "При необходимости медицинское подтверждение дислексии или документы, подтверждающие недостаточное знание немецкого языка."
+            },
+            {
+              "de": "Soweit erteilt, eine Kopie des amtlichen Sportbootführerscheins mit dem Geltungsbereich Seeschifffahrtsstraßen.",
+              "ru": "При наличии — копию официального удостоверения судоводителя спортивного судна для морских судоходных путей."
+            }
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "de": "DMYV (Deutscher Motoryachtverband)",
+          "ru": "Немецкий союз моторных яхт (DMYV)",
+          "definition": {
+            "de": "Verband, dessen Prüfungsausschüsse die Sportbootführerscheinprüfung abnehmen.",
+            "ru": "Организация, экзаменационные комиссии которой принимают экзамен на удостоверение судоводителя."
+          }
+        },
+        {
+          "de": "DSV (Deutscher Segler-Verband)",
+          "ru": "Немецкий парусный союз (DSV)",
+          "definition": {
+            "de": "Verband, der ebenfalls Sportbootführerscheinprüfungen durchführt.",
+            "ru": "Организация, также проводящая экзамены на удостоверение судоводителя."
+          }
+        },
+        {
+          "de": "Tauglichkeitszeugnis",
+          "ru": "Медицинское свидетельство о годности",
+          "definition": {
+            "de": "Ärztliche Bescheinigung über die gesundheitliche Eignung (Hör-, Seh-, Farbunterscheidungsvermögen), nicht älter als ein Jahr.",
+            "ru": "Медицинская справка о пригодности по здоровью (слух, зрение, цветовое восприятие), выданная не более года назад."
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-03-pruefung",
+      "title": {
+        "de": "Die Prüfung",
+        "ru": "Экзамен"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "de": "Sie besteht aus einem theoretischen und einem praktischen Teil.",
+          "ru": "Он состоит из теоретической и практической части."
+        },
+        {
+          "type": "text",
+          "de": "Geprüft wird grundsätzlich schriftlich. Eine mündliche Prüfung ist nur in Ausnahmefällen möglich. Für die schriftliche Prüfung gibt es einen bundeseinheitlichen Fragenkatalog. Er enthält 253 Prüfungsfragen. Daraus werden Ihnen 30 Fragen gestellt, von denen insgesamt 23 (5 Basisfragen + 18 spezifische Fragen Binnen) richtig beantwortet werden müssen. Nach dem Single-Choice-Verfahren gibt es zu jeder Frage vier Antwortmöglichkeiten, von denen jeweils nur eine richtig ist. Sie haben 45 Minuten Zeit, um die Fragen zu beantworten. Dabei dürfen keinerlei Hilfsmittel verwendet werden.",
+          "ru": "Экзамен, как правило, проводится письменно. Устный экзамен возможен только в исключительных случаях. Для письменного экзамена существует единый по всей Германии каталог вопросов. Он содержит 253 экзаменационных вопроса. Из них вам будет задано 30 вопросов, из которых необходимо правильно ответить на 23 (5 базовых вопросов + 18 специальных вопросов по внутренним водным путям). По системе Single Choice к каждому вопросу предлагаются четыре варианта ответа, из которых только один является правильным. На ответы отводится 45 минут. Использование любых вспомогательных средств не допускается."
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "253 Prüfungsfragen im Fragenkatalog.",
+              "ru": "253 экзаменационных вопроса в каталоге."
+            },
+            {
+              "de": "30 Fragen in der Prüfung: 7 Basisfragen + 23 spezifische Fragen Binnen.",
+              "ru": "30 вопросов на экзамене: 7 базовых + 23 специальных по внутренним водным путям."
+            },
+            {
+              "de": "Mindestens 23 richtige Antworten erforderlich: 5 von 7 Basisfragen + 18 von 23 spezifischen.",
+              "ru": "Необходимо минимум 23 правильных ответа: 5 из 7 базовых + 18 из 23 специальных."
+            },
+            {
+              "de": "45 Minuten, Single-Choice-Verfahren, keine Hilfsmittel.",
+              "ru": "45 минут, метод единственного выбора, без вспомогательных средств."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "de": "Im praktischen Teil soll der Prüfungskandidat zeigen, ob er die zur sicheren Führung eines Motorbootes erforderlichen Kenntnisse und Fähigkeiten besitzt. Verlangt werden:",
+          "ru": "В практической части кандидат должен показать, обладает ли он знаниями и навыками, необходимыми для безопасного управления моторной лодкой. Требуются:"
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "Pflichtmanöver: Rettungsmanöver unter Maschine (Mensch über Bord), Anlegen unter Maschine, Ablegen unter Maschine.",
+              "ru": "Обязательные манёвры: спасательный манёвр под мотором (человек за бортом), швартовка под мотором, отход от причала под мотором."
+            },
+            {
+              "de": "Sonstige Manöver: Kursgerechtes Aufstoppen, Wenden auf engem Raum, Steuern nach Schifffahrtszeichen/Landmarken, Anlegen einer Rettungsweste/Sicherheitsgurtes, Manöverschallsignal.",
+              "ru": "Другие манёвры: остановка по курсу, разворот в ограниченном пространстве, управление по навигационным знакам/ориентирам, надевание спасательного жилета/страховочного пояса, манёвренный звуковой сигнал."
+            },
+            {
+              "de": "Knoten: Achtknoten, Rundtörn mit zwei halben Schlägen, Kreuzknoten, einfacher oder doppelter Schotstek, Palstek, Webleinstek, Stopperstek, Webleinstek auf Slip, Belegen einer Klampe mit Kopfschlag.",
+              "ru": "Узлы: восьмёрка, шлаг с двумя полуштыками, прямой узел, простой или двойной шкотовый узел, беседочный узел, выбленочный узел, стопорный узел, выбленочный узел со скользящей петлёй, крепление на кнехте с завершающим полуштыком."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "de": "In der Prüfung muss der Bewerber ausreichende Kenntnisse für die sichere Führung eines Sportbootes nachweisen. Hat man mit seinen Fahrmanövern die Prüfer nicht überzeugen können, gilt die Prüfung als nicht bestanden. Man muss oder kann sie wiederholen. Allerdings frühestens am nächsten Tag. Bestandene Teile der ersten Prüfung – sei es Theorie oder Praxis – werden anerkannt und brauchen nicht wiederholt zu werden, sofern die Prüfung nicht länger als zwölf Monate zurückliegt.",
+          "ru": "На экзамене кандидат должен доказать достаточные знания для безопасного управления прогулочным судном. Если экзаменаторы не будут убеждены в правильности выполненных манёвров, экзамен считается не сданным. Его можно или необходимо пересдать, однако не ранее чем на следующий день. Сданные части первого экзамена — теория или практика — засчитываются и не должны пересдаваться, если с момента экзамена прошло не более двенадцати месяцев."
+        }
+      ],
+      "terms": [
+        {
+          "de": "Basisfragen",
+          "ru": "Базовые вопросы",
+          "definition": {
+            "de": "7 grundlegende Fragen (5 müssen richtig sein), die alle Führerscheinbewerber beantworten müssen.",
+            "ru": "7 основных вопросов (5 должны быть правильными), на которые обязаны ответить все кандидаты."
+          }
+        },
+        {
+          "de": "Spezifische Fragen Binnen",
+          "ru": "Специальные вопросы по внутренним водным путям",
+          "definition": {
+            "de": "23 Fragen (18 müssen richtig sein) zum Themenbereich Binnenschifffahrt.",
+            "ru": "23 вопроса (18 должны быть правильными) по тематике судоходства на внутренних водных путях."
+          }
+        },
+        {
+          "de": "Single-Choice-Verfahren",
+          "ru": "Метод единственного выбора (Single Choice)",
+          "definition": {
+            "de": "Prüfungsformat, bei dem zu jeder Frage vier Antworten vorgegeben werden und nur eine richtig ist.",
+            "ru": "Экзаменационный формат, при котором к каждому вопросу предлагаются четыре ответа и только один из них правильный."
+          }
+        },
+        {
+          "de": "Rettungsmanöver (Mensch über Bord)",
+          "ru": "Спасательный манёвр (человек за бортом)",
+          "definition": {
+            "de": "Pflichtmanöver in der praktischen Prüfung: Rettung einer über Bord gegangenen Person unter Maschine.",
+            "ru": "Обязательный манёвр на практическом экзамене: спасение упавшего за борт человека под мотором."
+          }
+        },
+        {
+          "de": "Achtknoten",
+          "ru": "Восьмёрка",
+          "definition": {
+            "de": "Stopperknoten am Ende einer Leine, verhindert das Durchrutschen durch eine Öse oder Klemme.",
+            "ru": "Стопорный узел на конце троса, предотвращающий его проскальзывание через блок или утку."
+          }
+        },
+        {
+          "de": "Palstek",
+          "ru": "Беседочный узел",
+          "definition": {
+            "de": "Feststehendes Auge am Ende einer Leine, das sich unter Last nicht zuzieht.",
+            "ru": "Неподвижная петля на конце троса, которая не затягивается под нагрузкой."
+          }
+        },
+        {
+          "de": "Webleinstek",
+          "ru": "Выбленочный узел",
+          "definition": {
+            "de": "Knoten zum Befestigen einer Leine an einem Pfahl oder Ring.",
+            "ru": "Узел для крепления троса к столбу или кольцу."
+          }
+        },
+        {
+          "de": "Klampe mit Kopfschlag",
+          "ru": "Крепление на кнехте с завершающим полуштыком",
+          "definition": {
+            "de": "Methode zum sicheren Belegen einer Leine an einer Klampe mit abschließendem Kopfschlag.",
+            "ru": "Способ надёжного крепления троса на утке с завершающим полуштыком."
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-04-entzug",
+      "title": {
+        "de": "Der Entzug des Führerscheins",
+        "ru": "Лишение удостоверения"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "de": "Der Sportbootführerschein kann entzogen werden, wenn der Inhaber",
+          "ru": "Удостоверение на управление прогулочным судном может быть отозвано, если его владелец:"
+        },
+        {
+          "type": "key_points",
+          "items": [
+            {
+              "de": "Wegen Gefährdung des Schiffsverkehrs rechtskräftig verurteilt worden ist.",
+              "ru": "Был окончательно осуждён за создание угрозы судоходству."
+            },
+            {
+              "de": "Wiederholt mit Geldbußen geahndete Zuwiderhandlungen gegen ström- und schifffahrtspolizeiliche Vorschriften begangen hat.",
+              "ru": "Неоднократно совершал нарушения правил речного и судоходного движения, наказуемые штрафами."
+            },
+            {
+              "de": "Unter Alkoholeinfluss, Einwirkung von Drogen oder anderer berauschender Mittel ein Boot geführt hat.",
+              "ru": "Управлял судном под воздействием алкоголя, наркотиков или других опьяняющих средств."
+            },
+            {
+              "de": "Einer im Führerschein eingetragenen Auflage (etwa eine Sehhilfe zu tragen) nicht nachgekommen ist.",
+              "ru": "Не выполнил условие, указанное в удостоверении (например, ношение очков)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "de": "Der Sportbootführerschein wird entzogen, wenn sich herausstellt, dass er durch falsche Angaben oder arglistige Täuschung erschlichen wurde, oder wenn sich im Laufe der Zeit ein körperliches Gebrechen oder eine geistige Beeinträchtigung zeigt, sodass der Führerscheininhaber den an ihn als Bootsführer gestellten Anforderungen nicht mehr gewachsen ist.",
+          "ru": "Удостоверение на управление прогулочным судном также отзывается, если выясняется, что оно было получено на основании ложных сведений или путём обмана, либо если со временем у владельца обнаруживаются физические недостатки или психические нарушения, из-за которых он больше не способен соответствовать требованиям, предъявляемым к судоводителю."
+        }
+      ],
+      "terms": [
+        {
+          "de": "Entzug des Führerscheins",
+          "ru": "Лишение удостоверения",
+          "definition": {
+            "de": "Behördliche Maßnahme, bei der der Sportbootführerschein wegen Verstößen oder mangelnder Eignung entzogen wird.",
+            "ru": "Административная мера, при которой удостоверение судоводителя отзывается за нарушения или утрату пригодности."
+          }
+        }
+      ]
+    }
+  ]
+}

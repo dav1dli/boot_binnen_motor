@@ -7880,5 +7880,1419 @@
       "images": [],
       "source_anchor": "q253"
     }
+  },
+  {
+    "id": "q-sege-11_2-254",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 254,
+    "de": {
+      "question": "Was wird unter einem \"Kimmkieler\" verstanden?",
+      "answers": [
+        "Eine Yacht mit zwei Seitenkielen.",
+        "Eine Yacht mit zwei Seitenschwertern.",
+        "Eine Yacht mit einem Kielschwert.",
+        "Eine Yacht mit zwei Kielen hintereinander."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q254"
+    },
+    "ru": {
+      "question": "Что понимается под «скуловым килем» (Kimmkieler)?",
+      "answers": [
+        "Яхта с двумя боковыми (скуловыми) килями.",
+        "Яхта с двумя боковыми швертами.",
+        "Яхта с килем-швертом.",
+        "Яхта с двумя килями, расположенными друг за другом."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q254"
+    }
+  },
+  {
+    "id": "q-sege-11_2-255",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 255,
+    "de": {
+      "question": "Worin besteht der Vorteil eines Kimmkielers gegenüber anderen Kielbooten?",
+      "answers": [
+        "Er kann problemlos aufrecht trocken fallen.",
+        "Sein Tiefgang ist größer.",
+        "Die Abdrift ist geringer als bei anderen Kielbooten.",
+        "Der Kiel lässt sich aufholen."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q255"
+    },
+    "ru": {
+      "question": "В чём преимущество яхты со скуловыми килями перед другими килевыми яхтами?",
+      "answers": [
+        "Она может без проблем стоять на грунте в вертикальном положении при отливе.",
+        "Её осадка больше.",
+        "Дрейф меньше, чем у других килевых яхт.",
+        "Киль можно поднять."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q255"
+    }
+  },
+  {
+    "id": "q-sege-11_2-256",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 256,
+    "de": {
+      "question": "Was wird unter einer \"Kielschwertyacht\" verstanden?",
+      "answers": [
+        "Eine Yacht mit flach gehendem Ballastkiel und zusätzlichem aufholbarem Schwert.",
+        "Eine Yacht mit einem Ballastkiel und einem zusätzlichen Schwert.",
+        "Eine Yacht mit einem aufholbaren Ballastkiel.",
+        "Eine Yacht mit zwei Seitenkielen."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q256"
+    },
+    "ru": {
+      "question": "Что понимается под «килешвертботом» (Kielschwertyacht)?",
+      "answers": [
+        "Яхта с неглубоким балластным килем и дополнительным подъёмным швертом.",
+        "Яхта с балластным килем и дополнительным швертом.",
+        "Яхта с подъёмным балластным килем.",
+        "Яхта с двумя боковыми килями."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q256"
+    }
+  },
+  {
+    "id": "q-sege-11_2-257",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 257,
+    "de": {
+      "question": "Wodurch wirken die Bodenlenzventile einer Jolle, die unterhalb der Wasserlinie liegen?",
+      "answers": [
+        "Durch den Sog, der bei Fahrt durchs Wasser entsteht.",
+        "Durch die Schwerkraft fließt das Wasser außenbords.",
+        "Durch die Massenträgheit, die das Boot besitzt.",
+        "Durch das Druckgefälle zwischen Luft- und Wasserdruck."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q257"
+    },
+    "ru": {
+      "question": "Каким образом действуют донные шпигаты швертбота, расположенные ниже ватерлинии?",
+      "answers": [
+        "За счёт разрежения, возникающего при движении судна через воду.",
+        "За счёт силы тяжести вода вытекает за борт.",
+        "За счёт инерции массы, которой обладает лодка.",
+        "За счёт перепада давления между воздушным и водяным давлением."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q257"
+    }
+  },
+  {
+    "id": "q-sege-11_2-258",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 258,
+    "de": {
+      "question": "Was wird unter \"Formstabilität\" verstanden?",
+      "answers": [
+        "Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.",
+        "Die Fähigkeit eines Schiffes, sich nach einer Kenterung wieder von selbst aufzurichten.",
+        "Die Fähigkeit eines Schiffes beim Loslassen der Pinne den Kurs beizubehalten.",
+        "Die Fähigkeit eines Schiffes über Jahre die Rumpfform auch bei starker Beanspruchung beizubehalten."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q258"
+    },
+    "ru": {
+      "question": "Что понимается под «остойчивостью формы»?",
+      "answers": [
+        "Способность судна противодействовать крену за счёт формы корпуса.",
+        "Способность судна самостоятельно выправляться после опрокидывания.",
+        "Способность судна сохранять курс при отпущенном румпеле.",
+        "Способность судна сохранять форму корпуса на протяжении многих лет даже при сильных нагрузках."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q258"
+    }
+  },
+  {
+    "id": "q-sege-11_2-259",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 259,
+    "de": {
+      "question": "Was wird unter \"Gewichtsstabilität\" verstanden?",
+      "answers": [
+        "Die Fähigkeit eines Schiffes, durch seinen tief liegenden Ballast der Krängung entgegenzuwirken.",
+        "Die Möglichkeit durch zusätzlichen Innenballast die Krängung zu verringern.",
+        "Die Möglichkeit durch ein hohes Crewgewicht der Krängung entgegenzuwirken.",
+        "Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q259"
+    },
+    "ru": {
+      "question": "Что понимается под «весовой остойчивостью»?",
+      "answers": [
+        "Способность судна противодействовать крену за счёт низко расположенного балласта.",
+        "Возможность уменьшить крен за счёт дополнительного внутреннего балласта.",
+        "Возможность противодействовать крену за счёт большого веса экипажа.",
+        "Способность судна противодействовать крену за счёт формы корпуса."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q259"
+    }
+  },
+  {
+    "id": "q-sege-11_2-260",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 260,
+    "de": {
+      "question": "Welche Boote sind vorwiegend \"gewichtsstabil\"?",
+      "answers": [
+        "Kielyachten sind vorwiegend \"gewichtsstabil\".",
+        "Jollen sind vorwiegend \"gewichtsstabil\".",
+        "Katamarane sind vorwiegend \"gewichtsstabil\".",
+        "Trimarane sind vorwiegend \"gewichtsstabil\"."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q260"
+    },
+    "ru": {
+      "question": "Какие суда обладают преимущественно «весовой остойчивостью»?",
+      "answers": [
+        "Килевые яхты обладают преимущественно весовой остойчивостью.",
+        "Швертботы обладают преимущественно весовой остойчивостью.",
+        "Катамараны обладают преимущественно весовой остойчивостью.",
+        "Тримараны обладают преимущественно весовой остойчивостью."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q260"
+    }
+  },
+  {
+    "id": "q-sege-11_2-261",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 261,
+    "de": {
+      "question": "Welche Boote sind vorwiegend \"formstabil\"?",
+      "answers": [
+        "Jollen sind vorwiegend \"formstabil\".",
+        "Kielyachten sind vorwiegend \"formstabil\".",
+        "Kimmkieler sind vorwiegend \"formstabil\".",
+        "Kielschwertyachten sind vorwiegend \"formstabil\"."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q261"
+    },
+    "ru": {
+      "question": "Какие суда обладают преимущественно «остойчивостью формы»?",
+      "answers": [
+        "Швертботы обладают преимущественно остойчивостью формы.",
+        "Килевые яхты обладают преимущественно остойчивостью формы.",
+        "Яхты со скуловыми килями обладают преимущественно остойчивостью формы.",
+        "Килешвертботы обладают преимущественно остойчивостью формы."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q261"
+    }
+  },
+  {
+    "id": "q-sege-11_2-262",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 262,
+    "de": {
+      "question": "Wodurch kann bei formstabilen Booten bei viel Wind die Stabilität erhöht werden?",
+      "answers": [
+        "Durch Ausreiten bzw. durch Benutzung der Trapezeinrichtung.",
+        "Durch Verlagerung von Innenballast.",
+        "Durch Umpumpen von Wasserballast.",
+        "Durch Ausfahren von sogenannten Trimmklappen oder eines Zusatzschwertes."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q262"
+    },
+    "ru": {
+      "question": "Каким образом можно повысить остойчивость лодок с остойчивостью формы при сильном ветре?",
+      "answers": [
+        "Откренивание или использование трапеции.",
+        "Перемещение внутреннего балласта.",
+        "Перекачивание водяного балласта.",
+        "Выдвижение так называемых триммерных закрылков или дополнительного шверта."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q262"
+    }
+  },
+  {
+    "id": "q-sege-11_2-263",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 263,
+    "de": {
+      "question": "Wie verändert sich das aufrichtende Kraftmoment einer Jolle bei Krängung?",
+      "answers": [
+        "Es nimmt anfangs zu bis zu einem Maximum, von da wieder ab, bis Auftriebs- und Gewischtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.",
+        "Es nimmt anfangs ab bis zu einem Minimum, von da wieder zu, bis Auftriebs- und Gewichtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.",
+        "Es nimmt anfangs ab und erreicht ein Maximum, wenn Auftriebs- und Gewichtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.",
+        "Es nimmt anfangs ab und erreicht sein Minimum, bis Auftriebs- und Gewichtsschwerpunkt übereinander liegen, anschließend kentert die Jolle."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q263"
+    },
+    "ru": {
+      "question": "Как изменяется восстанавливающий момент швертбота при крене?",
+      "answers": [
+        "Сначала он увеличивается до максимума, затем уменьшается до тех пор, пока центр плавучести и центр тяжести не окажутся на одной вертикали, после чего швертбот опрокидывается.",
+        "Сначала он уменьшается до минимума, затем увеличивается до тех пор, пока центр плавучести и центр тяжести не окажутся на одной вертикали, после чего швертбот опрокидывается.",
+        "Сначала он уменьшается и достигает максимума, когда центр плавучести и центр тяжести оказываются на одной вертикали, после чего швертбот опрокидывается.",
+        "Сначала он уменьшается и достигает минимума до тех пор, пока центр плавучести и центр тяжести не окажутся на одной вертикали, после чего швертбот опрокидывается."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q263"
+    }
+  },
+  {
+    "id": "q-sege-11_2-264",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 264,
+    "de": {
+      "question": "Wie verändert sich das aufrichtende Kraftmoment einer Kielyacht bei stetig zunehmender Krängung?",
+      "answers": [
+        "Es nimmt zu und erreicht nach Überschreitung des Maximums seinen kritischen Winkel erst bei über 90°.",
+        "Es nimmt bis zum Erreichen des kritischen Winkels zu, der bei etwa 70° liegt.",
+        "Es nimmt bis zum Erreichen des kritischen Winkels von 90° ab.",
+        "Es nimmt bis 90° Krängung ab und dann stetig zu."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q264"
+    },
+    "ru": {
+      "question": "Как изменяется восстанавливающий момент килевой яхты при постоянно увеличивающемся крене?",
+      "answers": [
+        "Он увеличивается и после превышения максимума достигает критического угла лишь при более чем 90°.",
+        "Он увеличивается до достижения критического угла, который составляет около 70°.",
+        "Он уменьшается до достижения критического угла в 90°.",
+        "Он уменьшается до крена 90°, а затем постоянно увеличивается."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q264"
+    }
+  },
+  {
+    "id": "q-sege-11_2-265",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 265,
+    "de": {
+      "question": "Welche Maßnahme ist bei Ruderbruch auf einer Jolle zu treffen?",
+      "answers": [
+        "Notruder oder Paddel als Ersatz nehmen, Fahrwasser verlassen, sich als manövrierunfähig zu erkennen geben.",
+        "Sofort ankern und einen Notruf absetzen, Signalkörper (blauer Kegel) setzen.",
+        "Rote Flagge kreisförmig schwenken, Schleppleine bereithalten.",
+        "Segel bergen, Motor starten und in Rückwärtsfahrt das Ufer ansteuern."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q265"
+    },
+    "ru": {
+      "question": "Какие меры следует принять при поломке руля на швертботе?",
+      "answers": [
+        "Использовать аварийный руль или весло в качестве замены, покинуть фарватер, обозначить себя как маневронеспособное судно.",
+        "Немедленно встать на якорь и подать сигнал бедствия, выставить сигнальную фигуру (синий конус).",
+        "Размахивать красным флагом по кругу, приготовить буксирный конец.",
+        "Убрать паруса, запустить двигатель и задним ходом направиться к берегу."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q265"
+    }
+  },
+  {
+    "id": "q-sege-11_2-266",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 266,
+    "de": {
+      "question": "Wodurch kann eine Pinnensteuerung auch bei Krängung des Bootes sicher erreicht und bedient werden?",
+      "answers": [
+        "Durch einen Pinnenausleger.",
+        "Durch Verstellen des Travellers.",
+        "Durch das Ausreiten mit Hilfe des Trapezes.",
+        "Durch Ersetzen der Pinne durch ein Rad."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q266"
+    },
+    "ru": {
+      "question": "Каким образом можно обеспечить безопасный доступ к румпелю и управление им даже при крене лодки?",
+      "answers": [
+        "С помощью удлинителя румпеля.",
+        "С помощью регулировки погона.",
+        "С помощью откренивания на трапеции.",
+        "Заменой румпеля на штурвал."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q266"
+    }
+  },
+  {
+    "id": "q-sege-11_2-267",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 267,
+    "de": {
+      "question": "Warum sollte Tauwerk an Bord stets ordentlich aufgeschossen werden?",
+      "answers": [
+        "Damit es im Gebrauchsfall klar liegt.",
+        "Damit es trocknen kann und nicht verrottet.",
+        "Damit die Reißfestigkeit erhalten bleibt.",
+        "Damit es nicht durch UV -Strahlung beschädigt wird."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q267"
+    },
+    "ru": {
+      "question": "Почему тросы на борту следует всегда аккуратно укладывать в бухту?",
+      "answers": [
+        "Чтобы они были готовы к немедленному использованию.",
+        "Чтобы они могли просохнуть и не сгнили.",
+        "Чтобы сохранялась их прочность на разрыв.",
+        "Чтобы они не были повреждены ультрафиолетовым излучением."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q267"
+    }
+  },
+  {
+    "id": "q-sege-11_2-268",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 268,
+    "de": {
+      "question": "Warum sollten Fallen stets ordentlich aufgeschossen werden?",
+      "answers": [
+        "Damit sie im Gebrauchsfall schnell und sicher gefiert werden können.",
+        "Damit sie trocknen können und nicht verrotten.",
+        "Damit sie nicht durch UV-Strahlung beschädigt werden.",
+        "Damit sie nicht mit den Schoten verwechselt werden können."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q268"
+    },
+    "ru": {
+      "question": "Почему фалы следует всегда аккуратно укладывать в бухту?",
+      "answers": [
+        "Чтобы их можно было быстро и безопасно потравить при необходимости.",
+        "Чтобы они могли просохнуть и не сгнили.",
+        "Чтобы они не были повреждены ультрафиолетовым излучением.",
+        "Чтобы их нельзя было перепутать со шкотами."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q268"
+    }
+  },
+  {
+    "id": "q-sege-11_2-269",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 269,
+    "de": {
+      "question": "Wie heißen die Ecken eines Segels?",
+      "answers": [
+        "Kopf, Hals, Schothorn.",
+        "Kopf, Hals, Nock.",
+        "Vorliek, Unterliek, Achterliek.",
+        "Vorstag, Unterwant, Achterstag."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q269"
+    },
+    "ru": {
+      "question": "Как называются углы паруса?",
+      "answers": [
+        "Фаловый угол, галсовый угол, шкотовый угол.",
+        "Фаловый угол, галсовый угол, нок.",
+        "Передняя шкаторина, нижняя шкаторина, задняя шкаторина.",
+        "Форштаг, нижняя ванта, ахтерштаг."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q269"
+    }
+  },
+  {
+    "id": "q-sege-11_2-270",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 270,
+    "de": {
+      "question": "Wie heißen die Kanten eines Segels?",
+      "answers": [
+        "Vorliek, Unterliek, Achterliek.",
+        "Kopf, Hals, Nock.",
+        "Vorstag, Unterwant, Achterstag.",
+        "Kopf, Hals, Schothorn."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q270"
+    },
+    "ru": {
+      "question": "Как называются кромки паруса?",
+      "answers": [
+        "Передняя шкаторина, нижняя шкаторина, задняя шкаторина.",
+        "Фаловый угол, галсовый угол, нок.",
+        "Форштаг, нижняя ванта, ахтерштаг.",
+        "Фаловый угол, галсовый угол, шкотовый угол."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q270"
+    }
+  },
+  {
+    "id": "q-sege-11_2-271",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 271,
+    "de": {
+      "question": "Wozu dienen Segellatten?",
+      "answers": [
+        "Der Formgebung und Aussteifung des Segels.",
+        "Der Erleichterung des Reffens.",
+        "Der Verhinderung des Killens von Segeln.",
+        "Der Möglichkeit das Segel auch bei Starkwind nutzen zu können."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q271"
+    },
+    "ru": {
+      "question": "Для чего служат латы?",
+      "answers": [
+        "Для придания формы и жёсткости парусу.",
+        "Для облегчения взятия рифов.",
+        "Для предотвращения заполаскивания парусов.",
+        "Для возможности использовать парус даже при штормовом ветре."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q271"
+    }
+  },
+  {
+    "id": "q-sege-11_2-272",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 272,
+    "de": {
+      "question": "Weshalb dürfen Segel nicht über einen längeren Zeitraum killen?",
+      "answers": [
+        "Killen schädigt das Tuch und lässt Nähte aufgehen.",
+        "Killen lässt das Boot bei stärkerem Wind kentern.",
+        "Killen führt zu Verletzungen der Besatzung.",
+        "Killen führt zu Beschädigungen an nebeneinander liegenden Schiffen."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q272"
+    },
+    "ru": {
+      "question": "Почему нельзя допускать длительное заполаскивание парусов?",
+      "answers": [
+        "Заполаскивание повреждает ткань и вызывает расхождение швов.",
+        "Заполаскивание приводит к опрокидыванию лодки при сильном ветре.",
+        "Заполаскивание приводит к травмам экипажа.",
+        "Заполаскивание приводит к повреждению стоящих рядом судов."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q272"
+    }
+  },
+  {
+    "id": "q-sege-11_2-273",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 273,
+    "de": {
+      "question": "Warum müssen auch kleine Schäden an den Segeln sofort repariert werden?",
+      "answers": [
+        "Weil unter Winddruck daraus schnell große Schäden werden.",
+        "Weil dadurch der Vortrieb des Segels leidet.",
+        "Weil es nur noch bei Flaute eingesetzt werden kann.",
+        "Weil Feuchtigkeit in das Segel eindringen kann."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q273"
+    },
+    "ru": {
+      "question": "Почему даже мелкие повреждения парусов необходимо ремонтировать немедленно?",
+      "answers": [
+        "Потому что под давлением ветра из них быстро образуются серьёзные повреждения.",
+        "Потому что из-за этого страдает тяга паруса.",
+        "Потому что парус можно будет использовать только в штиль.",
+        "Потому что влага может проникнуть в парус."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q273"
+    }
+  },
+  {
+    "id": "q-sege-11_2-274",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 274,
+    "de": {
+      "question": "Woran kann wärend der Fahrt die Richtung des wahren Windes erkannt werden?",
+      "answers": [
+        "An Flaggen oder anderen Anzeichen an Land.",
+        "An der Zugrichtung von Wolken.",
+        "An der Nationalflagge am Heck.",
+        "An den Trimmfäden im Großsegel."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q274"
+    },
+    "ru": {
+      "question": "По каким признакам во время плавания можно определить направление истинного ветра?",
+      "answers": [
+        "По флагам или другим указателям на берегу.",
+        "По направлению движения облаков.",
+        "По национальному флагу на корме.",
+        "По колдунчикам на гроте."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q274"
+    }
+  },
+  {
+    "id": "q-sege-11_2-275",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 275,
+    "de": {
+      "question": "Welcher Wind wird in Fahrt von Standern bzw. Verklickern angezeigt?",
+      "answers": [
+        "Der scheinbare Wind.",
+        "Der Fahrtwind.",
+        "Der wahre Wind.",
+        "Die Windrichtung."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q275"
+    },
+    "ru": {
+      "question": "Какой ветер показывают вымпелы и флюгарки на ходу?",
+      "answers": [
+        "Вымпельный (кажущийся) ветер.",
+        "Ветер хода.",
+        "Истинный ветер.",
+        "Направление ветра."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q275"
+    }
+  },
+  {
+    "id": "q-sege-11_2-276",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 276,
+    "de": {
+      "question": "Wann kommen wahrer Wind und scheinbarer Wind auf einem segelnden Boot aus der gleichen Richtung?",
+      "answers": [
+        "Auf Vorwindkurs.",
+        "Auf Halbwindkurs.",
+        "Auf Amwindkurs.",
+        "Auf Raumschotkurs."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q276"
+    },
+    "ru": {
+      "question": "Когда истинный и вымпельный ветер на парусном судне приходят с одного направления?",
+      "answers": [
+        "На курсе фордевинд.",
+        "На курсе галфвинд.",
+        "На курсе бейдевинд.",
+        "На курсе бакштаг."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q276"
+    }
+  },
+  {
+    "id": "q-sege-11_2-277",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 277,
+    "de": {
+      "question": "Warum ist der scheinbare Wind auf einem Vorwindkurs schwächer als der wahre Wind?",
+      "answers": [
+        "Der wahre Wind vermindert sich um den entgegenstehenden Fahrtwind.",
+        "Der wahre Wind wird durch den Fahrtwind abgebremst.",
+        "Der scheinbare Wind wird durch den Unterdruck am Segel entlang abgebremst.",
+        "Der scheinbare Wind ist unabhängig von der Windrichtung immer schwächer als der wahre Wind."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q277"
+    },
+    "ru": {
+      "question": "Почему вымпельный ветер на курсе фордевинд слабее истинного?",
+      "answers": [
+        "Истинный ветер уменьшается на величину встречного ветра хода.",
+        "Истинный ветер тормозится ветром хода.",
+        "Вымпельный ветер тормозится разрежением вдоль паруса.",
+        "Вымпельный ветер всегда слабее истинного независимо от направления ветра."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q277"
+    }
+  },
+  {
+    "id": "q-sege-11_2-278",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 278,
+    "de": {
+      "question": "Warum ist der scheinbare Wind auf einem Kurs hoch am Wind stärker als der wahre Wind?",
+      "answers": [
+        "Da sich auf diesem Kurs der wahre Wind und der Fahrtwind in Richtung und Stärke addieren.",
+        "Da sich auf diesem Kurs eine Düse zwischen Fock- und Großsegel bildet, die den Wind verstärkt.",
+        "Da der wahre Wind beim Amwindkurs stärker ist als bei raumen Kursen.",
+        "Da der scheinbare Wind unabhängig von der Windrichtung immer stärker als der wahre Wind ist."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q278"
+    },
+    "ru": {
+      "question": "Почему вымпельный ветер на курсе бейдевинд сильнее истинного?",
+      "answers": [
+        "Потому что на этом курсе истинный ветер и ветер хода складываются по направлению и силе.",
+        "Потому что на этом курсе между стакселем и гротом образуется сопло, усиливающее ветер.",
+        "Потому что истинный ветер на курсе бейдевинд сильнее, чем на полных курсах.",
+        "Потому что вымпельный ветер всегда сильнее истинного независимо от направления ветра."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q278"
+    }
+  },
+  {
+    "id": "q-sege-11_2-279",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 279,
+    "de": {
+      "question": "Auf einem Amwindkurs wurde gerefft. Ein entgegenkommendes Boot gleichen Typs segelt ungerefft. Wie lässt sich das erklären?",
+      "answers": [
+        "Der scheinbare Wind ist auf Amwindkursen stärker, auf Raumschot- und Vorwindkursen schwächer als der wahre Wind.",
+        "Boote sind stabiler, wenn der Wind achterlicher einfällt.",
+        "Der wahre Wind staut sich am Segel bei Raumschotkurs und ist deshalb schwächer.",
+        "Bei Amwindkurs streicht der Wind am tragflächenartig gewölbten Segel entlang und wird dadurch beschleunigt."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q279"
+    },
+    "ru": {
+      "question": "На курсе бейдевинд были взяты рифы. Встречная яхта того же типа идёт без рифов. Как это объяснить?",
+      "answers": [
+        "Вымпельный ветер на курсе бейдевинд сильнее, а на курсе бакштаг и фордевинд — слабее истинного.",
+        "Яхты более остойчивы, когда ветер дует с кормовых курсовых углов.",
+        "Истинный ветер подпирается парусом на курсе бакштаг и поэтому слабее.",
+        "На курсе бейдевинд ветер обтекает профилированный парус и за счёт этого ускоряется."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q279"
+    }
+  },
+  {
+    "id": "q-sege-11_2-280",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 280,
+    "de": {
+      "question": "Warum raumt beim Einfallen einer Bö auf Amwindkurs der scheinbare Wind?",
+      "answers": [
+        "Da der Fahrtwind zunächst gleich bleibt, der wahre Wind jedoch zunimmt, kommt der daraus resultierende scheinbare Wind raumer.",
+        "Da durch die Koreoliskraft der Wind auch seine Richtung ändert, wenn er stärker wird.",
+        "Da durch den Trimm des Bootes sich der Kurs automatisch ändert, wenn der Wind zunimmt.",
+        "Da die Windrichtung durch die Segelstellung beeinflusst wird, verändert sich auch der scheinbare Wind."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q280"
+    },
+    "ru": {
+      "question": "Почему при шквале на курсе бейдевинд вымпельный ветер заходит с кормы (отходит)?",
+      "answers": [
+        "Так как ветер хода остаётся прежним, а истинный ветер усиливается, результирующий вымпельный ветер приходит с более полного курсового угла.",
+        "Так как из-за силы Кориолиса ветер при усилении также меняет направление.",
+        "Так как из-за настройки лодки курс автоматически изменяется при усилении ветра.",
+        "Так как направление ветра зависит от положения парусов, вымпельный ветер также изменяется."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q280"
+    }
+  },
+  {
+    "id": "q-sege-11_2-281",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 281,
+    "de": {
+      "question": "Beim Einfallen einer Bö auf Amwindkurs raumt der scheinbare Wind. Welchen Nutzen kann auf der Kreuz daraus gezogen werden?",
+      "answers": [
+        "Mitluven, um weitere Höhe zu gewinnen.",
+        "Abfallen, um maximale Höhe zu segeln.",
+        "Segel etwas fieren, um die Bö in Krängung umzusetzen.",
+        "Ein Spinnacker kann gesetzt werden."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q281"
+    },
+    "ru": {
+      "question": "При шквале на курсе бейдевинд вымпельный ветер отходит. Какую пользу можно извлечь из этого при лавировке?",
+      "answers": [
+        "Привестись, чтобы выиграть дополнительную высоту.",
+        "Увалиться, чтобы идти на максимальной высоте.",
+        "Слегка потравить паруса, чтобы шквал превратился в крен.",
+        "Можно поставить спинакер."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q281"
+    }
+  },
+  {
+    "id": "q-sege-11_2-282",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 282,
+    "de": {
+      "question": "Wie sollte das Schwert einer Jolle auf Vorwindkurs gefahren werden und warum?",
+      "answers": [
+        "Es sollte aufgeholt werden. Dadurch vermindert sich der Reibungswiderstand, aber auch die Gefahr der Kenterung bei einer unfreiwilligen Halse.",
+        "Es sollte gefiert werden. Dadurch wird das Boot stabiler und die Gefahr der Kenterung bei einer unfreiwilligen Halse reduziert.",
+        "Es sollte nie ganz aufgeholt werden, da es sonst bei einer Kenterung zum Aufrichten der Jolle nicht mehr greifbar ist.",
+        "Es sollte bei stärkerem Wind ganz aufgeholt werden, um die Steuerfähigkeit der Jolle zu verbessern."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q282"
+    },
+    "ru": {
+      "question": "Как следует использовать шверт швертбота на курсе фордевинд и почему?",
+      "answers": [
+        "Его следует поднять. Это уменьшает сопротивление трения, а также опасность опрокидывания при непреднамеренном повороте фордевинд.",
+        "Его следует опустить. Это делает лодку более остойчивой и снижает опасность опрокидывания при непреднамеренном повороте фордевинд.",
+        "Его нельзя поднимать полностью, так как при опрокидывании его невозможно будет ухватить для выправления швертбота.",
+        "При сильном ветре его следует поднять полностью, чтобы улучшить управляемость швертбота."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q282"
+    }
+  },
+  {
+    "id": "q-sege-11_2-283",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 283,
+    "de": {
+      "question": "Wie verändern sich Abdrift und Krängung, wenn das Schwert einer Jolle auf einem Amwindkurs etwas aufgeholt wird?",
+      "answers": [
+        "Die Abdrift wird größer, die Krängung nimmt ab.",
+        "Die Abdrift wird größer, die Krängung nimmt zu.",
+        "Die Abdrift nimmt ab, das Boot wird aufgrund des geringeren Wasserwiderstandes schneller.",
+        "Die Abdrift wird kleiner, die Krängung nimmt ab."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q283"
+    },
+    "ru": {
+      "question": "Как изменяются дрейф и крен, если поднять шверт швертбота на курсе бейдевинд?",
+      "answers": [
+        "Дрейф увеличивается, крен уменьшается.",
+        "Дрейф увеличивается, крен увеличивается.",
+        "Дрейф уменьшается, лодка разгоняется из-за меньшего сопротивления воды.",
+        "Дрейф уменьшается, крен уменьшается."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q283"
+    }
+  },
+  {
+    "id": "q-sege-11_2-284",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 284,
+    "de": {
+      "question": "Mit welcher Krängung sollte eine Jolle üblicherweise gesegelt werden und weshalb?",
+      "answers": [
+        "Möglichst aufrecht, da sonst Abdrift und Luvgierigkeit zunehmen.",
+        "Möglichst aufrecht, weil sonst Abdrift und Leegierigkeit zunehmen.",
+        "Leicht nach Lee geneigt, da sonst die Segel leicht nach Luv überkommen können.",
+        "Möglichst nach Luv geneigt, weil dadurch die Abdrift und die Luvgierigkeit abnehmen."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q284"
+    },
+    "ru": {
+      "question": "С каким креном обычно следует ходить на швертботе и почему?",
+      "answers": [
+        "По возможности прямо, иначе возрастают дрейф и тенденция к приводу.",
+        "По возможности прямо, иначе возрастают дрейф и тенденция к увалу.",
+        "Слегка с креном на подветренную сторону, иначе паруса могут легко перебросить на наветренную сторону.",
+        "По возможности с креном на наветренную сторону, так как это уменьшает дрейф и тенденцию к приводу."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q284"
+    }
+  },
+  {
+    "id": "q-sege-11_2-285",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 285,
+    "de": {
+      "question": "Wie wirkt sich auf einem Halbwindkurs ein zu dicht geholtes Großsegel auf die Geschwindigkeit des Bootes aus?",
+      "answers": [
+        "Die Krängung nimmt zu, die Geschwindigkeit nimmt ab.",
+        "Die Krängung und die Geschwindigkeit nehmen bis zum kritischen Punkt zu, darüber hinaus schnell ab.",
+        "Die Geschwindigkeit nimmt zu, da dadurch die Windkräfte optimaler genutzt werden.",
+        "Das Boot bleibt stehen, da die Strömung abreißt."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q285"
+    },
+    "ru": {
+      "question": "Как влияет слишком туго выбранный грот на скорость лодки на курсе галфвинд?",
+      "answers": [
+        "Крен увеличивается, скорость уменьшается.",
+        "Крен и скорость увеличиваются до критической точки, а затем быстро уменьшаются.",
+        "Скорость увеличивается, так как ветровые силы используются оптимальнее.",
+        "Лодка останавливается, так как поток срывается."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q285"
+    }
+  },
+  {
+    "id": "q-sege-11_2-286",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 286,
+    "de": {
+      "question": "Wie wirkt sich ein Holepunkt, der zu weit vorne liegt, auf Stand und Beanspruchung des Vorsegels aus?",
+      "answers": [
+        "Das Unterliek killt, das Achterliek wird übermäßig gereckt.",
+        "Das Achterliek killt, das Vorliek wird übermäßig gereckt.",
+        "Das Vorliek killt, das Unterliek wird übermäßig gereckt.",
+        "Das Vorliek killt, das Achterliek wird übermäßig gereckt."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q286"
+    },
+    "ru": {
+      "question": "Как влияет кипа (точка крепления шкота), расположенная слишком далеко вперёд, на форму и нагрузку стакселя?",
+      "answers": [
+        "Нижняя шкаторина заполаскивает, задняя шкаторина чрезмерно растягивается.",
+        "Задняя шкаторина заполаскивает, передняя шкаторина чрезмерно растягивается.",
+        "Передняя шкаторина заполаскивает, нижняя шкаторина чрезмерно растягивается.",
+        "Передняя шкаторина заполаскивает, задняя шкаторина чрезмерно растягивается."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q286"
+    }
+  },
+  {
+    "id": "q-sege-11_2-287",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 287,
+    "de": {
+      "question": "Wie wirkt sich ein Holepunkt, der zu weit achtern liegt, auf Stand und Beanspruchung des Vorsegels aus?",
+      "answers": [
+        "Das Achterliek killt, das Unterliek wird übermäßig gereckt.",
+        "Das Vorliek killt, das Unterliek wird übermäßig gereckt.",
+        "Das Unterliek killt, das Achterliek wird übermäßig gereckt.",
+        "Das Achterliek killt, das Vorliek wird übermäßig gereckt."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q287"
+    },
+    "ru": {
+      "question": "Как влияет кипа, расположенная слишком далеко назад, на форму и нагрузку стакселя?",
+      "answers": [
+        "Задняя шкаторина заполаскивает, нижняя шкаторина чрезмерно растягивается.",
+        "Передняя шкаторина заполаскивает, нижняя шкаторина чрезмерно растягивается.",
+        "Нижняя шкаторина заполаскивает, задняя шкаторина чрезмерно растягивается.",
+        "Задняя шкаторина заполаскивает, передняя шкаторина чрезмерно растягивается."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q287"
+    }
+  },
+  {
+    "id": "q-sege-11_2-288",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 288,
+    "de": {
+      "question": "Wie muss ein Segel bei leichtem Wind getrimmt werden?",
+      "answers": [
+        "Das Segel soll bauchig stehen.",
+        "Das Segel soll flach getrimmt werden.",
+        "Die Schoten müssen gefiert werden.",
+        "Die Schoten müssen dicht geholt werden."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q288"
+    },
+    "ru": {
+      "question": "Как следует настраивать парус при слабом ветре?",
+      "answers": [
+        "Парус должен быть пузатым.",
+        "Парус должен быть плоским.",
+        "Шкоты необходимо потравить.",
+        "Шкоты необходимо выбрать втугую."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q288"
+    }
+  },
+  {
+    "id": "q-sege-11_2-289",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 289,
+    "de": {
+      "question": "Wie muss ein Segel bei starkem Wind getrimmt werden?",
+      "answers": [
+        "Das Segel soll flach getrimmt werden.",
+        "Es soll bauchig getrimmt werden.",
+        "Die Schoten müssen dicht geholt werden.",
+        "Die Schoten müssen gefiert werden."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q289"
+    },
+    "ru": {
+      "question": "Как следует настраивать парус при сильном ветре?",
+      "answers": [
+        "Парус должен быть плоским.",
+        "Парус должен быть пузатым.",
+        "Шкоты необходимо выбрать втугую.",
+        "Шкоты необходимо потравить."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q289"
+    }
+  },
+  {
+    "id": "q-sege-11_2-290",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 290,
+    "de": {
+      "question": "Wie beeinflusst ein Unterliekstrecker den Trimm des Segels?",
+      "answers": [
+        "Je nach Zugkraft wird der untere Teil des Großsegels bauchiger oder flacher.",
+        "Je nach Zugkraft wird der untere Teil des Vorsegels bauchiger oder flacher.",
+        "Je nach Zugkraft wird der achtere Teil des Vorsegels bauchiger oder flacher.",
+        "Je nach Zugkraft wird der achtere Teil des Großsegels bauchiger oder flacher."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q290"
+    },
+    "ru": {
+      "question": "Как оттяжка нижней шкаторины влияет на настройку паруса?",
+      "answers": [
+        "В зависимости от натяжения нижняя часть грота становится более пузатой или более плоской.",
+        "В зависимости от натяжения нижняя часть стакселя становится более пузатой или более плоской.",
+        "В зависимости от натяжения задняя часть стакселя становится более пузатой или более плоской.",
+        "В зависимости от натяжения задняя часть грота становится более пузатой или более плоской."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q290"
+    }
+  },
+  {
+    "id": "q-sege-11_2-291",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 291,
+    "de": {
+      "question": "Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark von der Seite der Segel weggezogen werden. Wie kann der Trimmfehler behoben werden?",
+      "answers": [
+        "Großsegel flacher trimmen; Gewichtsverlagerung nach achtern.",
+        "Großsegel flacher trimmen; Gewichtsverlagerung nach vorne.",
+        "Vorsegel flacher trimmen; Gewichtsverlagerung nach achtern.",
+        "Vorsegel flacher trimmen; Gewichtsverlagerung nach vorne."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q291"
+    },
+    "ru": {
+      "question": "Чтобы удержать швертбот на курсе бейдевинд, приходится постоянно сильно тянуть румпель от парусов. Как устранить эту ошибку настройки?",
+      "answers": [
+        "Сделать грот более плоским; сместить вес назад.",
+        "Сделать грот более плоским; сместить вес вперёд.",
+        "Сделать стаксель более плоским; сместить вес назад.",
+        "Сделать стаксель более плоским; сместить вес вперёд."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q291"
+    }
+  },
+  {
+    "id": "q-sege-11_2-292",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 292,
+    "de": {
+      "question": "Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark zur Seite der Segel hingedrückt werden. Wie kann der Trimmfehler behoben werden?",
+      "answers": [
+        "Großsegel bauchiger trimmen, Gewichtsverlagerung nach vorn.",
+        "Großsegel flacher trimmen, Gewichtsverlagerung nach vorn.",
+        "Großsegel bauchiger trimmen, Gewichtsverlagerung nach hinten.",
+        "Großsegel flacher trimmen, Gewichtsverlagerung nach hinten."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q292"
+    },
+    "ru": {
+      "question": "Чтобы удержать швертбот на курсе бейдевинд, приходится постоянно сильно толкать румпель в сторону парусов. Как устранить эту ошибку настройки?",
+      "answers": [
+        "Сделать грот более пузатым, сместить вес вперёд.",
+        "Сделать грот более плоским, сместить вес вперёд.",
+        "Сделать грот более пузатым, сместить вес назад.",
+        "Сделать грот более плоским, сместить вес назад."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q292"
+    }
+  },
+  {
+    "id": "q-sege-11_2-293",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 293,
+    "de": {
+      "question": "Warum soll ein gut getrimmtes Segelboot leicht luvgierig sein?",
+      "answers": [
+        "Weil es im Notfall von selbst in den Wind schießt.",
+        "Weil es sich so anspruchsvoller steuern lässt.",
+        "Weil es so weniger Höhe läuft.",
+        "Weil es auf Raumschotkurs mehr Geschwindigkeit läuft."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q293"
+    },
+    "ru": {
+      "question": "Почему хорошо настроенная парусная яхта должна иметь лёгкую тенденцию к приводу?",
+      "answers": [
+        "Потому что в аварийной ситуации она сама приводится к ветру.",
+        "Потому что так ею сложнее управлять.",
+        "Потому что так она хуже идёт к ветру.",
+        "Потому что на курсе бакштаг она развивает большую скорость."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q293"
+    }
+  },
+  {
+    "id": "q-sege-11_2-294",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 294,
+    "de": {
+      "question": "Welchen Einfluss hat zunehmende Krängung auf den Trimm des Bootes?",
+      "answers": [
+        "Die Luvgierigkeit nimmt zu.",
+        "Die Leegierigkeit nimmt zu.",
+        "Keinen.",
+        "Bis 45° Krängung nimmt die Luvgierigkeit zu, dann wieder ab."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q294"
+    },
+    "ru": {
+      "question": "Как увеличивающийся крен влияет на настройку лодки?",
+      "answers": [
+        "Тенденция к приводу возрастает.",
+        "Тенденция к увалу возрастает.",
+        "Никак.",
+        "До крена 45° тенденция к приводу увеличивается, затем снова уменьшается."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q294"
+    }
+  },
+  {
+    "id": "q-sege-11_2-295",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 295,
+    "de": {
+      "question": "Welche Manöver hat das Boot auf dem eingezeichneten Kurs an den Punkten 1, 2 und 3 gefahren?",
+      "answers": [
+        "1 Wende, 2 Halse, 3 Q-Wende.",
+        "1 Q-Wende, 2 Halse, 3 Wende.",
+        "1 Halse, 2 Wende, 3 Q-Wende.",
+        "1 Wende, 2 Q-Wende, 3 Halse."
+      ],
+      "correct": 0,
+      "images": [
+        "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Segeln/Bild-Frage-295.gif?__blob=normal&v=1"
+      ],
+      "source_anchor": "q295"
+    },
+    "ru": {
+      "question": "Какие манёвры выполнила яхта на обозначенном курсе в точках 1, 2 и 3?",
+      "answers": [
+        "1 — поворот оверштаг, 2 — поворот фордевинд, 3 — Q-поворот.",
+        "1 — Q-поворот, 2 — поворот фордевинд, 3 — поворот оверштаг.",
+        "1 — поворот фордевинд, 2 — поворот оверштаг, 3 — Q-поворот.",
+        "1 — поворот оверштаг, 2 — Q-поворот, 3 — поворот фордевинд."
+      ],
+      "correct": 0,
+      "images": [
+        "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Segeln/Bild-Frage-295.gif?__blob=normal&v=1"
+      ],
+      "source_anchor": "q295"
+    }
+  },
+  {
+    "id": "q-sege-11_2-296",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 296,
+    "de": {
+      "question": "Was ist mit Schwert und Ruder einer Jolle zu tun, wenn das Boot an einer Boje liegen gelassen wird?",
+      "answers": [
+        "Schwert und Ruderblatt aufholen, damit das Boot frei schwojen kann.",
+        "Schwert absenken, Ruder aufholen, damit das Boot frei schwojen kann.",
+        "Schwert aufholen, Ruder absenken, damit das Boot frei schwojen kann.",
+        "Schwert und Ruder absenken, damit das Boot frei schwojen kann."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q296"
+    },
+    "ru": {
+      "question": "Что следует сделать со швертом и рулём швертбота, если лодку оставляют на буе?",
+      "answers": [
+        "Поднять шверт и перо руля, чтобы лодка могла свободно рыскать на якоре.",
+        "Опустить шверт, поднять руль, чтобы лодка могла свободно рыскать на якоре.",
+        "Поднять шверт, опустить руль, чтобы лодка могла свободно рыскать на якоре.",
+        "Опустить шверт и руль, чтобы лодка могла свободно рыскать на якоре."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q296"
+    }
+  },
+  {
+    "id": "q-sege-11_2-297",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 297,
+    "de": {
+      "question": "Warum ist eine Patenthalse gefährlich?",
+      "answers": [
+        "Es kann zu Verletzungen der Crew, zu Riggschäden und zur Kenterung führen.",
+        "Es kann zur plötzlichen Änderung der Ausweichpflicht kommen.",
+        "Es kann zum Verlust der Steuerfähigkeit des Fahrzeuges führen.",
+        "Es kann erneut eine Patenthalse folgen, wenn nicht sofort abgefallen wird."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q297"
+    },
+    "ru": {
+      "question": "Почему непреднамеренный поворот фордевинд (брочинг) опасен?",
+      "answers": [
+        "Он может привести к травмам экипажа, повреждению рангоута и такелажа, а также к опрокидыванию.",
+        "Он может привести к внезапному изменению обязанности уступать дорогу.",
+        "Он может привести к потере управляемости судна.",
+        "За ним может последовать повторный непреднамеренный поворот, если не увалиться немедленно."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q297"
+    }
+  },
+  {
+    "id": "q-sege-11_2-298",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 298,
+    "de": {
+      "question": "Ein Segelboot segelt am Wind, plötzlich bricht das Luvwant. Welches Manöver ist sinnvoll?",
+      "answers": [
+        "Wende.",
+        "Halse.",
+        "Q-Wende.",
+        "Aufschießer."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q298"
+    },
+    "ru": {
+      "question": "Парусная яхта идёт в бейдевинд, внезапно обрывается наветренная ванта. Какой манёвр целесообразен?",
+      "answers": [
+        "Поворот оверштаг.",
+        "Поворот фордевинд.",
+        "Q-поворот.",
+        "Приведение к ветру."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q298"
+    }
+  },
+  {
+    "id": "q-sege-11_2-299",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 299,
+    "de": {
+      "question": "Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Was ist sofort zu unternehmen?",
+      "answers": [
+        "Abfallen auf Vorwindkurs.",
+        "Dichtholen und Anluven.",
+        "Einen Aufschießer fahren.",
+        "Eine Halse fahren."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q299"
+    },
+    "ru": {
+      "question": "Парусная яхта идёт при сильном ветре только под гротом курсом бейдевинд. Внезапно обрывается форштаг. Что нужно сделать немедленно?",
+      "answers": [
+        "Увалиться на курс фордевинд.",
+        "Выбрать шкоты и привестись.",
+        "Выполнить приведение к ветру.",
+        "Выполнить поворот фордевинд."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q299"
+    }
+  },
+  {
+    "id": "q-sege-11_2-300",
+    "chapter": "11_2",
+    "category": "segeln",
+    "number": 300,
+    "de": {
+      "question": "Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Womit kann das gebrochene Vorstag schnell provisorisch ersetzt werden?",
+      "answers": [
+        "Durch die Fock oder ein Fall.",
+        "Durch die Fockschot oder das Großfall.",
+        "Durch die Vor- oder die Achterleine.",
+        "Durch die Fockschot oder eine Reffleine."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q300"
+    },
+    "ru": {
+      "question": "Парусная яхта идёт при сильном ветре только под гротом курсом бейдевинд. Внезапно обрывается форштаг. Чем можно быстро заменить оборванный форштаг в качестве временной меры?",
+      "answers": [
+        "Стакселем или фалом.",
+        "Стаксель-шкотом или грота-фалом.",
+        "Носовым или кормовым швартовом.",
+        "Стаксель-шкотом или риф-штертом."
+      ],
+      "correct": 0,
+      "images": [],
+      "source_anchor": "q300"
+    }
   }
 ]

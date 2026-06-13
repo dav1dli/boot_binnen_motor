@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tts-batch>
+  <segment id="chapter-02-01-de" chapter="02" slide="1" lang="de" section-id="02-01-geltungsbereich">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Geltungsbereich und Führerscheinpflicht.</s>
+          <break time="600ms" />
+          <s>Jeder, der auf Binnenschifffahrtsstraßen ein Motor- oder Segelboot mit einer Nutzleistung von mehr als 11,03 kW (15 PS) fahren will, braucht diesen Sportbootführerschein. Wichtige Ausnahmen bilden der Rhein und einige Landesgewässer, z. B. Abschnitte der Ruhr: Hier gilt eine Fahrerlaubnispflicht für Sportboote bereits mit einer Nutzleistung von mehr als 3,68 kW (5 PS). Das fordert die Sportbootführerscheinverordnung (SpFV) vom 3.5.2017.</s>
+          <break time="600ms" />
+          <s>Binnenschifffahrtsstraßen im Sinne dieser Führerscheinverordnung sind die Bundeswasserstraßen Rhein, Donau, Mosel, Saar, Main, Main-Donau-Kanal, Neckar, Lahn, Schifffahrtsweg Rhein-Kleve, Ruhr, Rhein-Herne-Kanal, Wesel-Datteln-Kanal, Datteln-Hamm-Kanal, Dortmund-Ems-Kanal, Mittellandkanal mit seinen Zweigkanälen, Ems bis Gleesen, Küstenkanal, Leda, Elisabethfehnkanal, Ems-Seiten-Kanal, Oldersum-Emden, Weser bis Bremen, Werra, Fulda, Aller, Leine, Elbe-Seiten-Kanal, Elbe bis Hamburg, Ilmenau, Elbe-Lübeck-Kanal, Trave bis Lübeck, Saale, Elbe-Havel-Wasserstraße, Untere Havel-Wasserstraße, Teltow-Kanal, Havel-Oder-Wasserstraße, Spree-Oder-Wasserstraße, Oder zwischen Ratzdorf und Widuchowa, Obere Havel-Wasserstraße, Müritz-Elde-Wasserstraße, Peene, Ücker bis Randow.</s>
+          <break time="600ms" />
+          <s>Anschließende Flussstrecken, die in Nord- oder Ostsee münden, sind Seeschifffahrtsstraßen, auf denen der Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen erforderlich ist.</s>
+          <break time="600ms" />
+          <s>Alle hier nicht genannten Binnengewässer stehen unter der Verwaltung der Bundesländer oder der Kommunen. Wenn auf ihren Gewässern das Motorbootfahren überhaupt erlaubt ist, verlangen sie ebenfalls den Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen.</s>
+          <break time="600ms" />
+          <s>Außerdem ist auf Gewässern in Berlin und auf verschiedenen angrenzenden Gewässern Brandenburgs der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen auch für Segelfahrzeuge mit mehr als 6 m² Segelfläche vorgeschrieben.</s>
+          <break time="600ms" />
+          <s>Segelsurfbretter sind von der Führerscheinpflicht befreit.</s>
+          <break time="600ms" />
+          <s>Für Motorboote von 20 bis 25 Meter Länge ist auf den Binnenschifffahrtsstraßen das Sportschifferzeugnis, für Boote von 15 bis 25 Meter auf dem Rhein das Sportpatent vorgeschrieben.</s>
+          <break time="600ms" />
+          <s>Der Sportbootführerschein gilt ferner nicht auf dem (internationalen) Bodensee. Dort ist das Bodenseeschifferpatent erforderlich, das jedoch umgeschrieben werden kann.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-02-01-ru" chapter="02" slide="1" lang="ru" section-id="02-01-geltungsbereich">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Область действия и обязанность иметь удостоверение.</s>
+          <break time="600ms" />
+          <s>Каждый, кто хочет управлять на внутренних водных путях моторным или парусным судном с полезной мощностью двигателя более 11,03 кВт (15 л.с.), должен иметь это удостоверение судоводителя спортивного судна. Важные исключения составляют Рейн и некоторые региональные водоёмы, например участки реки Рур: здесь обязанность иметь удостоверение распространяется уже на спортивные суда с мощностью более 3,68 кВт (5 л.с.). Это установлено постановлением о правах на управление спортивными судами (SpFV) от 03.05.2017.</s>
+          <break time="600ms" />
+          <s>Внутренними водными путями в смысле данного постановления считаются федеральные водные пути: Рейн, Дунай, Мозель, Саар, Майн, канал Майн‑Дунай, Неккар, Лан, судоходный путь Рейн‑Клеве, Рур, канал Рейн‑Херне, канал Везель‑Даттельн, канал Даттельн‑Хамм, канал Дортмунд‑Эмс, Среднегерманский канал с его ответвлениями, Эмс до Глезена, Прибрежный канал, Леда, канал Элизабетфен, канал Эмс‑Зайтен, Олдерзум‑Эмден, Везер до Бремена, Верра, Фульда, Аллер, Лайне, канал Эльба‑Зайтен, Эльба до Гамбурга, Ильменау, канал Эльба‑Любек, Траве до Любека, Заале, водный путь Эльба‑Хафель, Нижняя Хафель, канал Тельтов, водный путь Хафель‑Одер, водный путь Шпрее‑Одер, Одер между Рацдорфом и Видуховой, Верхняя Хафель, водный путь Мюриц‑Эльде, Пене, Юкер до Рандова.</s>
+          <break time="600ms" />
+          <s>Примыкающие речные участки, впадающие в Северное или Балтийское море, являются морскими судоходными путями, где требуется удостоверение судоводителя спортивного судна с областью действия для морских судоходных путей.</s>
+          <break time="600ms" />
+          <s>Все внутренние водоёмы, не перечисленные здесь, находятся в ведении федеральных земель или муниципалитетов. Если на них вообще разрешено плавание на моторных лодках, обычно также требуется удостоверение судоводителя спортивного судна для внутренних водных путей.</s>
+          <break time="600ms" />
+          <s>Кроме того, на водоёмах Берлина и на некоторых прилегающих водоёмах Бранденбурга такое удостоверение требуется также для парусных судов с площадью парусов более 6 м².</s>
+          <break time="600ms" />
+          <s>Доски для виндсёрфинга освобождены от обязанности иметь удостоверение.</s>
+          <break time="600ms" />
+          <s>Для моторных судов длиной от 20 до 25 метров на внутренних водных путях требуется свидетельство спортивного судоводителя, а для судов длиной от 15 до 25 метров на Рейне — специальный патент спортивного судоводителя.</s>
+          <break time="600ms" />
+          <s>Удостоверение также не действует на международном Боденском озере. Там требуется патент судоводителя Боденского озера, который, однако, может быть заменён соответствующим образом.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-02-02-de" chapter="02" slide="2" lang="de" section-id="02-02-wie-bekommt-man">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Wie bekommt man den Führerschein?</s>
+          <break time="600ms" />
+          <s>Wer einen Sportbootführerschein erwerben will, muss folgende Anforderungen erfüllen:</s>
+          <break time="600ms" />
+          <s>Das 16. Lebensjahr vollendet haben.</s>
+          <break time="600ms" />
+          <s>Gesundheitlich und geistig geeignet sowie zuverlässig sein (ausreichendes Hör-, Seh- und Farbunterscheidungsvermögen).</s>
+          <break time="600ms" />
+          <s>Zum Führen eines Motorbootes befähigt sein.</s>
+          <break time="600ms" />
+          <s>Seine Befähigung hat er vor einem Prüfungsausschuss des Deutschen Motoryachtverbandes (DMYV) oder des Deutschen Segler-Verbandes (DSV) nachzuweisen. Die Zulassung zur Prüfung muss auf einem Formblatt der genannten Verbände bei dem zuständigen Prüfungsausschuss beantragt werden. Diesem Antrag sind folgende Unterlagen beizufügen:</s>
+          <break time="600ms" />
+          <s>Ein aktuelles Lichtbild 38 × 45 mm, ohne Kopfbedeckung, im Halbprofil.</s>
+          <break time="600ms" />
+          <s>Ein ärztliches Tauglichkeitszeugnis, nicht älter als ein Jahr.</s>
+          <break time="600ms" />
+          <s>Die Kopie eines gültigen Kfz-Führerscheins oder, auf Verlangen, ein Führungszeugnis nach den Vorschriften des Bundeszentralregisters, nicht älter als 6 Monate.</s>
+          <break time="600ms" />
+          <s>Eine Erklärung, ob dem Bewerber die Fahrerlaubnis bereits entzogen worden ist.</s>
+          <break time="600ms" />
+          <s>Bei Bewerbern, die noch nicht 18 Jahre alt sind, die Zustimmung des gesetzlichen Vertreters.</s>
+          <break time="600ms" />
+          <s>Soweit erforderlich, eine ärztliche Bescheinigung einer Legasthenie oder Unterlagen, die zur Glaubhaftmachung nicht ausreichender Deutschkenntnisse geeignet sind.</s>
+          <break time="600ms" />
+          <s>Soweit erteilt, eine Kopie des amtlichen Sportbootführerscheins mit dem Geltungsbereich Seeschifffahrtsstraßen.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-02-02-ru" chapter="02" slide="2" lang="ru" section-id="02-02-wie-bekommt-man">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Как получить удостоверение?</s>
+          <break time="600ms" />
+          <s>Тот, кто хочет получить удостоверение судоводителя спортивного судна, должен соответствовать следующим требованиям:</s>
+          <break time="600ms" />
+          <s>Достигнуть возраста 16 лет.</s>
+          <break time="600ms" />
+          <s>Быть физически и психически пригодным, а также надёжным (достаточное слуховое, зрительное и цветовое восприятие).</s>
+          <break time="600ms" />
+          <s>Обладать навыками управления моторным судном.</s>
+          <break time="600ms" />
+          <s>Свою квалификацию необходимо подтвердить перед экзаменационной комиссией Немецкого союза моторных яхт (DMYV) или Немецкого парусного союза (DSV). Заявление на допуск к экзамену подаётся в соответствующую экзаменационную комиссию на специальном бланке этих организаций. К заявлению необходимо приложить следующие документы:</s>
+          <break time="600ms" />
+          <s>Актуальную фотографию 38 × 45 мм без головного убора, полуанфас.</s>
+          <break time="600ms" />
+          <s>Медицинское свидетельство о годности, выданное не более года назад.</s>
+          <break time="600ms" />
+          <s>Копию действительного водительского удостоверения автомобиля или, по требованию, справку о несудимости согласно федеральному реестру, выданную не более 6 месяцев назад.</s>
+          <break time="600ms" />
+          <s>Заявление о том, лишался ли заявитель ранее права управления.</s>
+          <break time="600ms" />
+          <s>Для заявителей младше 18 лет — согласие законного представителя.</s>
+          <break time="600ms" />
+          <s>При необходимости медицинское подтверждение дислексии или документы, подтверждающие недостаточное знание немецкого языка.</s>
+          <break time="600ms" />
+          <s>При наличии — копию официального удостоверения судоводителя спортивного судна для морских судоходных путей.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-02-03-de" chapter="02" slide="3" lang="de" section-id="02-03-pruefung">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Die Prüfung.</s>
+          <break time="600ms" />
+          <s>Sie besteht aus einem theoretischen und einem praktischen Teil.</s>
+          <break time="600ms" />
+          <s>Geprüft wird grundsätzlich schriftlich. Eine mündliche Prüfung ist nur in Ausnahmefällen möglich. Für die schriftliche Prüfung gibt es einen bundeseinheitlichen Fragenkatalog. Er enthält 253 Prüfungsfragen. Daraus werden Ihnen 30 Fragen gestellt, von denen insgesamt 23 (5 Basisfragen + 18 spezifische Fragen Binnen) richtig beantwortet werden müssen. Nach dem Single-Choice-Verfahren gibt es zu jeder Frage vier Antwortmöglichkeiten, von denen jeweils nur eine richtig ist. Sie haben 45 Minuten Zeit, um die Fragen zu beantworten. Dabei dürfen keinerlei Hilfsmittel verwendet werden.</s>
+          <break time="600ms" />
+          <s>253 Prüfungsfragen im Fragenkatalog.</s>
+          <break time="600ms" />
+          <s>30 Fragen in der Prüfung: 7 Basisfragen + 23 spezifische Fragen Binnen.</s>
+          <break time="600ms" />
+          <s>Mindestens 23 richtige Antworten erforderlich: 5 von 7 Basisfragen + 18 von 23 spezifischen.</s>
+          <break time="600ms" />
+          <s>45 Minuten, Single-Choice-Verfahren, keine Hilfsmittel.</s>
+          <break time="600ms" />
+          <s>Im praktischen Teil soll der Prüfungskandidat zeigen, ob er die zur sicheren Führung eines Motorbootes erforderlichen Kenntnisse und Fähigkeiten besitzt. Verlangt werden:</s>
+          <break time="600ms" />
+          <s>Pflichtmanöver: Rettungsmanöver unter Maschine (Mensch über Bord), Anlegen unter Maschine, Ablegen unter Maschine.</s>
+          <break time="600ms" />
+          <s>Sonstige Manöver: Kursgerechtes Aufstoppen, Wenden auf engem Raum, Steuern nach Schifffahrtszeichen/Landmarken, Anlegen einer Rettungsweste/Sicherheitsgurtes, Manöverschallsignal.</s>
+          <break time="600ms" />
+          <s>Knoten: Achtknoten, Rundtörn mit zwei halben Schlägen, Kreuzknoten, einfacher oder doppelter Schotstek, Palstek, Webleinstek, Stopperstek, Webleinstek auf Slip, Belegen einer Klampe mit Kopfschlag.</s>
+          <break time="600ms" />
+          <s>In der Prüfung muss der Bewerber ausreichende Kenntnisse für die sichere Führung eines Sportbootes nachweisen. Hat man mit seinen Fahrmanövern die Prüfer nicht überzeugen können, gilt die Prüfung als nicht bestanden. Man muss oder kann sie wiederholen. Allerdings frühestens am nächsten Tag. Bestandene Teile der ersten Prüfung – sei es Theorie oder Praxis – werden anerkannt und brauchen nicht wiederholt zu werden, sofern die Prüfung nicht länger als zwölf Monate zurückliegt.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-02-03-ru" chapter="02" slide="3" lang="ru" section-id="02-03-pruefung">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Экзамен.</s>
+          <break time="600ms" />
+          <s>Он состоит из теоретической и практической части.</s>
+          <break time="600ms" />
+          <s>Экзамен, как правило, проводится письменно. Устный экзамен возможен только в исключительных случаях. Для письменного экзамена существует единый по всей Германии каталог вопросов. Он содержит 253 экзаменационных вопроса. Из них вам будет задано 30 вопросов, из которых необходимо правильно ответить на 23 (5 базовых вопросов + 18 специальных вопросов по внутренним водным путям). По системе Single Choice к каждому вопросу предлагаются четыре варианта ответа, из которых только один является правильным. На ответы отводится 45 минут. Использование любых вспомогательных средств не допускается.</s>
+          <break time="600ms" />
+          <s>253 экзаменационных вопроса в каталоге.</s>
+          <break time="600ms" />
+          <s>30 вопросов на экзамене: 7 базовых + 23 специальных по внутренним водным путям.</s>
+          <break time="600ms" />
+          <s>Необходимо минимум 23 правильных ответа: 5 из 7 базовых + 18 из 23 специальных.</s>
+          <break time="600ms" />
+          <s>45 минут, метод единственного выбора, без вспомогательных средств.</s>
+          <break time="600ms" />
+          <s>В практической части кандидат должен показать, обладает ли он знаниями и навыками, необходимыми для безопасного управления моторной лодкой. Требуются:</s>
+          <break time="600ms" />
+          <s>Обязательные манёвры: спасательный манёвр под мотором (человек за бортом), швартовка под мотором, отход от причала под мотором.</s>
+          <break time="600ms" />
+          <s>Другие манёвры: остановка по курсу, разворот в ограниченном пространстве, управление по навигационным знакам/ориентирам, надевание спасательного жилета/страховочного пояса, манёвренный звуковой сигнал.</s>
+          <break time="600ms" />
+          <s>Узлы: восьмёрка, шлаг с двумя полуштыками, прямой узел, простой или двойной шкотовый узел, беседочный узел, выбленочный узел, стопорный узел, выбленочный узел со скользящей петлёй, крепление на кнехте с завершающим полуштыком.</s>
+          <break time="600ms" />
+          <s>На экзамене кандидат должен доказать достаточные знания для безопасного управления прогулочным судном. Если экзаменаторы не будут убеждены в правильности выполненных манёвров, экзамен считается не сданным. Его можно или необходимо пересдать, однако не ранее чем на следующий день. Сданные части первого экзамена — теория или практика — засчитываются и не должны пересдаваться, если с момента экзамена прошло не более двенадцати месяцев.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-02-04-de" chapter="02" slide="4" lang="de" section-id="02-04-entzug">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Der Entzug des Führerscheins.</s>
+          <break time="600ms" />
+          <s>Der Sportbootführerschein kann entzogen werden, wenn der Inhaber</s>
+          <break time="600ms" />
+          <s>Wegen Gefährdung des Schiffsverkehrs rechtskräftig verurteilt worden ist.</s>
+          <break time="600ms" />
+          <s>Wiederholt mit Geldbußen geahndete Zuwiderhandlungen gegen ström- und schifffahrtspolizeiliche Vorschriften begangen hat.</s>
+          <break time="600ms" />
+          <s>Unter Alkoholeinfluss, Einwirkung von Drogen oder anderer berauschender Mittel ein Boot geführt hat.</s>
+          <break time="600ms" />
+          <s>Einer im Führerschein eingetragenen Auflage (etwa eine Sehhilfe zu tragen) nicht nachgekommen ist.</s>
+          <break time="600ms" />
+          <s>Der Sportbootführerschein wird entzogen, wenn sich herausstellt, dass er durch falsche Angaben oder arglistige Täuschung erschlichen wurde, oder wenn sich im Laufe der Zeit ein körperliches Gebrechen oder eine geistige Beeinträchtigung zeigt, sodass der Führerscheininhaber den an ihn als Bootsführer gestellten Anforderungen nicht mehr gewachsen ist.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-02-04-ru" chapter="02" slide="4" lang="ru" section-id="02-04-entzug">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Лишение удостоверения.</s>
+          <break time="600ms" />
+          <s>Удостоверение на управление прогулочным судном может быть отозвано, если его владелец:</s>
+          <break time="600ms" />
+          <s>Был окончательно осуждён за создание угрозы судоходству.</s>
+          <break time="600ms" />
+          <s>Неоднократно совершал нарушения правил речного и судоходного движения, наказуемые штрафами.</s>
+          <break time="600ms" />
+          <s>Управлял судном под воздействием алкоголя, наркотиков или других опьяняющих средств.</s>
+          <break time="600ms" />
+          <s>Не выполнил условие, указанное в удостоверении (например, ношение очков).</s>
+          <break time="600ms" />
+          <s>Удостоверение на управление прогулочным судном также отзывается, если выясняется, что оно было получено на основании ложных сведений или путём обмана, либо если со временем у владельца обнаруживаются физические недостатки или психические нарушения, из-за которых он больше не способен соответствовать требованиям, предъявляемым к судоводителю.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+</tts-batch>

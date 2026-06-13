@@ -45,6 +45,7 @@ PAIRS = [
     # (chapter_id, de_file, ru_file, category)
     ("11",   "sbf-binnen-de-11.html",   "prava-na-lodku-11.html",   "basis"),
     ("11_1", "sbf-binnen-de-11_1.html", "prava-na-lodku-11_1.html", "spezifisch"),
+    ("11_2", "sbf-binnen-de-11_2.html", "prava-na-lodku-11_2.html", "segeln"),
 ]
 
 CHECK = "\u2713"   # ✓
@@ -201,6 +202,7 @@ def extract_ru(html_path: Path) -> dict[int, Lang]:
     soup = BeautifulSoup(html_path.read_text(encoding="utf-8"), "html.parser")
     out: dict[int, Lang] = {}
 
+    # Try table-based extraction first (the original RU format).
     for tr in soup.find_all("tr"):
         tds = tr.find_all("td", recursive=False)
         if len(tds) < 2:
@@ -228,6 +230,11 @@ def extract_ru(html_path: Path) -> dict[int, Lang]:
             images=[i for i in imgs if i],
             source_anchor=f"q{qnum}",
         )
+
+    # If no table rows found, fall back to <ol>-list format (same as DE).
+    if not out:
+        out = extract_de(html_path)
+
     return out
 
 
