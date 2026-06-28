@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -25,6 +26,45 @@ VOICE_DEFAULTS = {
 }
 
 
+# ---------------------------------------------------------------------------
+# Unit abbreviation expansion for TTS
+# ---------------------------------------------------------------------------
+
+def expand_units(text: str, lang: str) -> str:
+    """Expand measurement abbreviations to full words for TTS pronunciation.
+
+    Handles: m/м (meter), m³/м³/m3/м3 (cubic meters), m²/м²/m2/м2 (square meters),
+             km/h/км/ч, kW/кВт, PS/л.с.
+    """
+    if lang == "de":
+        # Order matters: longer patterns first
+        text = re.sub(r"(\d)\s*m³", r"\1 Kubikmeter ", text)
+        text = re.sub(r"(\d)\s*m3(?!\d)", r"\1 Kubikmeter ", text)
+        text = re.sub(r"(\d)\s*m²", r"\1 Quadratmeter ", text)
+        text = re.sub(r"(\d)\s*m2(?!\d)", r"\1 Quadratmeter ", text)
+        text = re.sub(r"(\d)\s*km/h", r"\1 Kilometer pro Stunde", text)
+        text = re.sub(r"(\d)\s*kW", r"\1 Kilowatt", text)
+        # "m" as meter — only when preceded by a number and followed by word boundary
+        text = re.sub(r"(\d)\s*m\b", r"\1 Meter", text)
+    elif lang == "ru":
+        text = re.sub(r"(\d)\s*м³", r"\1 кубических метров ", text)
+        text = re.sub(r"(\d)\s*м3(?!\d)", r"\1 кубических метров ", text)
+        text = re.sub(r"(\d)\s*м²", r"\1 квадратных метров ", text)
+        text = re.sub(r"(\d)\s*м2(?!\d)", r"\1 квадратных метров ", text)
+        text = re.sub(r"(\d)\s*км/ч", r"\1 километров в час", text)
+        text = re.sub(r"(\d)\s*кВт", r"\1 киловатт", text)
+        # "м" as meter — only when preceded by a number and followed by word boundary
+        text = re.sub(r"(\d)\s*м\b", r"\1 метров", text)
+    # Normalize any double spaces introduced by replacements
+    text = re.sub(r"  +", " ", text)
+    return text
+
+
+# ---------------------------------------------------------------------------
+# Sentence extraction
+# ---------------------------------------------------------------------------
+
+
 def extract_sentences(section: dict, lang: str) -> list[str]:
     """Return all speakable sentences from a section for one language."""
     sentences: list[str] = []
@@ -32,6 +72,8 @@ def extract_sentences(section: dict, lang: str) -> list[str]:
     title = section["title"].get(lang, "")
     if title:
         t = title.strip()
+        # Strip (n/m) pagination suffix from split sections
+        t = re.sub(r"\s*\(\d+/\d+\)$", "", t)
         if t and t[-1] not in ".!?":
             t += "."
         sentences.append(t)
@@ -47,7 +89,30 @@ def extract_sentences(section: dict, lang: str) -> list[str]:
                 text = item.get(lang, "")
                 if text:
                     sentences.append(text.strip())
-        # image blocks are skipped
+        elif btype == "key_point":
+            text = block.get(lang, "")
+            if text:
+                sentences.append(text.strip())
+        elif btype == "image":
+            # Read image caption for TTS
+            cap = block.get("caption", {})
+            if isinstance(cap, dict):
+                text = cap.get(lang, "")
+            else:
+                text = cap if lang == "de" else ""
+            if text:
+                sentences.append(text.strip())
+        elif btype == "table_row":
+            # Table cells are extracted from DE source only; skip for other langs
+            if lang == "de":
+                cells = block.get("cells", [])
+                if cells:
+                    row_text = " — ".join(c for c in cells if c)
+                    if row_text:
+                        sentences.append(row_text.strip())
+
+    # Expand unit abbreviations for TTS
+    sentences = [expand_units(s, lang) for s in sentences]
 
     return sentences
 

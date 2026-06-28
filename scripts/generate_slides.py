@@ -57,10 +57,18 @@ def slide_html(
                 text = item.get(lang, "")
                 if text:
                     bullets.append(text)
+        elif btype == "key_point":
+            text = block.get(lang, "")
+            if text:
+                bullets.append(text)
         elif btype == "text":
             text = block.get(lang, "")
             if text:
                 notes.append(text)
+        elif btype == "table_row":
+            cells = block.get("cells", [])
+            if cells:
+                notes.append(" — ".join(c for c in cells if c))
         elif btype == "image":
             if block.get("role") == "chapter-header":
                 continue

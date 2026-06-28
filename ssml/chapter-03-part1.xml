@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tts-batch>
+  <segment id="chapter-03-01-de" chapter="03" slide="1" lang="de" section-id="03-01a">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>VERKEHRSKUNDE.</s>
+          <break time="600ms" />
+          <s>Die Binnenschifffahrtsstraßen-Ordnung (BinSchStrO) regelt den Verkehr auf den deutschen Binnenschifffahrtsstraßen, soweit dort nicht andere Verordnungen gelten wie</s>
+          <break time="600ms" />
+          <s>die Rheinschifffahrtspolizeiverordnung (RheinSchPVO) auf dem Rhein,</s>
+          <break time="600ms" />
+          <s>die Moselschifffahrtspolizeiverordnung (MoselSchPVO) auf der Mosel,</s>
+          <break time="600ms" />
+          <s>die Donauschifffahrtspolizeiverordnung (DonauSchPVO) auf der Donau.</s>
+          <break time="600ms" />
+          <s>Alle stimmen weitgehend überein, berücksichtigen aber lokale Besonderheiten der verschiedenen Flussreviere. Einige Abweichungen enthält die internationale</s>
+          <break time="600ms" />
+          <s>Bodensee-Schifffahrtsordnung (BodenseeSchO).</s>
+          <break time="600ms" />
+          <s>Darüber hinaus gibt es Ergänzungen für Berlin und diverse Landesgewässer, auf denen Verordnungen der einzelnen Bundesländer oder der Landes- und Kommunalbehörden gelten. Sie weichen teilweise erheblich voneinander ab und müssen hier unberücksichtigt bleiben. Auf allen Revieren können außerdem die Wasserskiverordnung und/oder die Wassermotorräderverordnung gelten.</s>
+          <break time="600ms" />
+          <s>Es ist deshalb unerlässlich, vor dem Befahren eines fremden Reviers sich jeweils bei den zuständigen Wasserstraßen- und Schifffahrtsverwaltungen oder -ämtern nach den geltenden Vorschriften zu erkundigen. Verstöße werden als Ordnungswidrigkeiten mit Bußgeld geahndet.</s>
+          <break time="600ms" />
+          <s>Merke</s>
+          <break time="600ms" />
+          <s>Die Kenntnis der Binnenschifffahrtsstraßen-Ordnung reicht nicht aus, um alle deutschen Binnengewässer zu befahren.</s>
+          <break time="600ms" />
+          <s>Geltungsbereich der Schifffahrtsordnungen</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-01-ru" chapter="03" slide="1" lang="ru" section-id="03-01a">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>ПРАВИЛА ДВИЖЕНИЯ.</s>
+          <break time="600ms" />
+          <s>Все они в основном совпадают, но учитывают местные особенности различных речных районов. Некоторые отличия содержит международное</s>
+          <break time="600ms" />
+          <s>Кроме того, существуют дополнения для Берлина и различных земельных водоёмов, где действуют постановления отдельных федеральных земель или местных органов власти. Они иногда значительно отличаются друг от друга и здесь не рассматриваются. На всех акваториях могут также действовать правила для водных лыж и/или гидроциклов.</s>
+          <break time="600ms" />
+          <s>Поэтому перед выходом в незнакомый район плавания необходимо обязательно узнать действующие правила в соответствующих управлениях водных путей и судоходства. Нарушения наказываются штрафами как административные правонарушения.</s>
+          <break time="600ms" />
+          <s>Рейнское полицейское постановление о судоходстве (RheinSchPVO)</s>
+          <break time="600ms" />
+          <s>Мозельское полицейское постановление о судоходстве (MoselSchPVO)</s>
+          <break time="600ms" />
+          <s>Дунайское полицейское постановление о судоходстве (DonauSchPVO)</s>
+          <break time="600ms" />
+          <s>с Правилами движения по Дунаю</s>
+          <break time="600ms" />
+          <s>Правила судоходства по Боденскому озеру (BodenseeSchO)</s>
+          <break time="600ms" />
+          <s>Запомните</s>
+          <break time="600ms" />
+          <s>Знания только Правил судоходства по внутренним водным путям недостаточно для плавания по всем внутренним водоёмам Германии.</s>
+          <break time="600ms" />
+          <s>Правила судоходства по внутренним водным путям (BinSchStrO)</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-02-de" chapter="03" slide="2" lang="de" section-id="03-01b">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>VERKEHRSKUNDE.</s>
+          <break time="600ms" />
+          <s>Binnenschifffahrtsstraßen-Ordnung (BinSchStrO)</s>
+          <break time="600ms" />
+          <s>Rheinschifffahrtspolizeiverordnung (RheinSchPVO)</s>
+          <break time="600ms" />
+          <s>Moselschifffahrtspolizeiverordnung (MoselSchPVO)</s>
+          <break time="600ms" />
+          <s>Donauschifffahrtspolizeiverordnung (DonauSchPVO) mit Donauschifffahrtsverkehrsordnung</s>
+          <break time="600ms" />
+          <s>Bodensee-Schifffahrtsordnung (BodenseeSchO)</s>
+          <break time="600ms" />
+          <s>Seeschifffahrtsstraßen-Ordnung (SeeSchStrO)</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-02-ru" chapter="03" slide="2" lang="ru" section-id="03-01b">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>ПРАВИЛА ДВИЖЕНИЯ.</s>
+          <break time="600ms" />
+          <s>Правила морских судоходных путей (SeeSchStrO)</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-03-de" chapter="03" slide="3" lang="de" section-id="03-02">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Kleinfahrzeuge.</s>
+          <break time="600ms" />
+          <s>Die Binnenschifffahrtsstraßen-Ordnung unterscheidet nicht zwischen Sportboot und Berufsschiff. Sie kennt nur »Kleinfahrzeuge« und »Fahrzeuge«.</s>
+          <break time="600ms" />
+          <s>Kleinfahrzeuge sind Boote unter Rudern, Segeln oder Motor, Amphibien- und Luftkissenfahrzeuge und Tragflügelboote von weniger als 20 Meter Länge.</s>
+          <break time="600ms" />
+          <s>Nicht dazu zählen Schlepper, Fähren oder Boote, die für mehr als 12 Fahrgäste zugelassen sind, Schubleichter und schwimmendes Gerät.</s>
+          <break time="600ms" />
+          <s>Diese Definition ist sehr wichtig, denn Kleinfahrzeuge haben grundsätzlich allen Fahrzeugen auszuweichen.</s>
+          <break time="600ms" />
+          <s>Eine Motoryacht von 19,80 Meter ist demnach ein Kleinfahrzeug und muss jeder Segelyacht (unter 20 Meter) und jedem Ruderboot ausweichen. Eine Motoryacht von 20,10 Meter dagegen zählt als Fahrzeug, dem jedes Segel- und Motorboot (unter 20 Meter) und Ruderboot auszuweichen hat. Die Führerscheinregelung bleibt von dieser verkehrsrechtlichen Definition unberührt. Sie gilt nur für Boote von weniger als 20 Meter Länge.</s>
+          <break time="600ms" />
+          <s>Ein gelber Doppelkegel,an gut sichtbarer Stelle geführt, bezeichnet ein Schiff von weniger als 20 Meter Länge, aber für mehr als 12 Fahrgäste zugelassen, dem alle »Kleinfahrzeuge« auszuweichen haben.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-03-ru" chapter="03" slide="3" lang="ru" section-id="03-02">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Маломерные суда.</s>
+          <break time="600ms" />
+          <s>Правила судоходства по внутренним водным путям не различают прогулочные и коммерческие суда. В них используются только понятия «маломерные суда» и «суда».</s>
+          <break time="600ms" />
+          <s>Маломерные суда — это лодки на вёслах, под парусом или мотором, амфибийные и воздушно‑подушечные суда, а также суда на подводных крыльях длиной менее 20 метров.</s>
+          <break time="600ms" />
+          <s>К ним не относятся буксиры, паромы или суда, допущенные к перевозке более 12 пассажиров, толкаемые баржи и плавучие сооружения.</s>
+          <break time="600ms" />
+          <s>Это определение очень важно, поскольку маломерные суда обязаны уступать дорогу всем судам.</s>
+          <break time="600ms" />
+          <s>Таким образом, моторная яхта длиной 19,80 метров считается маломерным судном и должна уступать любой парусной яхте (менее 20 метров) и любой гребной лодке. Моторная яхта длиной 20,10 метров, напротив, считается судном, которому должны уступать все парусные и моторные лодки (менее 20 метров) и гребные лодки. Правила получения удостоверений при этом остаются без изменений. Они применяются только к лодкам длиной менее 20 метров.</s>
+          <break time="600ms" />
+          <s>Жёлтый двойной конус, установленный на хорошо видимом месте, обозначает судно длиной менее 20 метров, но допущенное к перевозке более 12 пассажиров, которому все «маломерные суда» должны уступать дорогу.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-04-de" chapter="03" slide="4" lang="de" section-id="03-03">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Führerscheine.</s>
+          <break time="600ms" />
+          <s>Bootskategorie — Führerschein</s>
+          <break time="600ms" />
+          <s>Auf Binnenschifffahrtsstraßen Segel- und Motorboote mit mehr als 11,03 Kilowatt (15 PS) Nutzleistung, auf dem Rhein von mehr als 3,68 Kilowatt (5 PS), und weniger als 20 Meter (auf dem Rhein 15 Meter) Länge — Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen mit Antriebsmaschine (DSV/ DMYV)</s>
+          <break time="600ms" />
+          <s>Auf bestimmten Wasserstraßen in Berlin und Brandenburg: Segelboote mit mehr als 6 Quadratmeter Segelfläche — Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen unter Segel (DSV/DMYV)</s>
+          <break time="600ms" />
+          <s>Sportboote bis 25 Meter Länge: alle Binnenschifffahrtsstraßen (außer Rhein) — Sportschifferzeugnis (Generaldirektion Wasserstraßen und Schifffahrt)</s>
+          <break time="600ms" />
+          <s>Sportboote von 15 Meter bis 25 Meter Länge: auf dem Rhein (gültig auch auf den übrigen Binnenschifffahrtsstraßen) — Sportpatent (Generaldirektion Wasserstraßen und Schifffahrt, Standorte Mainz, Münster, Würzburg)</s>
+          <break time="600ms" />
+          <s>Sportboote von 10 Kubikmeter Wasserverdrängung und mehr müssen ins Binnenschiffsregister eingetragen werden. Sportboote zwischen 5 Kubikmeter und 10 Kubikmeter können eingetragen werden.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-04-ru" chapter="03" slide="4" lang="ru" section-id="03-03">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Удостоверения.</s>
+          <break time="600ms" />
+          <s>Прогулочные суда водоизмещением 10 кубических метров и более должны быть внесены в реестр внутренних судов. Суда водоизмещением от 5 кубических метров до 10 кубических метров могут быть внесены в реестр.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-05-de" chapter="03" slide="5" lang="de" section-id="03-04a">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Schiffsführung und Sorgfaltspflicht.</s>
+          <break time="600ms" />
+          <s>Der Führerscheininhaber braucht nicht selbst am Ruder zu sein. Er kann auch »eine geeignete Person« - Mindestalter 15 Jahre - fahren lassen, die keinen Führerschein besitzt. Doch er bleibt voll verantwortlich für alles,</s>
+          <break time="600ms" />
+          <s>Merke</s>
+          <break time="600ms" />
+          <s>In Gefahrensituationen muss der Schiffsführer alle Maßnahmen treffen, um die Gefahr abzuwenden, auch wenn dabei gegen die geltenden Bestimmungen verstoßen wird.</s>
+          <break time="600ms" />
+          <s>Merke</s>
+          <break time="600ms" />
+          <s>Man ist verpflichtet, alles zu tun, um die Gefährdung von Menschenleben, die Beschädigung von Fahrzeugen, Anlagen und Ufern, eine Behinderung der Schifffahrt und Beeinträchtigung der Umwelt zu vermeiden.</s>
+          <break time="600ms" />
+          <s>was an Bord geschieht. In allen Situationen hat er der »allgemeinen Sorgfaltspflicht« nachzukommen.</s>
+          <break time="600ms" />
+          <s>Sollten mehrere Führerscheininhaber an Bord sein, muss vor dem Ablegen einer von ihnen als verantwortlicher Schiffsführer bestimmt werden. Seine Anweisungen sind zu befolgen.</s>
+          <break time="600ms" />
+          <s>Verboten ist:</s>
+          <break time="600ms" />
+          <s>Öl, Benzin, Fäkalien oder andere Abfälle ins Wasser abzuleiten oder zu werfen. Sie gehören in Sammeltanks. Ölgetränkte Putzlappen neigen zur Selbstentzündung. Sie müssen bis zur Entsorgung in einem geschlossenen Metallbehälter aufbewahrt werden.</s>
+          <break time="600ms" />
+          <s>Festmachen an Schifffahrtszeichen, oder im Fahrwasser zu ankern. Auch auf Kanälen, neben Hafeneinfahrten, an Fahrstrecken, im Bereich von Anlegestellen, unter Brücken und Hochspannungsleitungen ist Ankern oder Festmachen verboten.</s>
+          <break time="600ms" />
+          <s>Anlegen oder Anhängen an ein fahrendes Schiff - ohne ausdrückliche Erlaubnis des Schiffsführers - und das Mitfahren im Sogwasser.</s>
+          <break time="600ms" />
+          <s>Den Kurs von Berufsschiffen in gefährlicher Weise zu kreuzen, zwischen dicht hintereinander folgenden Schiffen hindurchzufahren oder zwischen die einzelnen Anhänge eines Schleppverbandes zu laufen. Auch Fähren gegenüber sollte man stets einen reichlich bemessenen Sicherheitsabstand einhalten.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-05-ru" chapter="03" slide="5" lang="ru" section-id="03-04a">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Управление судном и обязанность проявлять осторожность.</s>
+          <break time="600ms" />
+          <s>Владелец удостоверения не обязан сам стоять у руля. Он может позволить управлять судном «подходящему лицу» — не моложе 15 лет — даже без удостоверения. Однако он остаётся полностью ответственным за всё, что происходит на борту. Во всех ситуациях он обязан соблюдать «общую обязанность проявлять осторожность».</s>
+          <break time="600ms" />
+          <s>Запомните</s>
+          <break time="600ms" />
+          <s>В опасных ситуациях судоводитель обязан принять все меры для предотвращения опасности, даже если при этом приходится нарушить действующие правила.</s>
+          <break time="600ms" />
+          <s>Запомните</s>
+          <break time="600ms" />
+          <s>Необходимо делать всё возможное, чтобы избежать угрозы человеческой жизни, повреждения судов, сооружений и берегов, помех судоходству и ущерба окружающей среде.</s>
+          <break time="600ms" />
+          <s>Если на борту находятся несколько владельцев удостоверений, перед отходом один из них должен быть назначен ответственным судоводителем. Его указания обязательны для выполнения.</s>
+          <break time="600ms" />
+          <s>Запрещается:</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-06-de" chapter="03" slide="6" lang="de" section-id="03-04b">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Schiffsführung und Sorgfaltspflicht.</s>
+          <break time="600ms" />
+          <s>Grober Unfug ist es, mit einem schnellen Motorboot ein Schiff zu umkreisen.</s>
+          <break time="600ms" />
+          <s>Mit 0,5 Promille und mehr besteht Fahrverbot. Ebenso bei Übermüdung oder einer Beeinträchtigung durch Medikamente oder Drogen.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-06-ru" chapter="03" slide="6" lang="ru" section-id="03-04b">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Управление судном и обязанность проявлять осторожность.</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-07-de" chapter="03" slide="7" lang="de" section-id="03-05">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+      <voice name="de-DE-Florian:DragonHDLatestNeural" xml:lang="de-DE">
+        <p>
+          <s>Geschwindigkeitsbeschränkungen.</s>
+          <break time="600ms" />
+          <s>Sie bestehen auf vielen Gewässern. Gelten die Geschwindigkeitsbeschränkungen nur für einzelne Streckenabschnitte, sind sie durch entsprechende Hinweisschilder markiert.</s>
+          <break time="600ms" />
+          <s>Generelle Geschwindigkeitsbeschränkung besteht beispielsweise auf Kanälen. Aber auch beim Passieren von wasserbaulichen Anlagen und Baggern muss mit der Fahrt so weit heruntergegangen werden, dass Sog und Wellenschlag vermieden werden.</s>
+          <break time="600ms" />
+          <s>Informationen über zeitweilige Verkehrsbeschränkungen, Fahrwassersperrungen und Ähnliches gibt es bei den Wasser- und Schifffahrtsverwaltungen (www.elwis.de) und der Wasserschutzpolizei.</s>
+          <break time="600ms" />
+          <s>Erreicht oder überschreitet der Wasserstand an den Richtpegeln die Hochwassermarke I, ist auf zusätzliche Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen zu achten. Es gilt ein Fahrverbot für Schiffe ohne Sprechfunk auf bestimmten Wasserstraßenabschnitten (z. B. des Rheins).</s>
+          <break time="600ms" />
+          <s>Erreicht oder überschreitet der Wasserstand die Hochwassermarke II, ist die Fahrt sofort einzustellen. Normalerweise hat ein Sportboot bei Hochwasser ohnehin nichts mehr auf dem Gewässer verloren.</s>
+          <break time="600ms" />
+          <s>Informationen über die jeweiligen Wasserstände kommen von der Wasser- und Schifffahrtsverwaltung (Nachrichten im Rundfunk, Fernsehen, Internet und Nautischen Informationsfunk).</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+  <segment id="chapter-03-07-ru" chapter="03" slide="7" lang="ru" section-id="03-05">
+    <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="ru-RU">
+      <voice name="ru-RU-DmitryNeural" xml:lang="ru-RU">
+        <p>
+          <s>Ограничения скорости.</s>
+          <break time="600ms" />
+          <s>Они действуют на многих водоёмах. Если ограничения скорости относятся только к отдельным участкам, они обозначаются соответствующими знаками.</s>
+          <break time="600ms" />
+          <s>Общие ограничения скорости действуют, например, на каналах. Также при прохождении гидротехнических сооружений и земснарядов необходимо снижать скорость так, чтобы избежать сильного течения и волнения.</s>
+          <break time="600ms" />
+          <s>Информацию о временных ограничениях движения, закрытии фарватеров и подобных мерах можно получить в управлениях водных путей и судоходства (www.elwis.de) и в водной полиции.</s>
+          <break time="600ms" />
+          <s>Если уровень воды на контрольных гидропостах достигает или превышает отметку паводка I, необходимо учитывать дополнительные ограничения скорости и движения. На некоторых участках водных путей (например, на Рейне) вводится запрет на движение судов без радиосвязи.</s>
+          <break time="600ms" />
+          <s>Если уровень воды достигает или превышает отметку паводка II, движение должно быть немедленно прекращено. Обычно при таком уровне воды прогулочным судам вообще не следует находиться на водоёме.</s>
+          <break time="600ms" />
+          <s>Информацию о текущих уровнях воды предоставляет управление водных путей и судоходства (сообщения по радио, телевидению, интернету и навигационному информационному радио).</s>
+        </p>
+      </voice>
+    </speak>
+  </segment>
+</tts-batch>
